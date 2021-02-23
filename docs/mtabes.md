@@ -27,7 +27,7 @@ http://119.172.242.147/api/v1/search
     - 0: do not return entity labels, description, mapping URLs of DBpedia and Wikipedia.
     - 1: return entity labels, description, mapping URLs of DBpedia and Wikipedia.
 - expensive: one of two value [0, 1]. The default value is 0.
-    - 0: efficiency mode. Fuzzy early stopping ounce finding answers or heuristics stopping if there are too many candidates. 
+    - 0: efficiency mode. Fuzzy early stopping when there is a relevant answer available or heuristics stopping if there are too many candidates. 
     - 1: Brute-force search. This mode could slightly improve search performance (improve 1-2%), but it might take a long time to get answers (about ten times longer than the efficiency mode).
 ### Examples:
 Searching an entity with a query of "2MASS J10540655-0031018". 

@@ -1,0 +1,1415 @@
+{
+  "n_tables": 2,
+  "status": "Success",
+  "tables": [
+    {
+      "file_name": "0CF12YZK.csv",
+      "run_time": 28.576568126678467,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Price,_Utah",
+              "wikidata": "http://www.wikidata.org/entity/Q482891",
+              "wikipedia": "http://en.wikipedia.org/wiki/Price,_Utah"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Amguid_crater",
+              "wikidata": "http://www.wikidata.org/entity/Q248727",
+              "wikipedia": "http://en.wikipedia.org/wiki/Amguid_crater"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Zucchius_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q227650",
+              "wikipedia": "http://en.wikipedia.org/wiki/Zucchius_(crater)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Capella",
+              "wikidata": "http://www.wikidata.org/entity/Q12970",
+              "wikipedia": "http://en.wikipedia.org/wiki/Capella"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gaudibert_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q211287",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gaudibert_(crater)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Thales_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q201509",
+              "wikipedia": "http://en.wikipedia.org/wiki/Thales_(crater)"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q697934"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Lagrange_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q195032",
+              "wikipedia": "http://en.wikipedia.org/wiki/Lagrange_(crater)"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Regiomontanus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q175368",
+              "wikipedia": "http://en.wikipedia.org/wiki/Regiomontanus_(crater)"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/De_Gasparis_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q168113",
+              "wikipedia": "http://en.wikipedia.org/wiki/De_Gasparis_(crater)"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Adams_(lunar_crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q166188",
+              "wikipedia": "http://en.wikipedia.org/wiki/Adams_(lunar_crater)"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gardnos_crater",
+              "wikidata": "http://www.wikidata.org/entity/Q164971",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gardnos_crater"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Diophantus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q164095",
+              "wikipedia": "http://en.wikipedia.org/wiki/Diophantus_(crater)"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Agrippa_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q153150",
+              "wikipedia": "http://en.wikipedia.org/wiki/Agrippa_(crater)"
+            },
+            "target": [
+              14,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Agatharchides_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q153140",
+              "wikipedia": "http://en.wikipedia.org/wiki/Agatharchides_(crater)"
+            },
+            "target": [
+              15,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cavendish_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q143729",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cavendish_(crater)"
+            },
+            "target": [
+              16,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Mersenius_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q143365",
+              "wikipedia": "http://en.wikipedia.org/wiki/Mersenius_(crater)"
+            },
+            "target": [
+              17,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Zagut_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q140418",
+              "wikipedia": "http://en.wikipedia.org/wiki/Zagut_(crater)"
+            },
+            "target": [
+              18,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Hausen_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q134149",
+              "wikipedia": "http://en.wikipedia.org/wiki/Hausen_(crater)"
+            },
+            "target": [
+              19,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Abulfeda_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q133615",
+              "wikipedia": "http://en.wikipedia.org/wiki/Abulfeda_(crater)"
+            },
+            "target": [
+              20,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q22239279"
+            },
+            "target": [
+              21,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Anděl_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q130049",
+              "wikipedia": "http://en.wikipedia.org/wiki/Anděl_(crater)"
+            },
+            "target": [
+              22,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aristoteles_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q128108",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aristoteles_(crater)"
+            },
+            "target": [
+              23,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aristillus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q128041",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aristillus_(crater)"
+            },
+            "target": [
+              24,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Harpalus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q128035",
+              "wikipedia": "http://en.wikipedia.org/wiki/Harpalus_(crater)"
+            },
+            "target": [
+              25,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Eudoxus_(lunar_crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q128013",
+              "wikipedia": "http://en.wikipedia.org/wiki/Eudoxus_(lunar_crater)"
+            },
+            "target": [
+              26,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Laroin",
+              "wikidata": "http://www.wikidata.org/entity/Q198121",
+              "wikipedia": "http://en.wikipedia.org/wiki/Laroin"
+            },
+            "target": [
+              27,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Philolaus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q116169",
+              "wikipedia": "http://en.wikipedia.org/wiki/Philolaus_(crater)"
+            },
+            "target": [
+              28,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Mouche",
+              "wikidata": "http://www.wikidata.org/entity/Q18411720",
+              "wikipedia": "http://en.wikipedia.org/wiki/Mouche"
+            },
+            "target": [
+              29,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pascal_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q115739",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pascal_(crater)"
+            },
+            "target": [
+              30,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Plato_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q115383",
+              "wikipedia": "http://en.wikipedia.org/wiki/Plato_(crater)"
+            },
+            "target": [
+              31,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Abel_(disambiguation)",
+              "wikidata": "http://www.wikidata.org/entity/Q224167",
+              "wikipedia": "http://en.wikipedia.org/wiki/Abel_(disambiguation)"
+            },
+            "target": [
+              32,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Abul_Wafa_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q115062",
+              "wikipedia": "http://en.wikipedia.org/wiki/Abul_Wafa_(crater)"
+            },
+            "target": [
+              33,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Saussure_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q74583",
+              "wikipedia": "http://en.wikipedia.org/wiki/Saussure_(crater)"
+            },
+            "target": [
+              34,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Longomontanus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q73533",
+              "wikipedia": "http://en.wikipedia.org/wiki/Longomontanus_(crater)"
+            },
+            "target": [
+              35,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Orontius_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q64067",
+              "wikipedia": "http://en.wikipedia.org/wiki/Orontius_(crater)"
+            },
+            "target": [
+              36,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Esclangon_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q63694",
+              "wikipedia": "http://en.wikipedia.org/wiki/Esclangon_(crater)"
+            },
+            "target": [
+              37,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kepler_(band)",
+              "wikidata": "http://www.wikidata.org/entity/Q6393189",
+              "wikipedia": "http://en.wikipedia.org/wiki/Kepler_(band)"
+            },
+            "target": [
+              38,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q45550018"
+            },
+            "target": [
+              39,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Daguerre_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q1157392",
+              "wikipedia": "http://en.wikipedia.org/wiki/Daguerre_(crater)"
+            },
+            "target": [
+              40,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q1057579"
+            },
+            "target": [
+              41,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cyrillus_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q1148824",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cyrillus_(crater)"
+            },
+            "target": [
+              42,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Curtius_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q1145827",
+              "wikipedia": "http://en.wikipedia.org/wiki/Curtius_(crater)"
+            },
+            "target": [
+              43,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Crüger_(crater)",
+              "wikidata": "http://www.wikidata.org/entity/Q1142589",
+              "wikipedia": "http://en.wikipedia.org/wiki/Crüger_(crater)"
+            },
+            "target": [
+              44,
+              0
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/prop/direct/P4511"
+            },
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/prop/direct/P2386"
+            },
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Impact_crater",
+              "wikidata": "http://www.wikidata.org/entity/Q55818",
+              "wikipedia": "http://en.wikipedia.org/wiki/Impact_crater"
+            },
+            "target": 0
+          }
+        ]
+      },
+      "structure": {
+        "columns": 3,
+        "core_attribute": 0,
+        "header": [
+          0
+        ],
+        "missing ratio": 0,
+        "row": 45,
+        "table type": "vertical relation"
+      },
+      "table_id": "0CF12YZK"
+    },
+    {
+      "file_name": "K0PM5GMK.csv",
+      "run_time": 17.138594150543213,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q32094061"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q244822"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q30302686"
+            },
+            "target": [
+              1,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q27966457"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Czechoslovakia",
+              "wikidata": "http://www.wikidata.org/entity/Q33946",
+              "wikipedia": "http://en.wikipedia.org/wiki/Czechoslovakia"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              2,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q27089347"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Peru",
+              "wikidata": "http://www.wikidata.org/entity/Q419",
+              "wikipedia": "http://en.wikipedia.org/wiki/Peru"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              3,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q7382095"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Russia",
+              "wikidata": "http://www.wikidata.org/entity/Q159",
+              "wikipedia": "http://en.wikipedia.org/wiki/Russia"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              4,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q5718706"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              5,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q5718562"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              6,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q5558049"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              7,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q24942296"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green",
+              "wikidata": "http://www.wikidata.org/entity/Q3133",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              8,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q24942285"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              9,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q4485721"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/German_Reich",
+              "wikidata": "http://www.wikidata.org/entity/Q41304",
+              "wikipedia": "http://en.wikipedia.org/wiki/Weimar_Republic"
+            },
+            "target": [
+              10,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              10,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q11698194"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green",
+              "wikidata": "http://www.wikidata.org/entity/Q3133",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green"
+            },
+            "target": [
+              11,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Malta",
+              "wikidata": "http://www.wikidata.org/entity/Q233",
+              "wikipedia": "http://en.wikipedia.org/wiki/Malta"
+            },
+            "target": [
+              11,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q30302686"
+            },
+            "target": [
+              11,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_the_People's_Liberation_Army",
+              "wikidata": "http://www.wikidata.org/entity/Q10872945",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_the_People's_Liberation_Army"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              12,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              12,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970435"
+            },
+            "target": [
+              12,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q11913350"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              13,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Czech_Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q213",
+              "wikipedia": "http://en.wikipedia.org/wiki/Czech_Republic"
+            },
+            "target": [
+              13,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970430"
+            },
+            "target": [
+              13,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q1006483"
+            },
+            "target": [
+              14,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              14,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weimar_Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q183",
+              "wikipedia": "http://en.wikipedia.org/wiki/Germany"
+            },
+            "target": [
+              14,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q30302686"
+            },
+            "target": [
+              14,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_the_Armenian_Soviet_Socialist_Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q877603",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_the_Armenian_Soviet_Socialist_Republic"
+            },
+            "target": [
+              15,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              15,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Armenian_Soviet_Socialist_Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q132856",
+              "wikipedia": "http://en.wikipedia.org/wiki/Armenian_Soviet_Socialist_Republic"
+            },
+            "target": [
+              15,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q30302657"
+            },
+            "target": [
+              15,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Piedmont",
+              "wikidata": "http://www.wikidata.org/entity/Q1094206",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Piedmont"
+            },
+            "target": [
+              16,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              16,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Italy",
+              "wikidata": "http://www.wikidata.org/entity/Q38",
+              "wikipedia": "http://en.wikipedia.org/wiki/Italy"
+            },
+            "target": [
+              16,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              16,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Transnistria",
+              "wikidata": "http://www.wikidata.org/entity/Q907112",
+              "wikipedia": "http://en.wikipedia.org/wiki/Transnistria"
+            },
+            "target": [
+              17,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green",
+              "wikidata": "http://www.wikidata.org/entity/Q3133",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green"
+            },
+            "target": [
+              17,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Moldova",
+              "wikidata": "http://www.wikidata.org/entity/Q217",
+              "wikipedia": "http://en.wikipedia.org/wiki/Moldova"
+            },
+            "target": [
+              17,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q30302657"
+            },
+            "target": [
+              17,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Crimea",
+              "wikidata": "http://www.wikidata.org/entity/Q225489",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Crimea"
+            },
+            "target": [
+              18,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              18,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Russia",
+              "wikidata": "http://www.wikidata.org/entity/Q159",
+              "wikipedia": "http://en.wikipedia.org/wiki/Russia"
+            },
+            "target": [
+              18,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q30302657"
+            },
+            "target": [
+              18,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Guernsey",
+              "wikidata": "http://www.wikidata.org/entity/Q158591",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Guernsey"
+            },
+            "target": [
+              19,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              19,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Guernsey",
+              "wikidata": "http://www.wikidata.org/entity/Q25230",
+              "wikipedia": "http://en.wikipedia.org/wiki/Bailiwick_of_Guernsey"
+            },
+            "target": [
+              19,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              19,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Saba",
+              "wikidata": "http://www.wikidata.org/entity/Q429900",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Saba"
+            },
+            "target": [
+              20,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              20,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kingdom_of_the_Netherlands",
+              "wikidata": "http://www.wikidata.org/entity/Q55",
+              "wikipedia": "http://en.wikipedia.org/wiki/Netherlands"
+            },
+            "target": [
+              20,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              20,
+              3
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/prop/direct/P462"
+            },
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/prop/direct/P17"
+            },
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/prop/direct/P2061"
+            },
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag",
+              "wikidata": "http://www.wikidata.org/entity/Q14660",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag"
+            },
+            "target": 0
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Color",
+              "wikidata": "http://www.wikidata.org/entity/Q1075",
+              "wikipedia": "http://en.wikipedia.org/wiki/Color"
+            },
+            "target": 1
+          },
+          {
+            "annotation": {
+              "wikidata": "http://www.wikidata.org/entity/Q20970434"
+            },
+            "target": 3
+          }
+        ]
+      },
+      "structure": {
+        "columns": 4,
+        "core_attribute": 0,
+        "header": [
+          0
+        ],
+        "missing ratio": 0,
+        "row": 21,
+        "table type": "vertical relation"
+      },
+      "table_id": "K0PM5GMK"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ MTab: Tabular Data Annotation
 ### Features:
 - Semantic Annotation with knowledge graphs: Wikidata, Wikipedia, DBpedia
     - Cells to Entities: Similar to SemTab CEA task
-    - Table attributes to Entity types, or classes. The tool currently support table attributes as table columns. 
+    - Table attributes to Entity types, or classes. Currently, the tool supports table attributes as table columns. 
     - The relation between table attributes to property. The tool currently supports table attributes as table columns
 - Structure Annotation: (under development)
   - Table types: matrix, relational, layout
@@ -31,7 +31,7 @@ mytable.zip
 |-- cpa.csv (The relation between two columns in the format of [table ID, column 1, column 2]
 ```
 
-Note that: After processing the data and return the annotation, we will delete your data immediately. 
+Note that: After processing your tables, we will delete your data immediately. 
 
 ### Examples:
 Making annotations for two tables in [mytable.zip](mytables.zip). 

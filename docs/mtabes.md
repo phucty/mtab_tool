@@ -20,19 +20,19 @@ https://mtab.app/api/v1/search
 - limit: maximum number of relevant entities to return. The value should be from 1 to 1000. The default value is 20.
 - m: one of three value [b, f, a]. The default value is a.
     - b: keywords search with BM25 (hyper-parameters: b=0.75, k1=1.2).
-    - f: fuzzy search with edit-distance (Damerau–Levenshtein distance). 
-    - a: the weighted aggregation of BM25 and fuzzy search. This model yields slightly better performance than fuzzy search.
+    - f: fuzzy search with an edit-distance (Damerau–Levenshtein distance). 
+    - a: the weighted aggregation of keyword search and fuzzy search. This model yields slightly better performance (1-3 % accuracy improvement) than fuzzy search.
     
 - info: one of two value [0, 1]. The default value is 0.
     - 0: do not return entity labels, description, mapping URLs of DBpedia and Wikipedia.
     - 1: return entity labels, description, mapping URLs of DBpedia and Wikipedia.
 - expensive: one of two value [0, 1]. The default value is 0.
-    - 0: efficiency mode. Fuzzy early stopping when there is a relevant answer available or heuristics stopping if there are too many candidates. 
-    - 1: Brute-force search. This mode could slightly improve search performance (improve 1-2%), but it might take a long time to get answers (about ten times longer than the efficiency mode).
+    - 0: efficiency mode. Perform early stopping in the fuzzy search. 
+    - 1: Brute-force search. This mode could slightly improve search performance (improve 1-2% accuracy), but it might take a long time to get answers (about ten times longer than the efficiency mode).
 ### Examples:
-Searching an entity with a query of "2MASS J10540655-0031018". 
+Searching a query of "2MASS J10540655-0031018". 
 
-Note that: we do not have the answers by using the standard lookup (Wikidata, Wikipedia, DBpedia, or Google Search) 
+Note that: At 2021/01/01, we could not get any answer by using the standard lookup (Wikidata, Wikipedia, DBpedia, or Google Search) 
 
 **Command:** 
 ```

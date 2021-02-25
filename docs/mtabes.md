@@ -10,10 +10,10 @@ MTabES: Entity Search
 
 
 ### Interface:
-http://119.172.242.147
+https://mtab.app
 
 ### API URL:
-http://119.172.242.147/api/v1/search
+https://mtab.app/api/v1/search
 
 ### Parameter: 
 - q: search query. This parameter is required.
@@ -36,7 +36,7 @@ Note that: we do not have the answers by using the standard lookup (Wikidata, Wi
 
 **Command:** 
 ```
-% curl -X GET "http://119.172.242.147/api/v1/search?limit=3&m=a&info=1&q=2MASS%20J10540655-0031018"
+% curl -X GET "https://mtab.app/api/v1/search?limit=3&m=a&info=1&q=2MASS%20J10540655-0031018"
 ```
 Expected Answer:
 ```json5

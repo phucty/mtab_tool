@@ -17,7 +17,7 @@ MTab: Tabular Data Annotation
 - Good for table interpretation, data integration, and knowledge discovery.
 
 ### API URL:
-http://119.172.242.147/api/v1/mtab
+https://mtab.app/api/v1/mtab
 
 ### Parameter: 
 Currently, the tool only supports the input of the SemTab 2020 challenge, where the tool will accept a zip file with the format like the [mytable.zip](mytables.zip) file.
@@ -37,7 +37,7 @@ Note that: After processing the data and return the annotation, we will delete y
 Making annotations for two tables in [mytable.zip](mytables.zip). 
 **Command:** 
 ```
-% curl -X POST -F file=@"YOUR_ZIP_FILE_LOCATION/mytables.zip" http://119.172.242.147/api/v1/mtab
+% curl -X POST -F file=@"YOUR_ZIP_FILE_LOCATION/mytables.zip" https://mtab.app/api/v1/mtab
 ```
 Expected Answer:
 

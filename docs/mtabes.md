@@ -70,13 +70,19 @@ Expected Answer:
 }
 ```
 **MTabES Benchmarking:** 
-  - SemTab 2020 Round 1
-    <img src="https://github.com/phucty/mtab_tool/blob/master/data/results/MTabES/SemTabR1.png" width="400">
-  - SemTab 2020 Round 2
-    <img src="https://github.com/phucty/mtab_tool/blob/master/data/results/MTabES/SemTabR2.png" width="400">
-  - SemTab 2020 Round 3
-    <img src="https://github.com/phucty/mtab_tool/blob/master/data/results/MTabES/SemTabR3.png" width="400">
-  - SemTab 2020 Round 4
-    <img src="https://github.com/phucty/mtab_tool/blob/master/data/results/MTabES/SemTabR4.png" width="400">
-  - Tough Tables
-    <img src="https://github.com/phucty/mtab_tool/blob/master/data/results/MTabES/SemTab2T.png" width="400">
+
+- SemTab 2020 Round 1 
+  
+![](../data/results/MTabES/SemTabR1.png)
+- SemTab 2020 Round 2 
+  
+![](../data/results/MTabES/SemTabR2.png)
+- SemTab 2020 Round 3 
+  
+![](../data/results/MTabES/SemTabR3.png)
+- SemTab 2020 Round 4 
+  
+![](../data/results/MTabES/SemTabR4.png)
+- Tough Tables 
+  
+![](../data/results/MTabES/SemTab2T.png)

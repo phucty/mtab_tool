@@ -22,5 +22,6 @@ Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia an
 ### Awards:
 - 1st prize at SemTab 2020 (tabular data to Wikidata matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/results.html)
 - 1st prize at SemTab 2019 (tabular data to DBpedia matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/results.html)
+
 ### Contact
-Phuc Nguyen - phucnt@nii.ac.jp
+Phuc Nguyen (`phucnt@nii.ac.jp`)

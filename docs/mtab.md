@@ -99,7 +99,8 @@ Refer to the [mytables.json](mytables.json) as the full answers
   ]
 }
 ```
-** Examples **
+
+### Other Examples:
 
 Input: Tabular data
 

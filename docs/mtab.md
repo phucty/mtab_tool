@@ -99,3 +99,22 @@ Refer to the [mytables.json](mytables.json) as the full answers
   ]
 }
 ```
+** Examples **
+
+Input: Tabular data
+
+| col0                    | col1     | col2       | col3       |
+|-------------------------|----------|------------|------------|
+| 2MASS J10540655-0031018 | -5.7     | 19.3716366 | 13.6356351 |
+| 2MASS J0464841+0715177  | -2.77475 | 26.671236  | 11.8187551 |
+| 2MAS J08351104+2006371  | 72.216   | 3.7242888  | 128.151961 |
+| 2MASS J08330994+186328  | -6.993   | 6.0962562  | 127.649963 |
+
+Output: Annotated data
+
+| [star](http://www.wikidata.org/entity/Q523)                    | [radial velocity](http://www.wikidata.org/prop/direct/P2216) | [parallax](http://www.wikidata.org/prop/direct/P2214) | [right ascension](http://www.wikidata.org/prop/direct/P6257)    |
+|-------------------------|-----------------|----------|--------------------|
+| [2MASS J00540655-0031018](http://www.wikidata.org/entity/Q222120) | -5.70           | 19.2561  | 13.52741580209200  |
+| [2MASS J00464841+0715177](http://www.wikidata.org/entity/Q222110) | -2.75           | 26.6180  | 11.70173767885790  |
+| [2MASS J08351104+2006371](http://www.wikidata.org/entity/Q78611172) | 72              | 3.6984   | 128.79594070217040 |
+| [2MASS J08330994+1806328](http://www.wikidata.org/entity/Q78610810) | -7              | 6.1146   | 128.29142004157090 |

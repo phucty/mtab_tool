@@ -1,5 +1,5 @@
-<img src="static/images/logo_mtab.png" width="200" alt="MTab">
-===========
+<img src="static/images/logo_mtab.png" height="100" alt="MTab">
+
 ---
 
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)

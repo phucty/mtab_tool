@@ -1,7 +1,11 @@
-MTab Tools 
+<img src="static/images/logo_mtab.png" width="200" alt="MTab">
 ===========
 ---
-Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
+
+MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
+### Demo
+https://mtab.app
+
 ### API usage
 - Entity Search: [MTabES](docs/mtabes.md)
   - Request Example: [entity search](api/lookup/m_mtabes.py)

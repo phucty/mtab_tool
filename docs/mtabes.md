@@ -35,11 +35,11 @@ Searching a query of "2MASS J10540655-0031018".
 Note that: At 2021/01/01, we could not get any answer by using the standard lookup (Wikidata, Wikipedia, DBpedia, or Google Search) 
 
 **Command:** 
-```
+```bash
 % curl -X GET "https://mtab.app/api/v1/search?limit=3&m=a&info=1&q=2MASS%20J10540655-0031018"
 ```
 Expected Answer:
-```json5
+```json
 {
   "hits": [
     {
@@ -73,16 +73,16 @@ Expected Answer:
 
 - SemTab 2020 Round 1 
   
-![](../data/results/MTabES/SemTabR1.png)
+![](../static/images/MTabESSemTabR1.png)
 - SemTab 2020 Round 2 
   
-![](../data/results/MTabES/SemTabR2.png)
+![](../static/images/MTabESSemTabR2.png)
 - SemTab 2020 Round 3 
   
-![](../data/results/MTabES/SemTabR3.png)
+![](../static/images/MTabESSemTabR3.png)
 - SemTab 2020 Round 4 
   
-![](../data/results/MTabES/SemTabR4.png)
+![](../static/images/MTabESSemTabR4.png)
 - Tough Tables 
   
-![](../data/results/MTabES/SemTab2T.png)
+![](../static/images/MTabESSemTab2T.png)

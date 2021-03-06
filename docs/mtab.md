@@ -1,6 +1,7 @@
 MTab: Tabular Data Annotation
 ===========
 ---
+
 **Under development**
 ### Features:
 - Semantic Annotation with knowledge graphs: Wikidata, Wikipedia, DBpedia
@@ -20,7 +21,7 @@ MTab: Tabular Data Annotation
 https://mtab.app/api/v1/mtab
 
 ### Parameter: 
-Currently, the tool only supports the input of the SemTab 2020 challenge, where the tool will accept a zip file with the format like the [mytable.zip](mytables.zip) file.
+Currently, the tool only supports the input of the SemTab 2020 challenge, where the tool will accept a zip file with the format like the [mytable.zip](../static/others/mytables.zip) file.
 ```
 mytable.zip
 |-- tables (folder)
@@ -34,15 +35,15 @@ mytable.zip
 Note that: After processing your tables, we will delete your data immediately. 
 
 ### Examples:
-Making annotations for two tables in [mytable.zip](mytables.zip). 
+Making annotations for two tables in [mytable.zip](../static/others/mytables.zip). 
 **Command:** 
-```
+```bash
 % curl -X POST -F file=@"YOUR_ZIP_FILE_LOCATION/mytables.zip" https://mtab.app/api/v1/mtab
 ```
 Expected Answer:
 
-Refer to the [mytables.json](mytables.json) as the full answers
-```json5
+Refer to the [mytables.json](../static/others/mytables.json) as the full answers
+```json
 {
   "n_tables": 2,
   "status": "Success",

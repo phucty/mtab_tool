@@ -1,10 +1,11 @@
-<img src="interface/static/images/logo_mtab_2.png" height="100" alt="MTab">
+<img src="interface/static/images/logo_mtab_1.png" height="120" alt="MTab">
 
 ---
 
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 ### Demo
-https://mtab.app
+- Entity Search: https://mtab.app/mtabes
+- Table Annotation: https://mtab.app/mtab
 
 ### API usage
 - Entity Search: [MTabES](docs/mtabes.md)

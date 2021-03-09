@@ -1,4 +1,4 @@
-<img src="static/images/logo_mtab_2.png" height="100" alt="MTab">
+<img src="interface/static/images/logo_mtab_2.png" height="100" alt="MTab">
 
 ---
 

@@ -17,11 +17,14 @@ MTab: Tabular Data Annotation
   - languages
 - Good for table interpretation, data integration, and knowledge discovery.
 
+### Interface:
+https://mtab.app/mtab
+
 ### API URL:
 https://mtab.app/api/v1/mtab
 
 ### Parameter: 
-Currently, the tool only supports the input of the SemTab 2020 challenge, where the tool will accept a zip file with the format like the [mytable.zip](../static/others/mytables.zip) file.
+Currently, the tool only supports the input of the SemTab 2020 challenge, where the tool will accept a zip file with the format like the [mytable.zip](../interface/static/others/mytables.zip) file.
 ```
 mytable.zip
 |-- tables (folder)
@@ -35,14 +38,14 @@ mytable.zip
 Note that: After processing your tables, we will delete your data immediately. 
 
 ### Examples:
-Making annotations for two tables in [mytable.zip](../static/others/mytables.zip). 
+Making annotations for two tables in [mytable.zip](../interface/static/others/mytables.zip). 
 **Command:** 
 ```bash
 % curl -X POST -F file=@"YOUR_ZIP_FILE_LOCATION/mytables.zip" https://mtab.app/api/v1/mtab
 ```
 Expected Answer:
 
-Refer to the [mytables.json](../static/others/mytables.json) as the full answers
+Refer to the [mytables.json](../interface/static/others/mytables.json) as the full answers
 ```json
 {
   "n_tables": 2,
@@ -102,7 +105,9 @@ Refer to the [mytables.json](../static/others/mytables.json) as the full answers
 ```
 
 ### Other Examples:
-
+#### Table Annotation
+<img src="../static/images/mtab_pic.png" height="500" alt="">
+#### Data correction:
 Input: Tabular data
 
 | col0                    | col1     | col2       | col3       |

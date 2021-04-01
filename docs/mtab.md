@@ -29,7 +29,7 @@ Users can send table files (in CSV, Excel, TSV format) to the tool and get the a
 
 
 ### Annotate a table:
-Annotate a table in the Excel format [0AJSJYAL.xltx](https://github.com/phucty/mtab_tool/blob/master/interface/static/others/0AJSJYAL.xltx)
+Annotate a table in the Excel format [0AJSJYAL.xltx](https://github.com/phucty/mtab_tool/blob/master/static/others/0AJSJYAL.xltx)
 
 ```bash
 % curl -X POST -F file=@"YOUR_FILE_LOCATION/0AJSJYAL.xltx" https://mtab.app/api/v1/mtab
@@ -233,7 +233,7 @@ Expected Answer:
 ### Annotate multiple tables:
 Note: 
 - Please do not send more than 100 tables for one request to avoid data transmission corruption. (We only process 100 tables per request).
-- Please put your tables in a folder named tables and compress like this file [mytables.zip](https://github.com/phucty/mtab_tool/blob/master/interface/static/others/mytables.zip). (We only accept a compressed file in zip format to speed up data transmission) 
+- Please put your tables in a folder named tables and compress like this file [mytables.zip](https://github.com/phucty/mtab_tool/blob/master/static/others/mytables.zip). (We only accept a compressed file in zip format to speed up data transmission) 
 ```
 mytable.zip
 |-- tables (folder)
@@ -247,12 +247,12 @@ mytable.zip
 ```
 
 **Expected Answer:**
-Refer to the [mytables.json](https://github.com/phucty/mtab_tool/blob/master/interface/static/others/mytables.json) as the full answers
+Refer to the [mytables.json](https://github.com/phucty/mtab_tool/blob/master/static/others/mytables.json) as the full answers
 
 
 ### Annotate multiple tables with targets (CEA, CTA, and CPA as [SemTab challenge](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/)):
 Note:
-The format of the compressed file like [mytables_ntar.zip](https://github.com/phucty/mtab_tool/blob/master/interface/static/others/mytable_ntar.zip).
+The format of the compressed file like [mytables_ntar.zip](https://github.com/phucty/mtab_tool/blob/master/static/others/mytables_ntar.zip).
 ```
 mytable_ntar.zip
 |-- tables (folder)
@@ -270,7 +270,7 @@ mytable_ntar.zip
 ```
 **Expected Answer:**
 
-Refer to the [mytables_ntar.json](https://github.com/phucty/mtab_tool/blob/master/interface/static/others/mytables_ntar.json) as the full answers
+Refer to the [mytables_ntar.json](https://github.com/phucty/mtab_tool/blob/master/static/others/mytables_ntar.json) as the full answers
 
 ### Other Examples:
 #### Table Annotation

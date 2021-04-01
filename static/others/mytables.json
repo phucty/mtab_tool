@@ -1,0 +1,5698 @@
+{
+  "n_tables": 12,
+  "status": "Success",
+  "tables": [
+    {
+      "name": "0AJSJYAL",
+      "run_time": 0.6379730701446533,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Newport,_Arkansas",
+              "desc": "city in Arkansas, USA",
+              "label": "Newport",
+              "wikidata": "http://www.wikidata.org/entity/Q79414",
+              "wikipedia": "http://en.wikipedia.org/wiki/Newport,_Arkansas"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Thomas_(2001_film)",
+              "desc": "2001 film by Raffaele Mertes",
+              "label": "Thomas",
+              "wikidata": "http://www.wikidata.org/entity/Q2421872",
+              "wikipedia": "http://en.wikipedia.org/wiki/Thomas_(2001_film)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/8082_Haynes",
+              "desc": "asteroid",
+              "label": "8082 Haynes",
+              "wikidata": "http://www.wikidata.org/entity/Q533244",
+              "wikipedia": "http://en.wikipedia.org/wiki/8082_Haynes"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "family name",
+              "label": "Lampitt",
+              "wikidata": "http://www.wikidata.org/entity/Q37468695"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Solanki",
+              "desc": "family name",
+              "label": "Solanki",
+              "wikidata": "http://www.wikidata.org/entity/Q37521226",
+              "wikipedia": "http://en.wikipedia.org/wiki/Solanki"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weston,_Colorado",
+              "desc": "unincorporated community in Colorado",
+              "label": "Weston",
+              "wikidata": "http://www.wikidata.org/entity/Q7989353",
+              "wikipedia": "http://en.wikipedia.org/wiki/Weston,_Colorado"
+            },
+            "target": [
+              6,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Human_settlement",
+                "desc": "community of any size, in which people live",
+                "label": "human settlement",
+                "wikidata": "http://www.wikidata.org/entity/Q486972",
+                "wikipedia": "http://en.wikipedia.org/wiki/Human_settlement"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Surname",
+                "desc": "part of a naming scheme for individuals, used in many cultures worldwide",
+                "label": "family name",
+                "wikidata": "http://www.wikidata.org/entity/Q101352",
+                "wikipedia": "http://en.wikipedia.org/wiki/Surname"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 37,
+        "columns": 7,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.7551020408163265,
+        "rows": 7,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4",
+          "col5",
+          "col6"
+        ],
+        [
+          "Newport",
+          "31",
+          "8",
+          "95",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Thomas",
+          "30",
+          "5",
+          "98",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Haynes",
+          "25",
+          "8",
+          "68",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Lampitt",
+          "29.4",
+          "10",
+          "73",
+          "3",
+          "-",
+          "-"
+        ],
+        [
+          "Solanki",
+          "19",
+          "4",
+          "76",
+          "1",
+          "-",
+          "-"
+        ],
+        [
+          "Weston",
+          "1",
+          "0",
+          "1",
+          "0",
+          "-",
+          "-"
+        ]
+      ]
+    },
+    {
+      "name": "4EGV2QNO",
+      "run_time": 1.8586478233337402,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspren",
+              "desc": "Bishop of Naples",
+              "label": "Aspren",
+              "wikidata": "http://www.wikidata.org/entity/Q737911",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspren"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "trade name for Bayer Aspirin and many others",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q10420388"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              1,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              2,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Advil",
+              "desc": "nonsteroidal anti-inflammatory drug (Ibuprofen)",
+              "label": "Advil",
+              "wikidata": "http://www.wikidata.org/entity/Q16240691",
+              "wikipedia": "http://en.wikipedia.org/wiki/Advil"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              3,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Rectal_administration",
+              "desc": "way of administering drugs into the rectum to be absorbed by the rectum's blood vessels",
+              "label": "rectal",
+              "wikidata": "http://www.wikidata.org/entity/Q419892",
+              "wikipedia": "http://en.wikipedia.org/wiki/Rectal_administration"
+            },
+            "target": [
+              4,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "trade name for Bayer Aspirin and many others",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q10420388"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              5,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              6,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "combination drug",
+              "label": "Esomeprazole / Naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q48566717"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Naproxen",
+              "desc": "chemical compound",
+              "label": "naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q1215575",
+              "wikipedia": "http://en.wikipedia.org/wiki/Naproxen"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Naproxen",
+              "desc": "chemical compound",
+              "label": "naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q1215575",
+              "wikipedia": "http://en.wikipedia.org/wiki/Naproxen"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              7,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sertraline",
+              "desc": "chemical compound",
+              "label": "sertraline",
+              "wikidata": "http://www.wikidata.org/entity/Q407617",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sertraline"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Zoloft",
+              "wikidata": "http://www.wikidata.org/entity/Q47522126"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sertraline",
+              "desc": "chemical compound",
+              "label": "sertraline",
+              "wikidata": "http://www.wikidata.org/entity/Q407617",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sertraline"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              8,
+              3
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "the focus of an experiment, also called the experimental variable, research activity, or study intervention",
+                "label": "research intervention",
+                "wikidata": "http://www.wikidata.org/prop/direct/P4844"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "the focus of an experiment, also called the experimental variable, research activity, or study intervention",
+                "label": "research intervention",
+                "wikidata": "http://www.wikidata.org/prop/direct/P4844"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "the focus of an experiment, also called the experimental variable, research activity, or study intervention",
+                "label": "research intervention",
+                "wikidata": "http://www.wikidata.org/prop/direct/P4844"
+              }
+            ],
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "desc": "qualitative and quantitative composition of a medicinal product in the dose form authorized for administration by a medicines regulatory agency and as represented with any corresponding regulated product information",
+                "label": "pharmaceutical product",
+                "wikidata": "http://www.wikidata.org/entity/Q28885102"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Drug",
+                "desc": "chemical substance having an effect on the body",
+                "label": "drug",
+                "wikidata": "http://www.wikidata.org/entity/Q8386",
+                "wikipedia": "http://en.wikipedia.org/wiki/Drug"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chemical_compound",
+                "desc": "pure chemical substance consisting of two or more different chemical elements",
+                "label": "chemical compound",
+                "wikidata": "http://www.wikidata.org/entity/Q11173",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chemical_compound"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Drug",
+                "desc": "chemical substance having an effect on the body",
+                "label": "drug",
+                "wikidata": "http://www.wikidata.org/entity/Q8386",
+                "wikipedia": "http://en.wikipedia.org/wiki/Drug"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chemical_compound",
+                "desc": "pure chemical substance consisting of two or more different chemical elements",
+                "label": "chemical compound",
+                "wikidata": "http://www.wikidata.org/entity/Q11173",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chemical_compound"
+              }
+            ],
+            "target": 2
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Route_of_administration",
+                "desc": "path by which a drug, fluid, poison, or other substance is taken into the body",
+                "label": "route of administration",
+                "wikidata": "http://www.wikidata.org/entity/Q621636",
+                "wikipedia": "http://en.wikipedia.org/wiki/Route_of_administration"
+              }
+            ],
+            "target": 3
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 36,
+        "columns": 4,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 9,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "aspren",
+          "Bayer Aspirin",
+          "A01AD05",
+          "By mouth"
+        ],
+        [
+          "ibproufen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "iboprufen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "acetaminophen",
+          "Tylenol",
+          "N02BE01",
+          "Rectal"
+        ],
+        [
+          "aspirin",
+          "Bayer Aspirin",
+          "A01AD05",
+          "By mouth"
+        ],
+        [
+          "ibuprofen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "naproxen",
+          "Anaprox",
+          "G02CC02",
+          "By mouth"
+        ],
+        [
+          "sertraline",
+          "Zoloft",
+          "N06AB06",
+          "By mouth"
+        ]
+      ]
+    },
+    {
+      "name": "4FW66XNV",
+      "run_time": 0.3032419681549072,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Newport,_Arkansas",
+              "desc": "city in Arkansas, USA",
+              "label": "Newport",
+              "wikidata": "http://www.wikidata.org/entity/Q79414",
+              "wikipedia": "http://en.wikipedia.org/wiki/Newport,_Arkansas"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Thomas_(surname)",
+              "desc": "family name",
+              "label": "Thomas",
+              "wikidata": "http://www.wikidata.org/entity/Q1413324",
+              "wikipedia": "http://en.wikipedia.org/wiki/Thomas_(surname)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/8082_Haynes",
+              "desc": "asteroid",
+              "label": "8082 Haynes",
+              "wikidata": "http://www.wikidata.org/entity/Q533244",
+              "wikipedia": "http://en.wikipedia.org/wiki/8082_Haynes"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "family name",
+              "label": "Lampitt",
+              "wikidata": "http://www.wikidata.org/entity/Q37468695"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Bengali actress from India",
+              "label": "Solanki Roy",
+              "wikidata": "http://www.wikidata.org/entity/Q56702037",
+              "wikipedia": "http://en.wikipedia.org/wiki/Solanki_Roy"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weston,_Colorado",
+              "desc": "unincorporated community in Colorado",
+              "label": "Weston",
+              "wikidata": "http://www.wikidata.org/entity/Q7989353",
+              "wikipedia": "http://en.wikipedia.org/wiki/Weston,_Colorado"
+            },
+            "target": [
+              6,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Human_settlement",
+                "desc": "community of any size, in which people live",
+                "label": "human settlement",
+                "wikidata": "http://www.wikidata.org/entity/Q486972",
+                "wikipedia": "http://en.wikipedia.org/wiki/Human_settlement"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Surname",
+                "desc": "part of a naming scheme for individuals, used in many cultures worldwide",
+                "label": "family name",
+                "wikidata": "http://www.wikidata.org/entity/Q101352",
+                "wikipedia": "http://en.wikipedia.org/wiki/Surname"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 37,
+        "columns": 7,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.7551020408163265,
+        "rows": 7,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4",
+          "col5",
+          "col6"
+        ],
+        [
+          "Newportt",
+          "31",
+          "8",
+          "95",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Thomas",
+          "30",
+          "5",
+          "98",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Haynes",
+          "25",
+          "8",
+          "68",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Lammpitt",
+          "29.4",
+          "10",
+          "73",
+          "3",
+          "-",
+          "-"
+        ],
+        [
+          "Solankii",
+          "19",
+          "4",
+          "76",
+          "1",
+          "-",
+          "-"
+        ],
+        [
+          "Weston",
+          "1",
+          "0",
+          "1",
+          "0",
+          "-",
+          "-"
+        ]
+      ]
+    },
+    {
+      "name": "B7ILPH0Y",
+      "run_time": 1.0179510116577148,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Rectal_administration",
+              "desc": "way of administering drugs into the rectum to be absorbed by the rectum's blood vessels",
+              "label": "rectal",
+              "wikidata": "http://www.wikidata.org/entity/Q419892",
+              "wikipedia": "http://en.wikipedia.org/wiki/Rectal_administration"
+            },
+            "target": [
+              1,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "trade name for Bayer Aspirin and many others",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q10420388"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              2,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              3,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "combination drug",
+              "label": "Esomeprazole / Naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q48566717"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Naproxen",
+              "desc": "chemical compound",
+              "label": "naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q1215575",
+              "wikipedia": "http://en.wikipedia.org/wiki/Naproxen"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Naproxen",
+              "desc": "chemical compound",
+              "label": "naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q1215575",
+              "wikipedia": "http://en.wikipedia.org/wiki/Naproxen"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              4,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sertraline",
+              "desc": "chemical compound",
+              "label": "sertraline",
+              "wikidata": "http://www.wikidata.org/entity/Q407617",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sertraline"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Zoloft",
+              "wikidata": "http://www.wikidata.org/entity/Q47522126"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sertraline",
+              "desc": "chemical compound",
+              "label": "sertraline",
+              "wikidata": "http://www.wikidata.org/entity/Q407617",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sertraline"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              5,
+              3
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "is part of and forms biologically active component. Inverse of \"has active ingredient\"",
+                "label": "active ingredient in",
+                "wikidata": "http://www.wikidata.org/prop/direct/P3780"
+              },
+              {
+                "desc": "commercial brand associated with the item",
+                "label": "brand",
+                "wikidata": "http://www.wikidata.org/prop/direct/P1716"
+              },
+              {
+                "desc": "item that is different from another item, with which it is often confused",
+                "label": "different from",
+                "wikidata": "http://www.wikidata.org/prop/direct/P1889"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "the focus of an experiment, also called the experimental variable, research activity, or study intervention",
+                "label": "research intervention",
+                "wikidata": "http://www.wikidata.org/prop/direct/P4844"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "path by which a drug, fluid, poison, or other substance is taken into the body",
+                "label": "route of administration",
+                "wikidata": "http://www.wikidata.org/prop/direct/P636"
+              }
+            ],
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Drug",
+                "desc": "chemical substance having an effect on the body",
+                "label": "drug",
+                "wikidata": "http://www.wikidata.org/entity/Q8386",
+                "wikipedia": "http://en.wikipedia.org/wiki/Drug"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chemical_compound",
+                "desc": "pure chemical substance consisting of two or more different chemical elements",
+                "label": "chemical compound",
+                "wikidata": "http://www.wikidata.org/entity/Q11173",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chemical_compound"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Drug",
+                "desc": "chemical substance having an effect on the body",
+                "label": "drug",
+                "wikidata": "http://www.wikidata.org/entity/Q8386",
+                "wikipedia": "http://en.wikipedia.org/wiki/Drug"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chemical_compound",
+                "desc": "pure chemical substance consisting of two or more different chemical elements",
+                "label": "chemical compound",
+                "wikidata": "http://www.wikidata.org/entity/Q11173",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chemical_compound"
+              }
+            ],
+            "target": 2
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Route_of_administration",
+                "desc": "path by which a drug, fluid, poison, or other substance is taken into the body",
+                "label": "route of administration",
+                "wikidata": "http://www.wikidata.org/entity/Q621636",
+                "wikipedia": "http://en.wikipedia.org/wiki/Route_of_administration"
+              }
+            ],
+            "target": 3
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 24,
+        "columns": 4,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 6,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "acetaminophen",
+          "Tylenol",
+          "N02BE01",
+          "Rectal"
+        ],
+        [
+          "aspirin",
+          "Bayer Aspirin",
+          "A01AD05",
+          "By mouth"
+        ],
+        [
+          "ibuprofen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "naproxen",
+          "Anaprox",
+          "G02CC02",
+          "By mouth"
+        ],
+        [
+          "sertraline",
+          "Zoloft",
+          "N06AB06",
+          "By mouth"
+        ]
+      ]
+    },
+    {
+      "name": "BN8FOG7F",
+      "run_time": 1.3006682395935059,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Conservatism",
+              "desc": "political philosophy focused on retaining traditional social institutions",
+              "label": "conservatism",
+              "wikidata": "http://www.wikidata.org/entity/Q7169",
+              "wikipedia": "http://en.wikipedia.org/wiki/Conservatism"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Labour_Party_(UK)",
+              "desc": "political party in the United Kingdom",
+              "label": "Labour Party",
+              "wikidata": "http://www.wikidata.org/entity/Q9630",
+              "wikipedia": "http://en.wikipedia.org/wiki/Labour_Party_(UK)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Liberal_Democrats_(UK)",
+              "desc": "political party in the United Kingdom",
+              "label": "Liberal Democrats",
+              "wikidata": "http://www.wikidata.org/entity/Q9624",
+              "wikipedia": "http://en.wikipedia.org/wiki/Liberal_Democrats_(UK)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "street in Břeclav",
+              "label": "SNP",
+              "wikidata": "http://www.wikidata.org/entity/Q44728347"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/PC_(footballer)",
+              "desc": "Brazilian footballer",
+              "label": "PC",
+              "wikidata": "http://www.wikidata.org/entity/Q20641299",
+              "wikipedia": "http://en.wikipedia.org/wiki/PC_(footballer)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green_(disambiguation)",
+              "desc": "Wikimedia disambiguation page",
+              "label": "Green",
+              "wikidata": "http://www.wikidata.org/entity/Q223932",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green_(disambiguation)"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "protein-coding gene in the species Homo sapiens",
+              "label": "NPPB",
+              "wikidata": "http://www.wikidata.org/entity/Q14865348"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/SKIP",
+              "desc": "protein-coding gene in the species Homo sapiens",
+              "label": "INPP5K",
+              "wikidata": "http://www.wikidata.org/entity/Q18040568",
+              "wikipedia": "http://en.wikipedia.org/wiki/SKIP"
+            },
+            "target": [
+              8,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 5,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.9333333333333333,
+        "rows": 9,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4"
+        ],
+        [
+          "Conservative",
+          "8,895,066",
+          "37.3",
+          "254",
+          "34"
+        ],
+        [
+          "Labour",
+          "9,199,875",
+          "38.6",
+          "291",
+          "34"
+        ],
+        [
+          "Lib-Dem",
+          "2,519,729",
+          "10.6",
+          "37",
+          "8"
+        ],
+        [
+          "SNP",
+          "1,004,774",
+          "4.2",
+          "42",
+          ""
+        ],
+        [
+          "PC",
+          "313,433",
+          "1.3",
+          "7",
+          ""
+        ],
+        [
+          "Green",
+          "1,785,516",
+          "7.5",
+          "1",
+          "6"
+        ],
+        [
+          "BNP",
+          "112,864",
+          "0.5",
+          "0",
+          ""
+        ],
+        [
+          "UKIP",
+          "3,282,872",
+          "13.8",
+          "0",
+          "14"
+        ]
+      ]
+    },
+    {
+      "name": "HBKGJQEY",
+      "run_time": 2.472475051879883,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Walmart",
+              "desc": "U.S. discount retailer based in Arkansas",
+              "label": "Walmart",
+              "wikidata": "http://www.wikidata.org/entity/Q483551",
+              "wikipedia": "http://en.wikipedia.org/wiki/Walmart"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_National_Petroleum_Corporation",
+              "desc": "Chinese state-owned oil and gas corporation",
+              "label": "China National Petroleum Corporation",
+              "wikidata": "http://www.wikidata.org/entity/Q588786",
+              "wikipedia": "http://en.wikipedia.org/wiki/China_National_Petroleum_Corporation"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/FAW_Group",
+              "desc": "company",
+              "label": "FAW Group",
+              "wikidata": "http://www.wikidata.org/entity/Q1124351",
+              "wikipedia": "http://en.wikipedia.org/wiki/FAW_Group"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/State_Grid_Corporation_of_China",
+              "desc": "Chinese transmission system operator",
+              "label": "State Grid Corporation of China",
+              "wikidata": "http://www.wikidata.org/entity/Q209078",
+              "wikipedia": "http://en.wikipedia.org/wiki/State_Grid_Corporation_of_China"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Foxconn",
+              "desc": "Taiwanese multinational electronics contract manufacturing trading as Foxconn",
+              "label": "Foxconn",
+              "wikidata": "http://www.wikidata.org/entity/Q463094",
+              "wikipedia": "http://en.wikipedia.org/wiki/Foxconn"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Taiwan",
+              "desc": "A democratic republic in East Asia with limited recognition",
+              "label": "Taiwan",
+              "wikidata": "http://www.wikidata.org/entity/Q865",
+              "wikipedia": "http://en.wikipedia.org/wiki/Taiwan"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Volkswagen",
+              "desc": "automotive brand; manufacturing subsidiary of Volkswagen Group",
+              "label": "Volkswagen",
+              "wikidata": "http://www.wikidata.org/entity/Q246",
+              "wikipedia": "http://en.wikipedia.org/wiki/Volkswagen"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weimar_Republic",
+              "desc": "sovereign state in Central Europe",
+              "label": "Germany",
+              "wikidata": "http://www.wikidata.org/entity/Q183",
+              "wikipedia": "http://en.wikipedia.org/wiki/Germany"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Amazon_(company)",
+              "desc": "American electronic commerce and cloud computing company",
+              "label": "Amazon",
+              "wikidata": "http://www.wikidata.org/entity/Q3884",
+              "wikipedia": "http://en.wikipedia.org/wiki/Amazon_(company)"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sinopec",
+              "desc": "Chinese oil and gas company",
+              "label": "Sinopec",
+              "wikidata": "http://www.wikidata.org/entity/Q831445",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sinopec"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Compass_Group",
+              "desc": "company",
+              "label": "Compass Group",
+              "wikidata": "http://www.wikidata.org/entity/Q782697",
+              "wikipedia": "http://en.wikipedia.org/wiki/Compass_Group"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Great_Britain",
+              "desc": "country in Western Europe",
+              "label": "United Kingdom",
+              "wikidata": "http://www.wikidata.org/entity/Q145",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_Kingdom"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States_Postal_Service",
+              "desc": "independent agency of the U.S. federal government responsible for providing postal service",
+              "label": "United States Postal Service",
+              "wikidata": "http://www.wikidata.org/entity/Q668687",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States_Postal_Service"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              10,
+              2
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "sovereign state of this item (not to be used for human beings)",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/prop/direct/P17"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Organization",
+                "desc": "social entity (not necessarily commercial) uniting people into a structured group managing shared means to meet some needs, or to pursue collective goals",
+                "label": "organization",
+                "wikidata": "http://www.wikidata.org/entity/Q43229",
+                "wikipedia": "http://en.wikipedia.org/wiki/Organization"
+              },
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Country",
+                "desc": "distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/entity/Q6256",
+                "wikipedia": "http://en.wikipedia.org/wiki/Country"
+              }
+            ],
+            "target": 2
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 44,
+        "columns": 4,
+        "core_attribute": 1,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 11,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "1",
+          "Walmart",
+          "United States",
+          "2,200,000"
+        ],
+        [
+          "2",
+          "China National Petroleum",
+          "China",
+          "1,382,401"
+        ],
+        [
+          "3",
+          "China PPost Group",
+          "China",
+          "935,191"
+        ],
+        [
+          "4",
+          "State Grid",
+          "China",
+          "917,717"
+        ],
+        [
+          "5",
+          "Hon Hai Precision Industry (Foxconn))",
+          "Taiwan",
+          "667,680"
+        ],
+        [
+          "6",
+          "Volkswagen",
+          "Germany",
+          "664,496"
+        ],
+        [
+          "7",
+          "Amazon",
+          "United States",
+          "647,500"
+        ],
+        [
+          "8",
+          "Sinopec Groupp",
+          "China",
+          "619,151"
+        ],
+        [
+          "9",
+          "Compass Group",
+          "United Kingdom",
+          "595,841"
+        ],
+        [
+          "10",
+          "United States Postal  Service",
+          "United States",
+          "565,802"
+        ]
+      ]
+    },
+    {
+      "name": "ND6V1CBE",
+      "run_time": 4.2284510135650635,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Elvis_Presley",
+              "desc": "American singer and actor (1935–1977)",
+              "label": "Elvis Presley",
+              "wikidata": "http://www.wikidata.org/entity/Q303",
+              "wikipedia": "http://en.wikipedia.org/wiki/Elvis_Presley"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Tupelo,_Mississippi",
+              "desc": "city in and county seat of Lee County, Mississippi, United States",
+              "label": "Tupelo",
+              "wikidata": "http://www.wikidata.org/entity/Q667727",
+              "wikipedia": "http://en.wikipedia.org/wiki/Tupelo,_Mississippi"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Chairman_of_the_Board_(film)",
+              "desc": "1998 comedy film directed by Alex Zamm",
+              "label": "Chairman of the Board",
+              "wikidata": "http://www.wikidata.org/entity/Q5068089",
+              "wikipedia": "http://en.wikipedia.org/wiki/Chairman_of_the_Board_(film)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Les_Aspres",
+              "desc": "city in Hudson County, New Jersey",
+              "label": "Hoboken",
+              "wikidata": "http://www.wikidata.org/entity/Q138578",
+              "wikipedia": "http://en.wikipedia.org/wiki/Hoboken,_New_Jersey"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Piano_Man_(Billy_Joel_album)",
+              "desc": "album by Billy Joel",
+              "label": "Piano Man",
+              "wikidata": "http://www.wikidata.org/entity/Q1646081",
+              "wikipedia": "http://en.wikipedia.org/wiki/Piano_Man_(Billy_Joel_album)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/The_Bronx",
+              "desc": "borough of New York City, United States",
+              "label": "The Bronx",
+              "wikidata": "http://www.wikidata.org/entity/Q18426",
+              "wikipedia": "http://en.wikipedia.org/wiki/The_Bronx"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cootie_Stark",
+              "desc": "American Piedmont blues guitarist, singer and songwriter",
+              "label": "Cootie Stark",
+              "wikidata": "http://www.wikidata.org/entity/Q5168121",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cootie_Stark"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Berclair,_Mississippi",
+              "desc": "unincoporated community in Leflore County, Mississippi",
+              "label": "Berclair",
+              "wikidata": "http://www.wikidata.org/entity/Q4891112",
+              "wikipedia": "http://en.wikipedia.org/wiki/Berclair,_Mississippi"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/The_Boss_(Diana_Ross_song)",
+              "desc": "song by Diana Ross",
+              "label": "The Boss",
+              "wikidata": "http://www.wikidata.org/entity/Q3520065",
+              "wikipedia": "http://en.wikipedia.org/wiki/The_Boss_(Diana_Ross_song)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Long_Branch,_New_Jersey",
+              "desc": "city in New Jersey, United States",
+              "label": "Long Branch",
+              "wikidata": "http://www.wikidata.org/entity/Q995231",
+              "wikipedia": "http://en.wikipedia.org/wiki/Long_Branch,_New_Jersey"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/The_Beatles",
+              "desc": "English pop-rock band",
+              "label": "The Beatles",
+              "wikidata": "http://www.wikidata.org/entity/Q1299",
+              "wikipedia": "http://en.wikipedia.org/wiki/The_Beatles"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "South Korean boy band",
+              "label": "Trei",
+              "wikidata": "http://www.wikidata.org/entity/Q61608034",
+              "wikipedia": "http://en.wikipedia.org/wiki/Trei"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Johnny_Cash",
+              "desc": "American singer-songwriter and actor (1932-2003)",
+              "label": "Johnny Cash",
+              "wikidata": "http://www.wikidata.org/entity/Q42775",
+              "wikipedia": "http://en.wikipedia.org/wiki/Johnny_Cash"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kingsland,_Arkansas",
+              "desc": "city in Arkansas, USA",
+              "label": "Kingsland",
+              "wikidata": "http://www.wikidata.org/entity/Q79417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Kingsland,_Arkansas"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Martian_Successor_Nadesico:_The_Motion_Picture_–_Prince_of_Darkness",
+              "desc": "1998 film by Tatsuo Satō",
+              "label": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+              "wikidata": "http://www.wikidata.org/entity/Q706746",
+              "wikipedia": "http://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_–_Prince_of_Darkness"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aston",
+              "desc": "area within the city of Birmingham",
+              "label": "Aston",
+              "wikidata": "http://www.wikidata.org/entity/Q649838",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aston"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/John_Entwistle",
+              "desc": "English musician, singer-songwriter and record producer, bassist for The Who",
+              "label": "John Entwistle",
+              "wikidata": "http://www.wikidata.org/entity/Q215835",
+              "wikipedia": "http://en.wikipedia.org/wiki/John_Entwistle"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aston",
+              "desc": "area within the city of Birmingham",
+              "label": "Aston",
+              "wikidata": "http://www.wikidata.org/entity/Q649838",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aston"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aretha_Franklin",
+              "desc": "American singer, songwriter, and pianist",
+              "label": "Aretha Franklin",
+              "wikidata": "http://www.wikidata.org/entity/Q125121",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aretha_Franklin"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Memphis,_Tennessee",
+              "desc": "county seat of Shelby County, Tennessee, United States",
+              "label": "Memphis",
+              "wikidata": "http://www.wikidata.org/entity/Q16563",
+              "wikipedia": "http://en.wikipedia.org/wiki/Memphis,_Tennessee"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Louis_Armstrong",
+              "desc": "American jazz trumpeter, composer and singer",
+              "label": "Louis Armstrong",
+              "wikidata": "http://www.wikidata.org/entity/Q1779",
+              "wikipedia": "http://en.wikipedia.org/wiki/Louis_Armstrong"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_Orleans",
+              "desc": "city; consolidated city-parish in Louisiana, United States. Use Q486231 for the city-parish",
+              "label": "New Orleans",
+              "wikidata": "http://www.wikidata.org/entity/Q34404",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Orleans"
+            },
+            "target": [
+              11,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Michael_Jackson",
+              "desc": "American recording artist; singer and songwriter (1958-2009)",
+              "label": "Michael Jackson",
+              "wikidata": "http://www.wikidata.org/entity/Q2831",
+              "wikipedia": "http://en.wikipedia.org/wiki/Michael_Jackson"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gary,_Indiana",
+              "desc": "city in Lake County, Indiana, United States",
+              "label": "Gary",
+              "wikidata": "http://www.wikidata.org/entity/Q184116",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gary,_Indiana"
+            },
+            "target": [
+              12,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Eric_Clapton",
+              "desc": "English musician, singer, songwriter, and guitarist",
+              "label": "Eric Clapton",
+              "wikidata": "http://www.wikidata.org/entity/Q48187",
+              "wikipedia": "http://en.wikipedia.org/wiki/Eric_Clapton"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ripley,_Surrey",
+              "desc": "village and civil parish in Surrey, England, UK",
+              "label": "Ripley",
+              "wikidata": "http://www.wikidata.org/entity/Q2337139",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ripley,_Surrey"
+            },
+            "target": [
+              13,
+              1
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",
+                "label": "place of birth",
+                "wikidata": "http://www.wikidata.org/prop/direct/P19"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "date on which the subject was born",
+                "label": "date of birth",
+                "wikidata": "http://www.wikidata.org/prop/direct/P569"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Human_settlement",
+                "desc": "community of any size, in which people live",
+                "label": "human settlement",
+                "wikidata": "http://www.wikidata.org/entity/Q486972",
+                "wikipedia": "http://en.wikipedia.org/wiki/Human_settlement"
+              }
+            ],
+            "target": 1
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 3,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 14,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2"
+        ],
+        [
+          "The King of Rock 'n' Roll",
+          "Tupelo",
+          "1958-8-29"
+        ],
+        [
+          "Chairman of the Board",
+          "Hoboken",
+          "1935-1-8"
+        ],
+        [
+          "Piano Man",
+          "The Bronx",
+          "1949-05-09"
+        ],
+        [
+          "The King of the Blues",
+          "Berclair",
+          "1925-9-16"
+        ],
+        [
+          "The Boss",
+          "Long Branch",
+          "1949-9-23"
+        ],
+        [
+          "The Fab Four",
+          "Trei yiuh",
+          "---"
+        ],
+        [
+          "The Man in Black",
+          "Kingsland",
+          "1932-2-26"
+        ],
+        [
+          "The Prince of Darkness",
+          "Aston",
+          "1948-12-03"
+        ],
+        [
+          "The Oz",
+          "Aston",
+          "1948-12-3"
+        ],
+        [
+          "The Queen of Soul",
+          "Memphis",
+          "1942-03-25"
+        ],
+        [
+          "Satchmo",
+          "New Orleans",
+          "1901-8-4"
+        ],
+        [
+          "The King of Pop",
+          "Gary",
+          "1958-8-29"
+        ],
+        [
+          "Slowhand",
+          "Ripley",
+          "1945-03-30"
+        ]
+      ]
+    },
+    {
+      "name": "OUL0NHS5",
+      "run_time": 2.393311023712158,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Walmart",
+              "desc": "U.S. discount retailer based in Arkansas",
+              "label": "Walmart",
+              "wikidata": "http://www.wikidata.org/entity/Q483551",
+              "wikipedia": "http://en.wikipedia.org/wiki/Walmart"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_National_Petroleum_Corporation",
+              "desc": "Chinese state-owned oil and gas corporation",
+              "label": "China National Petroleum Corporation",
+              "wikidata": "http://www.wikidata.org/entity/Q588786",
+              "wikipedia": "http://en.wikipedia.org/wiki/China_National_Petroleum_Corporation"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_Post",
+              "desc": "Chinese state-owned postal services company",
+              "label": "China Post",
+              "wikidata": "http://www.wikidata.org/entity/Q1066476",
+              "wikipedia": "http://en.wikipedia.org/wiki/China_Post"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_(region)",
+              "desc": "cultural region, ancient civilization, and nation in East Asia, divided politically into the People's Republic of China (mainland) and the Republic of China (Taiwan)",
+              "label": "China",
+              "wikidata": "http://www.wikidata.org/entity/Q29520"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/State_Grid_Corporation_of_China",
+              "desc": "Chinese transmission system operator",
+              "label": "State Grid Corporation of China",
+              "wikidata": "http://www.wikidata.org/entity/Q209078",
+              "wikipedia": "http://en.wikipedia.org/wiki/State_Grid_Corporation_of_China"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Foxconn",
+              "desc": "Taiwanese multinational electronics contract manufacturing trading as Foxconn",
+              "label": "Foxconn",
+              "wikidata": "http://www.wikidata.org/entity/Q463094",
+              "wikipedia": "http://en.wikipedia.org/wiki/Foxconn"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Taiwan",
+              "desc": "A democratic republic in East Asia with limited recognition",
+              "label": "Taiwan",
+              "wikidata": "http://www.wikidata.org/entity/Q865",
+              "wikipedia": "http://en.wikipedia.org/wiki/Taiwan"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Volkswagen",
+              "desc": "automotive brand; manufacturing subsidiary of Volkswagen Group",
+              "label": "Volkswagen",
+              "wikidata": "http://www.wikidata.org/entity/Q246",
+              "wikipedia": "http://en.wikipedia.org/wiki/Volkswagen"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weimar_Republic",
+              "desc": "sovereign state in Central Europe",
+              "label": "Germany",
+              "wikidata": "http://www.wikidata.org/entity/Q183",
+              "wikipedia": "http://en.wikipedia.org/wiki/Germany"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Amazon_(company)",
+              "desc": "American electronic commerce and cloud computing company",
+              "label": "Amazon",
+              "wikidata": "http://www.wikidata.org/entity/Q3884",
+              "wikipedia": "http://en.wikipedia.org/wiki/Amazon_(company)"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sinopec",
+              "desc": "Chinese oil and gas company",
+              "label": "Sinopec",
+              "wikidata": "http://www.wikidata.org/entity/Q831445",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sinopec"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Compass_Group",
+              "desc": "company",
+              "label": "Compass Group",
+              "wikidata": "http://www.wikidata.org/entity/Q782697",
+              "wikipedia": "http://en.wikipedia.org/wiki/Compass_Group"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Great_Britain",
+              "desc": "country in Western Europe",
+              "label": "United Kingdom",
+              "wikidata": "http://www.wikidata.org/entity/Q145",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_Kingdom"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States_Postal_Service",
+              "desc": "independent agency of the U.S. federal government responsible for providing postal service",
+              "label": "United States Postal Service",
+              "wikidata": "http://www.wikidata.org/entity/Q668687",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States_Postal_Service"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              10,
+              2
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "sovereign state of this item (not to be used for human beings)",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/prop/direct/P17"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Organization",
+                "desc": "social entity (not necessarily commercial) uniting people into a structured group managing shared means to meet some needs, or to pursue collective goals",
+                "label": "organization",
+                "wikidata": "http://www.wikidata.org/entity/Q43229",
+                "wikipedia": "http://en.wikipedia.org/wiki/Organization"
+              },
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Country",
+                "desc": "distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/entity/Q6256",
+                "wikipedia": "http://en.wikipedia.org/wiki/Country"
+              }
+            ],
+            "target": 2
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 44,
+        "columns": 4,
+        "core_attribute": 1,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 11,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "1",
+          "Walmart",
+          "United States",
+          "2,200,000"
+        ],
+        [
+          "2",
+          "China National Petroleum",
+          "China",
+          "1,382,401"
+        ],
+        [
+          "3",
+          "China Post Group",
+          "China",
+          "935,191"
+        ],
+        [
+          "4",
+          "State Grid",
+          "China",
+          "917,717"
+        ],
+        [
+          "5",
+          "Hon Hai Precision Industry (Foxconn)",
+          "Taiwan",
+          "667,680"
+        ],
+        [
+          "6",
+          "Volkswagen",
+          "Germany",
+          "664,496"
+        ],
+        [
+          "7",
+          "Amazon",
+          "United States",
+          "647,500"
+        ],
+        [
+          "8",
+          "Sinopec Group",
+          "China",
+          "619,151"
+        ],
+        [
+          "9",
+          "Compass Group",
+          "United Kingdom",
+          "595,841"
+        ],
+        [
+          "10",
+          "United States Postal Service",
+          "United States",
+          "565,802"
+        ]
+      ]
+    },
+    {
+      "name": "XZRRL5AE",
+      "run_time": 0.7397990226745605,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Conservatism",
+              "desc": "political philosophy focused on retaining traditional social institutions",
+              "label": "conservatism",
+              "wikidata": "http://www.wikidata.org/entity/Q7169",
+              "wikipedia": "http://en.wikipedia.org/wiki/Conservatism"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "labour economics and industrial relations journal",
+              "label": "Labour",
+              "wikidata": "http://www.wikidata.org/entity/Q15765982"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Liberal_Democrats_(UK)",
+              "desc": "political party in the United Kingdom",
+              "label": "Liberal Democrats",
+              "wikidata": "http://www.wikidata.org/entity/Q9624",
+              "wikipedia": "http://en.wikipedia.org/wiki/Liberal_Democrats_(UK)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "airport in Brazil",
+              "label": "Nilo Pecanha Airport",
+              "wikidata": "http://www.wikidata.org/entity/Q20457815"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/PC_(footballer)",
+              "desc": "Brazilian footballer",
+              "label": "PC",
+              "wikidata": "http://www.wikidata.org/entity/Q20641299",
+              "wikipedia": "http://en.wikipedia.org/wiki/PC_(footballer)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green_(disambiguation)",
+              "desc": "Wikimedia disambiguation page",
+              "label": "Green",
+              "wikidata": "http://www.wikidata.org/entity/Q223932",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green_(disambiguation)"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/BNPP",
+              "desc": "Wikimedia disambiguation page",
+              "label": "BNPP",
+              "wikidata": "http://www.wikidata.org/entity/Q796825",
+              "wikipedia": "http://en.wikipedia.org/wiki/BNPP"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/SKIP",
+              "desc": "protein-coding gene in the species Homo sapiens",
+              "label": "INPP5K",
+              "wikidata": "http://www.wikidata.org/entity/Q18040568",
+              "wikipedia": "http://en.wikipedia.org/wiki/SKIP"
+            },
+            "target": [
+              8,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              },
+              {
+                "desc": "Wikimedia page that lists different meanings for the same string",
+                "label": "Wikimedia disambiguation page",
+                "wikidata": "http://www.wikidata.org/entity/Q4167410",
+                "wikipedia": "http://en.wikipedia.org/wiki/Wikipedia:Disambiguation"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 5,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.9333333333333333,
+        "rows": 9,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4"
+        ],
+        [
+          "Conservativee",
+          "8,895,066",
+          "37.3",
+          "254",
+          "34"
+        ],
+        [
+          "LLabour",
+          "9,199,875",
+          "38.6",
+          "291",
+          "34"
+        ],
+        [
+          "Lib-Demm",
+          "2,519,729",
+          "10.6",
+          "37",
+          "8"
+        ],
+        [
+          "SNNP",
+          "1,004,774",
+          "4.2",
+          "42",
+          ""
+        ],
+        [
+          "PC",
+          "313,433",
+          "1.3",
+          "7",
+          ""
+        ],
+        [
+          "Green",
+          "1,785,516",
+          "7.5",
+          "1",
+          "6"
+        ],
+        [
+          "BNPP",
+          "112,864",
+          "0.5",
+          "0",
+          ""
+        ],
+        [
+          "UKIP",
+          "3,282,872",
+          "13.8",
+          "0",
+          "14"
+        ]
+      ]
+    },
+    {
+      "name": "Z4M8AT89",
+      "run_time": 2.238128900527954,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Arizona",
+              "desc": "state of the United States of America",
+              "label": "Arizona",
+              "wikidata": "http://www.wikidata.org/entity/Q816",
+              "wikipedia": "http://en.wikipedia.org/wiki/Arizona"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/California",
+              "desc": "state of the United States of America",
+              "label": "California",
+              "wikidata": "http://www.wikidata.org/entity/Q99",
+              "wikipedia": "http://en.wikipedia.org/wiki/California"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Colorado",
+              "desc": "state of the United States of America",
+              "label": "Colorado",
+              "wikidata": "http://www.wikidata.org/entity/Q1261",
+              "wikipedia": "http://en.wikipedia.org/wiki/Colorado"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Connecticut",
+              "desc": "state in the northeastern United States",
+              "label": "Connecticut",
+              "wikidata": "http://www.wikidata.org/entity/Q779",
+              "wikipedia": "http://en.wikipedia.org/wiki/Connecticut"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Delaware",
+              "desc": "state of the United States of America",
+              "label": "Delaware",
+              "wikidata": "http://www.wikidata.org/entity/Q1393",
+              "wikipedia": "http://en.wikipedia.org/wiki/Delaware"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Florida,_Cuba",
+              "desc": "state in the southeastern United States",
+              "label": "Florida",
+              "wikidata": "http://www.wikidata.org/entity/Q812",
+              "wikipedia": "http://en.wikipedia.org/wiki/Florida"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Georgia_(U.S._state)",
+              "desc": "state in the southeastern United States",
+              "label": "Georgia",
+              "wikidata": "http://www.wikidata.org/entity/Q1428",
+              "wikipedia": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Hawaii",
+              "desc": "state of the United States of America, located on an archipelago in the Pacific Ocean",
+              "label": "Hawaii",
+              "wikidata": "http://www.wikidata.org/entity/Q782",
+              "wikipedia": "http://en.wikipedia.org/wiki/Hawaii"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Idaho",
+              "desc": "state of the United States of America",
+              "label": "Idaho",
+              "wikidata": "http://www.wikidata.org/entity/Q1221",
+              "wikipedia": "http://en.wikipedia.org/wiki/Idaho"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Illinois_(band)",
+              "desc": "state of the United States of America",
+              "label": "Illinois",
+              "wikidata": "http://www.wikidata.org/entity/Q1204",
+              "wikipedia": "http://en.wikipedia.org/wiki/Illinois"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Iowa",
+              "desc": "midwestern state in the United States",
+              "label": "Iowa",
+              "wikidata": "http://www.wikidata.org/entity/Q1546",
+              "wikipedia": "http://en.wikipedia.org/wiki/Iowa"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kentucky",
+              "desc": "state of the United States of America",
+              "label": "Kentucky",
+              "wikidata": "http://www.wikidata.org/entity/Q1603",
+              "wikipedia": "http://en.wikipedia.org/wiki/Kentucky"
+            },
+            "target": [
+              14,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Louisiana_(New_France)",
+              "desc": "state in the southern United States",
+              "label": "Louisiana",
+              "wikidata": "http://www.wikidata.org/entity/Q1588",
+              "wikipedia": "http://en.wikipedia.org/wiki/Louisiana"
+            },
+            "target": [
+              15,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Maine",
+              "desc": "state of the United States of America",
+              "label": "Maine",
+              "wikidata": "http://www.wikidata.org/entity/Q724",
+              "wikipedia": "http://en.wikipedia.org/wiki/Maine"
+            },
+            "target": [
+              16,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Maryland",
+              "desc": "state of the United States of America",
+              "label": "Maryland",
+              "wikidata": "http://www.wikidata.org/entity/Q1391",
+              "wikipedia": "http://en.wikipedia.org/wiki/Maryland"
+            },
+            "target": [
+              17,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Massachusetts",
+              "desc": "state of the United States of America",
+              "label": "Massachusetts",
+              "wikidata": "http://www.wikidata.org/entity/Q771",
+              "wikipedia": "http://en.wikipedia.org/wiki/Massachusetts"
+            },
+            "target": [
+              18,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Michigan",
+              "desc": "state of the United States of America",
+              "label": "Michigan",
+              "wikidata": "http://www.wikidata.org/entity/Q1166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Michigan"
+            },
+            "target": [
+              19,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Minnesota",
+              "desc": "state of the United States of America",
+              "label": "Minnesota",
+              "wikidata": "http://www.wikidata.org/entity/Q1527",
+              "wikipedia": "http://en.wikipedia.org/wiki/Minnesota"
+            },
+            "target": [
+              20,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Mississippi",
+              "desc": "state of the United States of America",
+              "label": "Mississippi",
+              "wikidata": "http://www.wikidata.org/entity/Q1494",
+              "wikipedia": "http://en.wikipedia.org/wiki/Mississippi"
+            },
+            "target": [
+              21,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Nebraska",
+              "desc": "state of the United States of America",
+              "label": "Nebraska",
+              "wikidata": "http://www.wikidata.org/entity/Q1553",
+              "wikipedia": "http://en.wikipedia.org/wiki/Nebraska"
+            },
+            "target": [
+              22,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Nevada",
+              "desc": "state of the United States of America",
+              "label": "Nevada",
+              "wikidata": "http://www.wikidata.org/entity/Q1227",
+              "wikipedia": "http://en.wikipedia.org/wiki/Nevada"
+            },
+            "target": [
+              23,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_Hampshire,_Ohio",
+              "desc": "state of the United States of America",
+              "label": "New Hampshire",
+              "wikidata": "http://www.wikidata.org/entity/Q759",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Hampshire"
+            },
+            "target": [
+              24,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Province_of_New_Jersey",
+              "desc": "state of the United States of America",
+              "label": "New Jersey",
+              "wikidata": "http://www.wikidata.org/entity/Q1408",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Jersey"
+            },
+            "target": [
+              25,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_Mexico",
+              "desc": "state of the United States of America",
+              "label": "New Mexico",
+              "wikidata": "http://www.wikidata.org/entity/Q1522",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Mexico"
+            },
+            "target": [
+              26,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_York_(state)",
+              "desc": "state of the United States of America",
+              "label": "New York",
+              "wikidata": "http://www.wikidata.org/entity/Q1384",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_York_(state)"
+            },
+            "target": [
+              27,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/North_Carolina",
+              "desc": "state of the United States of America",
+              "label": "North Carolina",
+              "wikidata": "http://www.wikidata.org/entity/Q1454",
+              "wikipedia": "http://en.wikipedia.org/wiki/North_Carolina"
+            },
+            "target": [
+              28,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/North_Dakota",
+              "desc": "state of the United States of America",
+              "label": "North Dakota",
+              "wikidata": "http://www.wikidata.org/entity/Q1207",
+              "wikipedia": "http://en.wikipedia.org/wiki/North_Dakota"
+            },
+            "target": [
+              29,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ohio",
+              "desc": "state of the United States of America",
+              "label": "Ohio",
+              "wikidata": "http://www.wikidata.org/entity/Q1397",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ohio"
+            },
+            "target": [
+              30,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oklahoma,_Pennsylvania",
+              "desc": "state of the United States of America",
+              "label": "Oklahoma",
+              "wikidata": "http://www.wikidata.org/entity/Q1649",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oklahoma"
+            },
+            "target": [
+              31,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oregon,_Missouri",
+              "desc": "state of the United States of America",
+              "label": "Oregon",
+              "wikidata": "http://www.wikidata.org/entity/Q824",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oregon"
+            },
+            "target": [
+              32,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pennsylvania",
+              "desc": "state in the northeastern United States",
+              "label": "Pennsylvania",
+              "wikidata": "http://www.wikidata.org/entity/Q1400",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pennsylvania"
+            },
+            "target": [
+              33,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Rhode_Island",
+              "desc": "state on east coast of United States of America",
+              "label": "Rhode Island",
+              "wikidata": "http://www.wikidata.org/entity/Q1387",
+              "wikipedia": "http://en.wikipedia.org/wiki/Rhode_Island"
+            },
+            "target": [
+              34,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/South_Carolina",
+              "desc": "state of the United States of America",
+              "label": "South Carolina",
+              "wikidata": "http://www.wikidata.org/entity/Q1456",
+              "wikipedia": "http://en.wikipedia.org/wiki/South_Carolina"
+            },
+            "target": [
+              35,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/South_Dakota",
+              "desc": "state of the United States of America",
+              "label": "South Dakota",
+              "wikidata": "http://www.wikidata.org/entity/Q1211",
+              "wikipedia": "http://en.wikipedia.org/wiki/South_Dakota"
+            },
+            "target": [
+              36,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Tennessee,_Arkansas",
+              "desc": "state of the United States of America",
+              "label": "Tennessee",
+              "wikidata": "http://www.wikidata.org/entity/Q1509",
+              "wikipedia": "http://en.wikipedia.org/wiki/Tennessee"
+            },
+            "target": [
+              37,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Texas",
+              "desc": "state in the southern United States",
+              "label": "Texas",
+              "wikidata": "http://www.wikidata.org/entity/Q1439",
+              "wikipedia": "http://en.wikipedia.org/wiki/Texas"
+            },
+            "target": [
+              38,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Utah",
+              "desc": "state of the United States of America",
+              "label": "Utah",
+              "wikidata": "http://www.wikidata.org/entity/Q829",
+              "wikipedia": "http://en.wikipedia.org/wiki/Utah"
+            },
+            "target": [
+              39,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Parkersburg,_West_Virginia",
+              "desc": "state of the United States of America",
+              "label": "West Virginia",
+              "wikidata": "http://www.wikidata.org/entity/Q1371",
+              "wikipedia": "http://en.wikipedia.org/wiki/West_Virginia"
+            },
+            "target": [
+              40,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Wyoming",
+              "desc": "least populous state of the United States of America",
+              "label": "Wyoming",
+              "wikidata": "http://www.wikidata.org/entity/Q1214",
+              "wikipedia": "http://en.wikipedia.org/wiki/Wyoming"
+            },
+            "target": [
+              41,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/U.S._state",
+                "desc": "constituent political entity sharing sovereignty as the United States of America",
+                "label": "state of the United States",
+                "wikidata": "http://www.wikidata.org/entity/Q35657",
+                "wikipedia": "http://en.wikipedia.org/wiki/U.S._state"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 1,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0,
+          1,
+          2
+        ],
+        "r_cells": 1,
+        "rows": 42,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0"
+        ],
+        [
+          "Alabama"
+        ],
+        [
+          "Alaska"
+        ],
+        [
+          "Arizona"
+        ],
+        [
+          "California"
+        ],
+        [
+          "Colorado"
+        ],
+        [
+          "Connecticut"
+        ],
+        [
+          "Delaware"
+        ],
+        [
+          "Florida"
+        ],
+        [
+          "Georgia"
+        ],
+        [
+          "Hawaii"
+        ],
+        [
+          "Idaho"
+        ],
+        [
+          "Illinois"
+        ],
+        [
+          "Iowa"
+        ],
+        [
+          "Kentucky"
+        ],
+        [
+          "Louisiana"
+        ],
+        [
+          "Maine"
+        ],
+        [
+          "Maryland"
+        ],
+        [
+          "Massachusetts"
+        ],
+        [
+          "Michigan"
+        ],
+        [
+          "Minnesota"
+        ],
+        [
+          "Mississippi"
+        ],
+        [
+          "Nebraska"
+        ],
+        [
+          "Nevada"
+        ],
+        [
+          "New Hampshire"
+        ],
+        [
+          "New Jersey"
+        ],
+        [
+          "New Mexico"
+        ],
+        [
+          "New York"
+        ],
+        [
+          "North Carolina"
+        ],
+        [
+          "North Dakota"
+        ],
+        [
+          "Ohio"
+        ],
+        [
+          "Oklahoma"
+        ],
+        [
+          "Oregon"
+        ],
+        [
+          "Pennsylvania"
+        ],
+        [
+          "Rhode Island"
+        ],
+        [
+          "South Carolina"
+        ],
+        [
+          "South Dakota"
+        ],
+        [
+          "Tennessee"
+        ],
+        [
+          "Texas"
+        ],
+        [
+          "Utah"
+        ],
+        [
+          "West Virginia"
+        ],
+        [
+          "Wyoming"
+        ]
+      ]
+    },
+    {
+      "name": "tk9003",
+      "run_time": 3.395012140274048,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11448232",
+              "wikidata": "http://www.wikidata.org/entity/Q11448232"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ou_(surname)",
+              "desc": "Two different Chinese family names : 欧 and 区",
+              "label": "Ou",
+              "wikidata": "http://www.wikidata.org/entity/Q21855905",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ou_(surname)"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia disambiguation page",
+              "label": "national",
+              "wikidata": "http://www.wikidata.org/entity/Q28296"
+            },
+            "target": [
+              2,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ji_(surname_计)",
+              "desc": "Chinese surname Ji 計/计 (pinyin: Jì)",
+              "label": "Ji",
+              "wikidata": "http://www.wikidata.org/entity/Q4505417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ji_(surname_计)"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia disambiguation page",
+              "label": "173",
+              "wikidata": "http://www.wikidata.org/entity/Q395918"
+            },
+            "target": [
+              4,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11474699",
+              "wikidata": "http://www.wikidata.org/entity/Q11474699"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ministry_of_Agriculture_and_Agro-based_Industry_(Malaysia)",
+              "desc": "Ministry in Malaysia",
+              "label": "Ministry of Agriculture and Agro Based Industry",
+              "wikidata": "http://www.wikidata.org/entity/Q22222773",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Food_Industries_(Malaysia)"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia category",
+              "label": "Q18722614",
+              "wikidata": "http://www.wikidata.org/entity/Q18722614"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia disambiguation page",
+              "label": "173",
+              "wikidata": "http://www.wikidata.org/entity/Q395918"
+            },
+            "target": [
+              7,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "計",
+              "wikidata": "http://www.wikidata.org/entity/Q54552832"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11574677",
+              "wikidata": "http://www.wikidata.org/entity/Q11574677"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Northwestern_University_School_of_Education_and_Social_Policy",
+              "desc": null,
+              "label": "Northwestern University School of Education and Social Policy",
+              "wikidata": "http://www.wikidata.org/entity/Q14687984",
+              "wikipedia": "http://en.wikipedia.org/wiki/Northwestern_University_School_of_Education_and_Social_Policy"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pratica_della_mercatura",
+              "desc": null,
+              "label": "Pratica della mercatura",
+              "wikidata": "http://www.wikidata.org/entity/Q3211886",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pratica_della_mercatura"
+            },
+            "target": [
+              10,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Civil–military_relations",
+              "desc": null,
+              "label": "civil–military relations",
+              "wikidata": "http://www.wikidata.org/entity/Q5124770",
+              "wikipedia": "http://en.wikipedia.org/wiki/Civil–military_relations"
+            },
+            "target": [
+              11,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Relational_grammar",
+              "desc": null,
+              "label": "Relational grammar",
+              "wikidata": "http://www.wikidata.org/entity/Q11655557",
+              "wikipedia": "http://en.wikipedia.org/wiki/Relational_grammar"
+            },
+            "target": [
+              12,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ji_(surname_计)",
+              "desc": "Chinese surname Ji 計/计 (pinyin: Jì)",
+              "label": "Ji",
+              "wikidata": "http://www.wikidata.org/entity/Q4505417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ji_(surname_计)"
+            },
+            "target": [
+              14,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/15",
+              "desc": "Wikimedia disambiguation page",
+              "label": "15",
+              "wikidata": "http://www.wikidata.org/entity/Q732140",
+              "wikipedia": "http://en.wikipedia.org/wiki/15"
+            },
+            "target": [
+              14,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11474699",
+              "wikidata": "http://www.wikidata.org/entity/Q11474699"
+            },
+            "target": [
+              15,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ministry_of_Agriculture_and_Agro-based_Industry_(Malaysia)",
+              "desc": "Ministry in Malaysia",
+              "label": "Ministry of Agriculture and Agro Based Industry",
+              "wikidata": "http://www.wikidata.org/entity/Q22222773",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Food_Industries_(Malaysia)"
+            },
+            "target": [
+              16,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gao_(surname)",
+              "desc": "Chinese surname (高)",
+              "label": "Gao",
+              "wikidata": "http://www.wikidata.org/entity/Q713706",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gao_(surname)"
+            },
+            "target": [
+              17,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia category",
+              "label": "Q18722614",
+              "wikidata": "http://www.wikidata.org/entity/Q18722614"
+            },
+            "target": [
+              17,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/15",
+              "desc": "Wikimedia disambiguation page",
+              "label": "15",
+              "wikidata": "http://www.wikidata.org/entity/Q732140",
+              "wikipedia": "http://en.wikipedia.org/wiki/15"
+            },
+            "target": [
+              17,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "等",
+              "wikidata": "http://www.wikidata.org/entity/Q54875022"
+            },
+            "target": [
+              18,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11574677",
+              "wikidata": "http://www.wikidata.org/entity/Q11574677"
+            },
+            "target": [
+              18,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "課",
+              "wikidata": "http://www.wikidata.org/entity/Q54879229"
+            },
+            "target": [
+              19,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Northwestern_University_School_of_Education_and_Social_Policy",
+              "desc": null,
+              "label": "Northwestern University School of Education and Social Policy",
+              "wikidata": "http://www.wikidata.org/entity/Q14687984",
+              "wikipedia": "http://en.wikipedia.org/wiki/Northwestern_University_School_of_Education_and_Social_Policy"
+            },
+            "target": [
+              19,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "程",
+              "wikidata": "http://www.wikidata.org/entity/Q54901593"
+            },
+            "target": [
+              20,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pratica_della_mercatura",
+              "desc": null,
+              "label": "Pratica della mercatura",
+              "wikidata": "http://www.wikidata.org/entity/Q3211886",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pratica_della_mercatura"
+            },
+            "target": [
+              20,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Civil–military_relations",
+              "desc": null,
+              "label": "civil–military relations",
+              "wikidata": "http://www.wikidata.org/entity/Q5124770",
+              "wikipedia": "http://en.wikipedia.org/wiki/Civil–military_relations"
+            },
+            "target": [
+              21,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Relational_grammar",
+              "desc": null,
+              "label": "Relational grammar",
+              "wikidata": "http://www.wikidata.org/entity/Q11655557",
+              "wikipedia": "http://en.wikipedia.org/wiki/Relational_grammar"
+            },
+            "target": [
+              22,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ji_(surname_计)",
+              "desc": "Chinese surname Ji 計/计 (pinyin: Jì)",
+              "label": "Ji",
+              "wikidata": "http://www.wikidata.org/entity/Q4505417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ji_(surname_计)"
+            },
+            "target": [
+              24,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/153_(number)",
+              "desc": "natural number",
+              "label": "153",
+              "wikidata": "http://www.wikidata.org/entity/Q472686",
+              "wikipedia": "http://en.wikipedia.org/wiki/153_(number)"
+            },
+            "target": [
+              24,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Industrial_relations",
+              "desc": "study of the relationship between employers, employees and others",
+              "label": "industrial relations",
+              "wikidata": "http://www.wikidata.org/entity/Q932071",
+              "wikipedia": "http://en.wikipedia.org/wiki/Industrial_relations"
+            },
+            "target": [
+              25,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ministry_of_Agriculture_and_Agro-based_Industry_(Malaysia)",
+              "desc": "Ministry in Malaysia",
+              "label": "Ministry of Agriculture and Agro Based Industry",
+              "wikidata": "http://www.wikidata.org/entity/Q22222773",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Food_Industries_(Malaysia)"
+            },
+            "target": [
+              26,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "専",
+              "wikidata": "http://www.wikidata.org/entity/Q54911967"
+            },
+            "target": [
+              27,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia category",
+              "label": "Q18722614",
+              "wikidata": "http://www.wikidata.org/entity/Q18722614"
+            },
+            "target": [
+              27,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/153_(number)",
+              "desc": "natural number",
+              "label": "153",
+              "wikidata": "http://www.wikidata.org/entity/Q472686",
+              "wikipedia": "http://en.wikipedia.org/wiki/153_(number)"
+            },
+            "target": [
+              27,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "門",
+              "wikidata": "http://www.wikidata.org/entity/Q54553336"
+            },
+            "target": [
+              28,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11574677",
+              "wikidata": "http://www.wikidata.org/entity/Q11574677"
+            },
+            "target": [
+              28,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "課",
+              "wikidata": "http://www.wikidata.org/entity/Q54879229"
+            },
+            "target": [
+              29,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Northwestern_University_School_of_Education_and_Social_Policy",
+              "desc": null,
+              "label": "Northwestern University School of Education and Social Policy",
+              "wikidata": "http://www.wikidata.org/entity/Q14687984",
+              "wikipedia": "http://en.wikipedia.org/wiki/Northwestern_University_School_of_Education_and_Social_Policy"
+            },
+            "target": [
+              29,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "程",
+              "wikidata": "http://www.wikidata.org/entity/Q54901593"
+            },
+            "target": [
+              30,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pratica_della_mercatura",
+              "desc": null,
+              "label": "Pratica della mercatura",
+              "wikidata": "http://www.wikidata.org/entity/Q3211886",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pratica_della_mercatura"
+            },
+            "target": [
+              30,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Civil–military_relations",
+              "desc": null,
+              "label": "civil–military relations",
+              "wikidata": "http://www.wikidata.org/entity/Q5124770",
+              "wikipedia": "http://en.wikipedia.org/wiki/Civil–military_relations"
+            },
+            "target": [
+              31,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Relational_grammar",
+              "desc": null,
+              "label": "Relational grammar",
+              "wikidata": "http://www.wikidata.org/entity/Q11655557",
+              "wikipedia": "http://en.wikipedia.org/wiki/Relational_grammar"
+            },
+            "target": [
+              32,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ji_(surname_计)",
+              "desc": "Chinese surname Ji 計/计 (pinyin: Jì)",
+              "label": "Ji",
+              "wikidata": "http://www.wikidata.org/entity/Q4505417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ji_(surname_计)"
+            },
+            "target": [
+              35,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/5_(disambiguation)",
+              "desc": "Wikimedia disambiguation page",
+              "label": "5",
+              "wikidata": "http://www.wikidata.org/entity/Q1918148",
+              "wikipedia": "http://en.wikipedia.org/wiki/5_(disambiguation)"
+            },
+            "target": [
+              35,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Industrial_relations",
+              "desc": "study of the relationship between employers, employees and others",
+              "label": "industrial relations",
+              "wikidata": "http://www.wikidata.org/entity/Q932071",
+              "wikipedia": "http://en.wikipedia.org/wiki/Industrial_relations"
+            },
+            "target": [
+              36,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ministry_of_Agriculture_and_Agro-based_Industry_(Malaysia)",
+              "desc": "Ministry in Malaysia",
+              "label": "Ministry of Agriculture and Agro Based Industry",
+              "wikidata": "http://www.wikidata.org/entity/Q22222773",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Food_Industries_(Malaysia)"
+            },
+            "target": [
+              37,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "一",
+              "wikidata": "http://www.wikidata.org/entity/Q4025820"
+            },
+            "target": [
+              38,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia category",
+              "label": "Q18722614",
+              "wikidata": "http://www.wikidata.org/entity/Q18722614"
+            },
+            "target": [
+              38,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/5_(disambiguation)",
+              "desc": "Wikimedia disambiguation page",
+              "label": "5",
+              "wikidata": "http://www.wikidata.org/entity/Q1918148",
+              "wikipedia": "http://en.wikipedia.org/wiki/5_(disambiguation)"
+            },
+            "target": [
+              38,
+              4
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "般",
+              "wikidata": "http://www.wikidata.org/entity/Q55814473"
+            },
+            "target": [
+              39,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11574677",
+              "wikidata": "http://www.wikidata.org/entity/Q11574677"
+            },
+            "target": [
+              39,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "課",
+              "wikidata": "http://www.wikidata.org/entity/Q54879229"
+            },
+            "target": [
+              40,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Northwestern_University_School_of_Education_and_Social_Policy",
+              "desc": null,
+              "label": "Northwestern University School of Education and Social Policy",
+              "wikidata": "http://www.wikidata.org/entity/Q14687984",
+              "wikipedia": "http://en.wikipedia.org/wiki/Northwestern_University_School_of_Education_and_Social_Policy"
+            },
+            "target": [
+              40,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "CJK (hanzi/kanji/hanja) character",
+              "label": "程",
+              "wikidata": "http://www.wikidata.org/entity/Q54901593"
+            },
+            "target": [
+              41,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pratica_della_mercatura",
+              "desc": null,
+              "label": "Pratica della mercatura",
+              "wikidata": "http://www.wikidata.org/entity/Q3211886",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pratica_della_mercatura"
+            },
+            "target": [
+              41,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Civil–military_relations",
+              "desc": null,
+              "label": "civil–military relations",
+              "wikidata": "http://www.wikidata.org/entity/Q5124770",
+              "wikipedia": "http://en.wikipedia.org/wiki/Civil–military_relations"
+            },
+            "target": [
+              42,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Relational_grammar",
+              "desc": null,
+              "label": "Relational grammar",
+              "wikidata": "http://www.wikidata.org/entity/Q11655557",
+              "wikipedia": "http://en.wikipedia.org/wiki/Relational_grammar"
+            },
+            "target": [
+              43,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Soga_no_Koma",
+              "desc": "Japanese politician",
+              "label": "Soga no Koma",
+              "wikidata": "http://www.wikidata.org/entity/Q1092497",
+              "wikipedia": "http://en.wikipedia.org/wiki/Soga_no_Koma"
+            },
+            "target": [
+              44,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "2015 research report",
+              "label": "FY2014 Cabinet Secretariat Commissioned Research Project: Commissioned Research Report on Takeshima-related Documents",
+              "wikidata": "http://www.wikidata.org/entity/Q56676595"
+            },
+            "target": [
+              46,
+              1
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "character (logogram) used in the writing system of languages in the Sinosphere region",
+                "label": "Chinese character",
+                "wikidata": "http://www.wikidata.org/entity/Q53764738"
+              },
+              {
+                "desc": "logogram used in Japanese writing system",
+                "label": "kanji character",
+                "wikidata": "http://www.wikidata.org/entity/Q53764782"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Surname",
+                "desc": "part of a naming scheme for individuals, used in many cultures worldwide",
+                "label": "family name",
+                "wikidata": "http://www.wikidata.org/entity/Q101352",
+                "wikipedia": "http://en.wikipedia.org/wiki/Surname"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chinese_surname",
+                "desc": "surnames used by Han Chinese and Sinicized ethnic groups",
+                "label": "Han surname",
+                "wikidata": "http://www.wikidata.org/entity/Q1093580",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chinese_surname"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/List_of_agriculture_ministries",
+                "desc": "type of ministry responsible for agricultural policy",
+                "label": "agriculture ministry",
+                "wikidata": "http://www.wikidata.org/entity/Q1364302"
+              },
+              {
+                "desc": "use with 'instance of' (P31) for Wikimedia category",
+                "label": "Wikimedia category",
+                "wikidata": "http://www.wikidata.org/entity/Q4167836",
+                "wikipedia": "http://en.wikipedia.org/wiki/Wikipedia:Categorization"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/University",
+                "desc": "academic institution for further education",
+                "label": "university",
+                "wikidata": "http://www.wikidata.org/entity/Q3918",
+                "wikipedia": "http://en.wikipedia.org/wiki/University"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Academic_institution",
+                "desc": "educational institution dedicated to education and research",
+                "label": "academic institution",
+                "wikidata": "http://www.wikidata.org/entity/Q4671277",
+                "wikipedia": "http://en.wikipedia.org/wiki/Academic_institution"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Organization",
+                "desc": "social entity (not necessarily commercial) uniting people into a structured group managing shared means to meet some needs, or to pursue collective goals",
+                "label": "organization",
+                "wikidata": "http://www.wikidata.org/entity/Q43229",
+                "wikipedia": "http://en.wikipedia.org/wiki/Organization"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Educational_institution",
+                "desc": "institution that provides education",
+                "label": "educational institution",
+                "wikidata": "http://www.wikidata.org/entity/Q2385804",
+                "wikipedia": "http://en.wikipedia.org/wiki/Educational_institution"
+              },
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              },
+              {
+                "desc": "physical or virtual object made by humans",
+                "label": "work",
+                "wikidata": "http://www.wikidata.org/entity/Q386724"
+              }
+            ],
+            "target": 2
+          },
+          {
+            "annotation": [
+              {
+                "desc": "Wikimedia page that lists different meanings for the same string",
+                "label": "Wikimedia disambiguation page",
+                "wikidata": "http://www.wikidata.org/entity/Q4167410",
+                "wikipedia": "http://en.wikipedia.org/wiki/Wikipedia:Disambiguation"
+              }
+            ],
+            "target": 4
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 342,
+        "columns": 13,
+        "core_attribute": 2,
+        "encoding": "SHIFT_JIS",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.5597381342062193,
+        "rows": 47,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "３　設置者別学科数",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "区　　分",
+          "",
+          "計",
+          "国　立",
+          "公　立",
+          "私　立",
+          "私立のうち",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "学校法人立",
+          "準学校法人立",
+          "財団法人立",
+          "社団法人立",
+          "その他の法人立",
+          "個人立"
+        ],
+        [
+          "",
+          "",
+          "計",
+          "10,218",
+          "173",
+          "358",
+          "9,687",
+          "1,949",
+          "5,003",
+          "405",
+          "409",
+          "378",
+          "1,543"
+        ],
+        [
+          "",
+          "",
+          "工　業　関　係",
+          "1,703",
+          "-",
+          "10",
+          "1,693",
+          "455",
+          "1,030",
+          "47",
+          "2",
+          "24",
+          "135"
+        ],
+        [
+          "",
+          "",
+          "農　業　関　係",
+          "50",
+          "-",
+          "-",
+          "50",
+          "5",
+          "29",
+          "9",
+          "4",
+          "3",
+          "-"
+        ],
+        [
+          "",
+          "",
+          "医　療　関　係",
+          "1,668",
+          "173",
+          "319",
+          "1,176",
+          "195",
+          "241",
+          "106",
+          "382",
+          "241",
+          "11"
+        ],
+        [
+          "",
+          "計",
+          "衛　生　関　係",
+          "793",
+          "-",
+          "6",
+          "787",
+          "121",
+          "491",
+          "67",
+          "13",
+          "23",
+          "72"
+        ],
+        [
+          "",
+          "",
+          "教育・社会福祉関係",
+          "499",
+          "-",
+          "6",
+          "493",
+          "190",
+          "238",
+          "10",
+          "1",
+          "43",
+          "11"
+        ],
+        [
+          "",
+          "",
+          "商業実務関係",
+          "1,999",
+          "-",
+          "6",
+          "1,993",
+          "451",
+          "1,194",
+          "40",
+          "2",
+          "14",
+          "292"
+        ],
+        [
+          "",
+          "",
+          "服飾・家政関係",
+          "1,882",
+          "-",
+          "7",
+          "1,875",
+          "246",
+          "690",
+          "68",
+          "2",
+          "16",
+          "853"
+        ],
+        [
+          "",
+          "",
+          "文化・教養関係",
+          "1,624",
+          "-",
+          "4",
+          "1,620",
+          "286",
+          "1,090",
+          "58",
+          "3",
+          "14",
+          "169"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "計",
+          "1,072",
+          "15",
+          "25",
+          "1,032",
+          "139",
+          "480",
+          "62",
+          "167",
+          "36",
+          "148"
+        ],
+        [
+          "",
+          "",
+          "工　業　関　係",
+          "54",
+          "-",
+          "2",
+          "52",
+          "16",
+          "26",
+          "3",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "農　業　関　係",
+          "5",
+          "-",
+          "-",
+          "5",
+          "-",
+          "1",
+          "2",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "高",
+          "医　療　関　係",
+          "222",
+          "15",
+          "14",
+          "193",
+          "4",
+          "2",
+          "11",
+          "157",
+          "19",
+          "-"
+        ],
+        [
+          "",
+          "等",
+          "衛　生　関　係",
+          "345",
+          "-",
+          "2",
+          "343",
+          "37",
+          "219",
+          "33",
+          "7",
+          "13",
+          "34"
+        ],
+        [
+          "",
+          "課",
+          "教育・社会福祉関係",
+          "17",
+          "-",
+          "-",
+          "17",
+          "5",
+          "12",
+          "-",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "程",
+          "商業実務関係",
+          "116",
+          "-",
+          "1",
+          "115",
+          "28",
+          "75",
+          "3",
+          "-",
+          "-",
+          "9"
+        ],
+        [
+          "",
+          "",
+          "服飾・家政関係",
+          "270",
+          "-",
+          "5",
+          "265",
+          "38",
+          "119",
+          "10",
+          "-",
+          "-",
+          "98"
+        ],
+        [
+          "",
+          "",
+          "文化・教養関係",
+          "43",
+          "-",
+          "1",
+          "42",
+          "11",
+          "26",
+          "-",
+          "-",
+          "-",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "計",
+          "8,489",
+          "153",
+          "329",
+          "8,007",
+          "1,743",
+          "4,237",
+          "322",
+          "240",
+          "342",
+          "1,123"
+        ],
+        [
+          "",
+          "",
+          "工　業　関　係",
+          "1,638",
+          "-",
+          "7",
+          "1,631",
+          "439",
+          "999",
+          "43",
+          "-",
+          "20",
+          "130"
+        ],
+        [
+          "",
+          "",
+          "農　業　関　係",
+          "44",
+          "-",
+          "-",
+          "44",
+          "5",
+          "27",
+          "7",
+          "2",
+          "3",
+          "-"
+        ],
+        [
+          "",
+          "専",
+          "医　療　関　係",
+          "1,440",
+          "153",
+          "305",
+          "982",
+          "191",
+          "239",
+          "95",
+          "224",
+          "222",
+          "11"
+        ],
+        [
+          "",
+          "門",
+          "衛　生　関　係",
+          "423",
+          "-",
+          "4",
+          "419",
+          "80",
+          "263",
+          "29",
+          "6",
+          "10",
+          "31"
+        ],
+        [
+          "",
+          "課",
+          "教育・社会福祉関係",
+          "481",
+          "-",
+          "6",
+          "475",
+          "185",
+          "225",
+          "10",
+          "1",
+          "43",
+          "11"
+        ],
+        [
+          "",
+          "程",
+          "商業実務関係",
+          "1,856",
+          "-",
+          "4",
+          "1,852",
+          "421",
+          "1,110",
+          "35",
+          "2",
+          "14",
+          "270"
+        ],
+        [
+          "",
+          "",
+          "服飾・家政関係",
+          "1,309",
+          "-",
+          "-",
+          "1,309",
+          "189",
+          "522",
+          "51",
+          "2",
+          "16",
+          "529"
+        ],
+        [
+          "",
+          "",
+          "文化・教養関係",
+          "1,298",
+          "-",
+          "3",
+          "1,295",
+          "233",
+          "852",
+          "52",
+          "3",
+          "14",
+          "141"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "計",
+          "657",
+          "5",
+          "4",
+          "648",
+          "67",
+          "286",
+          "21",
+          "2",
+          "-",
+          "272"
+        ],
+        [
+          "",
+          "",
+          "工　業　関　係",
+          "11",
+          "-",
+          "1",
+          "10",
+          "-",
+          "5",
+          "1",
+          "1",
+          "-",
+          "3"
+        ],
+        [
+          "",
+          "",
+          "農　業　関　係",
+          "1",
+          "-",
+          "-",
+          "1",
+          "-",
+          "1",
+          "-",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "一",
+          "医　療　関　係",
+          "6",
+          "5",
+          "-",
+          "1",
+          "-",
+          "-",
+          "-",
+          "1",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "般",
+          "衛　生　関　係",
+          "25",
+          "-",
+          "-",
+          "25",
+          "4",
+          "9",
+          "5",
+          "-",
+          "-",
+          "7"
+        ],
+        [
+          "",
+          "課",
+          "教育・社会福祉関係",
+          "1",
+          "-",
+          "-",
+          "1",
+          "-",
+          "1",
+          "-",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "程",
+          "商業実務関係",
+          "27",
+          "-",
+          "1",
+          "26",
+          "2",
+          "9",
+          "2",
+          "-",
+          "-",
+          "13"
+        ],
+        [
+          "",
+          "",
+          "服飾・家政関係",
+          "303",
+          "-",
+          "2",
+          "301",
+          "19",
+          "49",
+          "7",
+          "-",
+          "-",
+          "226"
+        ],
+        [
+          "",
+          "",
+          "文化・教養関係",
+          "283",
+          "-",
+          "-",
+          "283",
+          "42",
+          "212",
+          "6",
+          "-",
+          "-",
+          "23"
+        ],
+        [
+          "",
+          "",
+          "そ　の　他",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "資料：平成９年度専修学校に関する実態調査中間報告",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "name": "tk9003_1",
+      "run_time": 0.44740986824035645,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ji_(surname_计)",
+              "desc": "Chinese surname Ji 計/计 (pinyin: Jì)",
+              "label": "Ji",
+              "wikidata": "http://www.wikidata.org/entity/Q4505417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ji_(surname_计)"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11474699",
+              "wikidata": "http://www.wikidata.org/entity/Q11474699"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ministry_of_Agriculture_and_Agro-based_Industry_(Malaysia)",
+              "desc": "Ministry in Malaysia",
+              "label": "Ministry of Agriculture and Agro Based Industry",
+              "wikidata": "http://www.wikidata.org/entity/Q22222773",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Food_Industries_(Malaysia)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia category",
+              "label": "Q18722614",
+              "wikidata": "http://www.wikidata.org/entity/Q18722614"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Q11574677",
+              "wikidata": "http://www.wikidata.org/entity/Q11574677"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Northwestern_University_School_of_Education_and_Social_Policy",
+              "desc": null,
+              "label": "Northwestern University School of Education and Social Policy",
+              "wikidata": "http://www.wikidata.org/entity/Q14687984",
+              "wikipedia": "http://en.wikipedia.org/wiki/Northwestern_University_School_of_Education_and_Social_Policy"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pratica_della_mercatura",
+              "desc": null,
+              "label": "Pratica della mercatura",
+              "wikidata": "http://www.wikidata.org/entity/Q3211886",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pratica_della_mercatura"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Civil–military_relations",
+              "desc": null,
+              "label": "civil–military relations",
+              "wikidata": "http://www.wikidata.org/entity/Q5124770",
+              "wikipedia": "http://en.wikipedia.org/wiki/Civil–military_relations"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Relational_grammar",
+              "desc": null,
+              "label": "Relational grammar",
+              "wikidata": "http://www.wikidata.org/entity/Q11655557",
+              "wikipedia": "http://en.wikipedia.org/wiki/Relational_grammar"
+            },
+            "target": [
+              9,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Surname",
+                "desc": "part of a naming scheme for individuals, used in many cultures worldwide",
+                "label": "family name",
+                "wikidata": "http://www.wikidata.org/entity/Q101352",
+                "wikipedia": "http://en.wikipedia.org/wiki/Surname"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chinese_surname",
+                "desc": "surnames used by Han Chinese and Sinicized ethnic groups",
+                "label": "Han surname",
+                "wikidata": "http://www.wikidata.org/entity/Q1093580",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chinese_surname"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/High_school_(North_America)",
+                "desc": "institution which provides all or part of secondary education",
+                "label": "high school",
+                "wikidata": "http://www.wikidata.org/entity/Q9826",
+                "wikipedia": "http://en.wikipedia.org/wiki/High_school_(North_America)"
+              },
+              {
+                "desc": "Japanese school after middle school",
+                "label": "Japanese upper secondary school",
+                "wikidata": "http://www.wikidata.org/entity/Q56351315"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/List_of_agriculture_ministries",
+                "desc": "type of ministry responsible for agricultural policy",
+                "label": "agriculture ministry",
+                "wikidata": "http://www.wikidata.org/entity/Q1364302"
+              },
+              {
+                "desc": "use with 'instance of' (P31) for Wikimedia category",
+                "label": "Wikimedia category",
+                "wikidata": "http://www.wikidata.org/entity/Q4167836",
+                "wikipedia": "http://en.wikipedia.org/wiki/Wikipedia:Categorization"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/University",
+                "desc": "academic institution for further education",
+                "label": "university",
+                "wikidata": "http://www.wikidata.org/entity/Q3918",
+                "wikipedia": "http://en.wikipedia.org/wiki/University"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Academic_institution",
+                "desc": "educational institution dedicated to education and research",
+                "label": "academic institution",
+                "wikidata": "http://www.wikidata.org/entity/Q4671277",
+                "wikipedia": "http://en.wikipedia.org/wiki/Academic_institution"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Organization",
+                "desc": "social entity (not necessarily commercial) uniting people into a structured group managing shared means to meet some needs, or to pursue collective goals",
+                "label": "organization",
+                "wikidata": "http://www.wikidata.org/entity/Q43229",
+                "wikipedia": "http://en.wikipedia.org/wiki/Organization"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Educational_institution",
+                "desc": "institution that provides education",
+                "label": "educational institution",
+                "wikidata": "http://www.wikidata.org/entity/Q2385804",
+                "wikipedia": "http://en.wikipedia.org/wiki/Educational_institution"
+              },
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              },
+              {
+                "desc": "physical or virtual object made by humans",
+                "label": "work",
+                "wikidata": "http://www.wikidata.org/entity/Q386724"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 100,
+        "columns": 11,
+        "core_attribute": 0,
+        "encoding": "SHIFT_JIS",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.9090909090909091,
+        "rows": 10,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "",
+          "計",
+          "国　立",
+          "公　立",
+          "私　立",
+          "学校法人立",
+          "準学校法人立",
+          "財団法人立",
+          "社団法人立",
+          "その他の法人立",
+          "個人立"
+        ],
+        [
+          "計",
+          "10,218",
+          "173",
+          "358",
+          "9,687",
+          "1,949",
+          "5,003",
+          "405",
+          "409",
+          "378",
+          "1,543"
+        ],
+        [
+          "工　業　関　係",
+          "1,703",
+          "-",
+          "10",
+          "1,693",
+          "455",
+          "1,030",
+          "47",
+          "2",
+          "24",
+          "135"
+        ],
+        [
+          "農　業　関　係",
+          "50",
+          "-",
+          "-",
+          "50",
+          "5",
+          "29",
+          "9",
+          "4",
+          "3",
+          "-"
+        ],
+        [
+          "医　療　関　係",
+          "1,668",
+          "173",
+          "319",
+          "1,176",
+          "195",
+          "241",
+          "106",
+          "382",
+          "241",
+          "11"
+        ],
+        [
+          "衛　生　関　係",
+          "793",
+          "-",
+          "6",
+          "787",
+          "121",
+          "491",
+          "67",
+          "13",
+          "23",
+          "72"
+        ],
+        [
+          "教育・社会福祉関係",
+          "499",
+          "-",
+          "6",
+          "493",
+          "190",
+          "238",
+          "10",
+          "1",
+          "43",
+          "11"
+        ],
+        [
+          "商業実務関係",
+          "1,999",
+          "-",
+          "6",
+          "1,993",
+          "451",
+          "1,194",
+          "40",
+          "2",
+          "14",
+          "292"
+        ],
+        [
+          "服飾・家政関係",
+          "1,882",
+          "-",
+          "7",
+          "1,875",
+          "246",
+          "690",
+          "68",
+          "2",
+          "16",
+          "853"
+        ],
+        [
+          "文化・教養関係",
+          "1,624",
+          "-",
+          "4",
+          "1,620",
+          "286",
+          "1,090",
+          "58",
+          "3",
+          "14",
+          "169"
+        ]
+      ]
+    }
+  ]
+}

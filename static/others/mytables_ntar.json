@@ -1,0 +1,5738 @@
+{
+  "n_tables": 13,
+  "status": "Success",
+  "tables": [
+    {
+      "name": "0AJSJYAL",
+      "run_time": 0.5475518703460693,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Newport,_Arkansas",
+              "desc": "city in Arkansas, USA",
+              "label": "Newport",
+              "wikidata": "http://www.wikidata.org/entity/Q79414",
+              "wikipedia": "http://en.wikipedia.org/wiki/Newport,_Arkansas"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Thomas_(2001_film)",
+              "desc": "2001 film by Raffaele Mertes",
+              "label": "Thomas",
+              "wikidata": "http://www.wikidata.org/entity/Q2421872",
+              "wikipedia": "http://en.wikipedia.org/wiki/Thomas_(2001_film)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/8082_Haynes",
+              "desc": "asteroid",
+              "label": "8082 Haynes",
+              "wikidata": "http://www.wikidata.org/entity/Q533244",
+              "wikipedia": "http://en.wikipedia.org/wiki/8082_Haynes"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "family name",
+              "label": "Lampitt",
+              "wikidata": "http://www.wikidata.org/entity/Q37468695"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Solanki",
+              "desc": "family name",
+              "label": "Solanki",
+              "wikidata": "http://www.wikidata.org/entity/Q37521226",
+              "wikipedia": "http://en.wikipedia.org/wiki/Solanki"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weston,_Colorado",
+              "desc": "unincorporated community in Colorado",
+              "label": "Weston",
+              "wikidata": "http://www.wikidata.org/entity/Q7989353",
+              "wikipedia": "http://en.wikipedia.org/wiki/Weston,_Colorado"
+            },
+            "target": [
+              6,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Human_settlement",
+                "desc": "community of any size, in which people live",
+                "label": "human settlement",
+                "wikidata": "http://www.wikidata.org/entity/Q486972",
+                "wikipedia": "http://en.wikipedia.org/wiki/Human_settlement"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Surname",
+                "desc": "part of a naming scheme for individuals, used in many cultures worldwide",
+                "label": "family name",
+                "wikidata": "http://www.wikidata.org/entity/Q101352",
+                "wikipedia": "http://en.wikipedia.org/wiki/Surname"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 37,
+        "columns": 7,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.7551020408163265,
+        "rows": 7,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4",
+          "col5",
+          "col6"
+        ],
+        [
+          "Newport",
+          "31",
+          "8",
+          "95",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Thomas",
+          "30",
+          "5",
+          "98",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Haynes",
+          "25",
+          "8",
+          "68",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Lampitt",
+          "29.4",
+          "10",
+          "73",
+          "3",
+          "-",
+          "-"
+        ],
+        [
+          "Solanki",
+          "19",
+          "4",
+          "76",
+          "1",
+          "-",
+          "-"
+        ],
+        [
+          "Weston",
+          "1",
+          "0",
+          "1",
+          "0",
+          "-",
+          "-"
+        ]
+      ]
+    },
+    {
+      "name": "0CF12YZK",
+      "run_time": 5.931526184082031,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "desc": "family name",
+              "label": "Pirce",
+              "wikidata": "http://www.wikidata.org/entity/Q37217137"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Amguid_crater",
+              "desc": "impact crater",
+              "label": "Amguid crater",
+              "wikidata": "http://www.wikidata.org/entity/Q248727",
+              "wikipedia": "http://en.wikipedia.org/wiki/Amguid_crater"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Zucchius_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Zucchius",
+              "wikidata": "http://www.wikidata.org/entity/Q227650",
+              "wikipedia": "http://en.wikipedia.org/wiki/Zucchius_(crater)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Capella_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Capella",
+              "wikidata": "http://www.wikidata.org/entity/Q211610",
+              "wikipedia": "http://en.wikipedia.org/wiki/Capella_(crater)"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gaudibert_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Gaudibert",
+              "wikidata": "http://www.wikidata.org/entity/Q211287",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gaudibert_(crater)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Thales_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Thales",
+              "wikidata": "http://www.wikidata.org/entity/Q201509",
+              "wikipedia": "http://en.wikipedia.org/wiki/Thales_(crater)"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Wikimedia disambiguation page",
+              "label": "Arold",
+              "wikidata": "http://www.wikidata.org/entity/Q697934"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Lagrange_(crater)",
+              "desc": "lunar crater",
+              "label": "Lagrange",
+              "wikidata": "http://www.wikidata.org/entity/Q195032",
+              "wikipedia": "http://en.wikipedia.org/wiki/Lagrange_(crater)"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Regiomontanus_(crater)",
+              "desc": "lunar crater",
+              "label": "Regiomontanus",
+              "wikidata": "http://www.wikidata.org/entity/Q175368",
+              "wikipedia": "http://en.wikipedia.org/wiki/Regiomontanus_(crater)"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/De_Gasparis_(crater)",
+              "desc": "lunar impact crater",
+              "label": "De Gasparis",
+              "wikidata": "http://www.wikidata.org/entity/Q168113",
+              "wikipedia": "http://en.wikipedia.org/wiki/De_Gasparis_(crater)"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Adams_(lunar_crater)",
+              "desc": "lunar crater",
+              "label": "Adams",
+              "wikidata": "http://www.wikidata.org/entity/Q166188",
+              "wikipedia": "http://en.wikipedia.org/wiki/Adams_(lunar_crater)"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gardnos_crater",
+              "desc": null,
+              "label": "Gardnos crater",
+              "wikidata": "http://www.wikidata.org/entity/Q164971",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gardnos_crater"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Diophantus_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Diophantus",
+              "wikidata": "http://www.wikidata.org/entity/Q164095",
+              "wikipedia": "http://en.wikipedia.org/wiki/Diophantus_(crater)"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Agrippa_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Agrippa",
+              "wikidata": "http://www.wikidata.org/entity/Q153150",
+              "wikipedia": "http://en.wikipedia.org/wiki/Agrippa_(crater)"
+            },
+            "target": [
+              14,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Agatharchides_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Agatharchides",
+              "wikidata": "http://www.wikidata.org/entity/Q153140",
+              "wikipedia": "http://en.wikipedia.org/wiki/Agatharchides_(crater)"
+            },
+            "target": [
+              15,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cavendish_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Cavendish",
+              "wikidata": "http://www.wikidata.org/entity/Q143729",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cavendish_(crater)"
+            },
+            "target": [
+              16,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Mersenius_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Mersenius",
+              "wikidata": "http://www.wikidata.org/entity/Q143365",
+              "wikipedia": "http://en.wikipedia.org/wiki/Mersenius_(crater)"
+            },
+            "target": [
+              17,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Zagut_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Zagut",
+              "wikidata": "http://www.wikidata.org/entity/Q140418",
+              "wikipedia": "http://en.wikipedia.org/wiki/Zagut_(crater)"
+            },
+            "target": [
+              18,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Hausen_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Hausen",
+              "wikidata": "http://www.wikidata.org/entity/Q134149",
+              "wikipedia": "http://en.wikipedia.org/wiki/Hausen_(crater)"
+            },
+            "target": [
+              19,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Abulfeda_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Abulfeda",
+              "wikidata": "http://www.wikidata.org/entity/Q133615",
+              "wikipedia": "http://en.wikipedia.org/wiki/Abulfeda_(crater)"
+            },
+            "target": [
+              20,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Planté_(crater)",
+              "desc": "lunar crater",
+              "label": "Planté",
+              "wikidata": "http://www.wikidata.org/entity/Q3208983",
+              "wikipedia": "http://en.wikipedia.org/wiki/Planté_(crater)"
+            },
+            "target": [
+              21,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Anděl_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Anděl",
+              "wikidata": "http://www.wikidata.org/entity/Q130049",
+              "wikipedia": "http://en.wikipedia.org/wiki/Anděl_(crater)"
+            },
+            "target": [
+              22,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aristoteles_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Aristoteles",
+              "wikidata": "http://www.wikidata.org/entity/Q128108",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aristoteles_(crater)"
+            },
+            "target": [
+              23,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aristillus_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Aristillus",
+              "wikidata": "http://www.wikidata.org/entity/Q128041",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aristillus_(crater)"
+            },
+            "target": [
+              24,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Harpalus_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Harpalus",
+              "wikidata": "http://www.wikidata.org/entity/Q128035",
+              "wikipedia": "http://en.wikipedia.org/wiki/Harpalus_(crater)"
+            },
+            "target": [
+              25,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Eudoxus_(lunar_crater)",
+              "desc": "crater on the Moon",
+              "label": "Eudoxus",
+              "wikidata": "http://www.wikidata.org/entity/Q128013",
+              "wikipedia": "http://en.wikipedia.org/wiki/Eudoxus_(lunar_crater)"
+            },
+            "target": [
+              26,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Lacroix_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Lacroix",
+              "wikidata": "http://www.wikidata.org/entity/Q116178",
+              "wikipedia": "http://en.wikipedia.org/wiki/Lacroix_(crater)"
+            },
+            "target": [
+              27,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Philolaus_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Philolaus",
+              "wikidata": "http://www.wikidata.org/entity/Q116169",
+              "wikipedia": "http://en.wikipedia.org/wiki/Philolaus_(crater)"
+            },
+            "target": [
+              28,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Mouchez_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Mouchez",
+              "wikidata": "http://www.wikidata.org/entity/Q115779",
+              "wikipedia": "http://en.wikipedia.org/wiki/Mouchez_(crater)"
+            },
+            "target": [
+              29,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pascal_(crater)",
+              "desc": "lunar crater",
+              "label": "Pascal",
+              "wikidata": "http://www.wikidata.org/entity/Q115739",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pascal_(crater)"
+            },
+            "target": [
+              30,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Plato_(crater)",
+              "desc": "crater on the Moon",
+              "label": "Plato",
+              "wikidata": "http://www.wikidata.org/entity/Q115383",
+              "wikipedia": "http://en.wikipedia.org/wiki/Plato_(crater)"
+            },
+            "target": [
+              31,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Abel_(crater)",
+              "desc": "lunar crater",
+              "label": "Abel",
+              "wikidata": "http://www.wikidata.org/entity/Q115088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Abel_(crater)"
+            },
+            "target": [
+              32,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Abul_Wafa_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Abul Wafa",
+              "wikidata": "http://www.wikidata.org/entity/Q115062",
+              "wikipedia": "http://en.wikipedia.org/wiki/Abul_Wafa_(crater)"
+            },
+            "target": [
+              33,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Saussure_(crater)",
+              "desc": "crater in the southern hemisphere of the Moon's near side named after Horace B. de Saussure",
+              "label": "Saussure",
+              "wikidata": "http://www.wikidata.org/entity/Q74583",
+              "wikipedia": "http://en.wikipedia.org/wiki/Saussure_(crater)"
+            },
+            "target": [
+              34,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Longomontanus_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Longomontanus",
+              "wikidata": "http://www.wikidata.org/entity/Q73533",
+              "wikipedia": "http://en.wikipedia.org/wiki/Longomontanus_(crater)"
+            },
+            "target": [
+              35,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Orontius_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Orontius",
+              "wikidata": "http://www.wikidata.org/entity/Q64067",
+              "wikipedia": "http://en.wikipedia.org/wiki/Orontius_(crater)"
+            },
+            "target": [
+              36,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Esclangon_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Esclangon",
+              "wikidata": "http://www.wikidata.org/entity/Q63694",
+              "wikipedia": "http://en.wikipedia.org/wiki/Esclangon_(crater)"
+            },
+            "target": [
+              37,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kepler_(lunar_crater)",
+              "desc": "lunar impact crater",
+              "label": "Kepler",
+              "wikidata": "http://www.wikidata.org/entity/Q47592",
+              "wikipedia": "http://en.wikipedia.org/wiki/Kepler_(lunar_crater)"
+            },
+            "target": [
+              38,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue_Spring_(film)",
+              "desc": "2002 film by Toshiaki Toyoda",
+              "label": "Blue Spring",
+              "wikidata": "http://www.wikidata.org/entity/Q1060149",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue_Spring_(film)"
+            },
+            "target": [
+              39,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Daguerre_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Daguerre",
+              "wikidata": "http://www.wikidata.org/entity/Q1157392",
+              "wikipedia": "http://en.wikipedia.org/wiki/Daguerre_(crater)"
+            },
+            "target": [
+              40,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cistus",
+              "desc": "genus of flowering plants in the family Cistaceae",
+              "label": "Cistus",
+              "wikidata": "http://www.wikidata.org/entity/Q206127",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cistus"
+            },
+            "target": [
+              41,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cyrillus_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Cyrillus",
+              "wikidata": "http://www.wikidata.org/entity/Q1148824",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cyrillus_(crater)"
+            },
+            "target": [
+              42,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Curtius_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Curtius",
+              "wikidata": "http://www.wikidata.org/entity/Q1145827",
+              "wikipedia": "http://en.wikipedia.org/wiki/Curtius_(crater)"
+            },
+            "target": [
+              43,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Crüger_(crater)",
+              "desc": "lunar impact crater",
+              "label": "Crüger",
+              "wikidata": "http://www.wikidata.org/entity/Q1142589",
+              "wikipedia": "http://en.wikipedia.org/wiki/Crüger_(crater)"
+            },
+            "target": [
+              44,
+              0
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "vertical distance from a horizontal area to a point below. Compare with \"horizontal depth\" (P5524)",
+                "label": "vertical depth",
+                "wikidata": "http://www.wikidata.org/prop/direct/P4511"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "the diameter of a circular or spherical object",
+                "label": "diameter",
+                "wikidata": "http://www.wikidata.org/prop/direct/P2386"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Impact_crater",
+                "desc": "circular depression on a celestial object formed by a hypervelocity impact of a smaller body",
+                "label": "impact crater",
+                "wikidata": "http://www.wikidata.org/entity/Q55818",
+                "wikipedia": "http://en.wikipedia.org/wiki/Impact_crater"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 135,
+        "columns": 3,
+        "core_attribute": 0,
+        "encoding": "utf-8",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 45,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2"
+        ],
+        [
+          "Pirce",
+          "2162.16",
+          "19.089"
+        ],
+        [
+          "Aoguid crater",
+          "64.935",
+          "0.55385"
+        ],
+        [
+          "Zucchiu",
+          "3228.7999999999997",
+          "62.757600000000004"
+        ],
+        [
+          "Capemla",
+          "3479.0",
+          "48.244299999999996"
+        ],
+        [
+          "Gaudiber",
+          "1600.0",
+          "33.1"
+        ],
+        [
+          "Thbles",
+          "1814.4",
+          "30.9232"
+        ],
+        [
+          "Arold",
+          "953.8",
+          "93.56549999999999"
+        ],
+        [
+          "Lagtange",
+          "2700.0",
+          "163.296"
+        ],
+        [
+          "Regiomonanus",
+          "3646.1",
+          "127.762"
+        ],
+        [
+          "De asparis",
+          "1090.8",
+          "31.0854"
+        ],
+        [
+          "Adams",
+          "4206.76",
+          "63.61649999999999"
+        ],
+        [
+          "ardnos crater",
+          "499.0",
+          "5.01"
+        ],
+        [
+          "iophantus",
+          "2979.0",
+          "17.4416"
+        ],
+        [
+          "Agripp",
+          "2970.0",
+          "43.5372"
+        ],
+        [
+          "Agatharehides",
+          "1171.74",
+          "51.48"
+        ],
+        [
+          "Cavendih",
+          "2529.6",
+          "52.757799999999996"
+        ],
+        [
+          "Mfrsenius",
+          "2306.8999999999996",
+          "84.58449999999999"
+        ],
+        [
+          "Zagut",
+          "3184.0",
+          "78.18990000000001"
+        ],
+        [
+          "Kausen",
+          "5995.92",
+          "163.48899999999998"
+        ],
+        [
+          "Abulfefa",
+          "1242.3",
+          "62.0756"
+        ],
+        [
+          "Plngté",
+          "2277.0",
+          "88.6652"
+        ],
+        [
+          "Anděl",
+          "1356.7499999999998",
+          "32.834199999999996"
+        ],
+        [
+          "ristoteles",
+          "3468.5",
+          "88.3008"
+        ],
+        [
+          "Aristillvs",
+          "3306.6",
+          "54.3456"
+        ],
+        [
+          "arpalus",
+          "2900.0",
+          "40.198"
+        ],
+        [
+          "Eudozus",
+          "1488.0",
+          "70.6914"
+        ],
+        [
+          "Laroi{",
+          "1587.2",
+          "35.955600000000004"
+        ],
+        [
+          "Philrlaus",
+          "3366.0",
+          "71.32860000000001"
+        ],
+        [
+          "Mouche}",
+          "1381.3799999999999",
+          "83.04839999999999"
+        ],
+        [
+          "Pascl",
+          "4583.7",
+          "107.568"
+        ],
+        [
+          "Plato",
+          "2020.0",
+          "101.202"
+        ],
+        [
+          "Abel",
+          "1179.29",
+          "137.0"
+        ],
+        [
+          "Fbul Wafa",
+          "2808.3999999999996",
+          "54.037400000000005"
+        ],
+        [
+          "Sausure",
+          "1866.84",
+          "55.0368"
+        ],
+        [
+          "Longomontanu",
+          "4.4595",
+          "146.0"
+        ],
+        [
+          "Orotius",
+          "3376.74",
+          "120.274"
+        ],
+        [
+          "Escangon",
+          "585.28",
+          "15.238800000000001"
+        ],
+        [
+          "Keplfr",
+          "2620.8",
+          "29.7065"
+        ],
+        [
+          "aoishau",
+          "1.2011999999999998",
+          "36.9202"
+        ],
+        [
+          "Daguerrg",
+          "120.6",
+          "45.7542"
+        ],
+        [
+          "Cystus",
+          "3984.0",
+          "47.321999999999996"
+        ],
+        [
+          "Cyrilus",
+          "3420.4",
+          "97.5114"
+        ],
+        [
+          "Eurtius",
+          "6813.6",
+          "100.29299999999999"
+        ],
+        [
+          "Crýger",
+          "533.18",
+          "45.6246"
+        ]
+      ]
+    },
+    {
+      "name": "4EGV2QNO",
+      "run_time": 1.3290369510650635,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "desc": "family name",
+              "label": "Aspen",
+              "wikidata": "http://www.wikidata.org/entity/Q37506976"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "trade name for Bayer Aspirin and many others",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q10420388"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              1,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Advil",
+              "desc": "nonsteroidal anti-inflammatory drug (Ibuprofen)",
+              "label": "Advil",
+              "wikidata": "http://www.wikidata.org/entity/Q16240691",
+              "wikipedia": "http://en.wikipedia.org/wiki/Advil"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              2,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Advil",
+              "desc": "nonsteroidal anti-inflammatory drug (Ibuprofen)",
+              "label": "Advil",
+              "wikidata": "http://www.wikidata.org/entity/Q16240691",
+              "wikipedia": "http://en.wikipedia.org/wiki/Advil"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              3,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Tylenol",
+              "wikidata": "http://www.wikidata.org/entity/Q47521665"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Rectal_administration",
+              "desc": "way of administering drugs into the rectum to be absorbed by the rectum's blood vessels",
+              "label": "rectal",
+              "wikidata": "http://www.wikidata.org/entity/Q419892",
+              "wikipedia": "http://en.wikipedia.org/wiki/Rectal_administration"
+            },
+            "target": [
+              4,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "trade name for Bayer Aspirin and many others",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q10420388"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              5,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Advil",
+              "desc": "nonsteroidal anti-inflammatory drug (Ibuprofen)",
+              "label": "Advil",
+              "wikidata": "http://www.wikidata.org/entity/Q16240691",
+              "wikipedia": "http://en.wikipedia.org/wiki/Advil"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              6,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Naproxen",
+              "desc": "chemical compound",
+              "label": "naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q1215575",
+              "wikipedia": "http://en.wikipedia.org/wiki/Naproxen"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Anaprox",
+              "wikidata": "http://www.wikidata.org/entity/Q47521049"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              7,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sertraline",
+              "desc": "chemical compound",
+              "label": "sertraline",
+              "wikidata": "http://www.wikidata.org/entity/Q407617",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sertraline"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Zoloft",
+              "wikidata": "http://www.wikidata.org/entity/Q47522126"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              8,
+              3
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "is part of and forms biologically active component. Inverse of \"has active ingredient\"",
+                "label": "active ingredient in",
+                "wikidata": "http://www.wikidata.org/prop/direct/P3780"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "therapeutic chemical identification code per ATC",
+                "label": "ATC code",
+                "wikidata": "http://www.wikidata.org/prop/direct/P267"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "disease that this pharmaceutical drug, procedure, or therapy is used to treat",
+                "label": "medical condition treated",
+                "wikidata": "http://www.wikidata.org/prop/direct/P2175"
+              }
+            ],
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Drug",
+                "desc": "chemical substance having an effect on the body",
+                "label": "drug",
+                "wikidata": "http://www.wikidata.org/entity/Q8386",
+                "wikipedia": "http://en.wikipedia.org/wiki/Drug"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chemical_compound",
+                "desc": "pure chemical substance consisting of two or more different chemical elements",
+                "label": "chemical compound",
+                "wikidata": "http://www.wikidata.org/entity/Q11173",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chemical_compound"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "desc": "qualitative and quantitative composition of a medicinal product in the dose form authorized for administration by a medicines regulatory agency and as represented with any corresponding regulated product information",
+                "label": "pharmaceutical product",
+                "wikidata": "http://www.wikidata.org/entity/Q28885102"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Route_of_administration",
+                "desc": "path by which a drug, fluid, poison, or other substance is taken into the body",
+                "label": "route of administration",
+                "wikidata": "http://www.wikidata.org/entity/Q621636",
+                "wikipedia": "http://en.wikipedia.org/wiki/Route_of_administration"
+              }
+            ],
+            "target": 3
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 36,
+        "columns": 4,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 9,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "aspren",
+          "Bayer Aspirin",
+          "A01AD05",
+          "By mouth"
+        ],
+        [
+          "ibproufen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "iboprufen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "acetaminophen",
+          "Tylenol",
+          "N02BE01",
+          "Rectal"
+        ],
+        [
+          "aspirin",
+          "Bayer Aspirin",
+          "A01AD05",
+          "By mouth"
+        ],
+        [
+          "ibuprofen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "naproxen",
+          "Anaprox",
+          "G02CC02",
+          "By mouth"
+        ],
+        [
+          "sertraline",
+          "Zoloft",
+          "N06AB06",
+          "By mouth"
+        ]
+      ]
+    },
+    {
+      "name": "4FW66XNV",
+      "run_time": 0.3753490447998047,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Newport,_Arkansas",
+              "desc": "city in Arkansas, USA",
+              "label": "Newport",
+              "wikidata": "http://www.wikidata.org/entity/Q79414",
+              "wikipedia": "http://en.wikipedia.org/wiki/Newport,_Arkansas"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Thomas_(surname)",
+              "desc": "family name",
+              "label": "Thomas",
+              "wikidata": "http://www.wikidata.org/entity/Q1413324",
+              "wikipedia": "http://en.wikipedia.org/wiki/Thomas_(surname)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/8082_Haynes",
+              "desc": "asteroid",
+              "label": "8082 Haynes",
+              "wikidata": "http://www.wikidata.org/entity/Q533244",
+              "wikipedia": "http://en.wikipedia.org/wiki/8082_Haynes"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "family name",
+              "label": "Lampitt",
+              "wikidata": "http://www.wikidata.org/entity/Q37468695"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Bengali actress from India",
+              "label": "Solanki Roy",
+              "wikidata": "http://www.wikidata.org/entity/Q56702037",
+              "wikipedia": "http://en.wikipedia.org/wiki/Solanki_Roy"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weston,_Colorado",
+              "desc": "unincorporated community in Colorado",
+              "label": "Weston",
+              "wikidata": "http://www.wikidata.org/entity/Q7989353",
+              "wikipedia": "http://en.wikipedia.org/wiki/Weston,_Colorado"
+            },
+            "target": [
+              6,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Human_settlement",
+                "desc": "community of any size, in which people live",
+                "label": "human settlement",
+                "wikidata": "http://www.wikidata.org/entity/Q486972",
+                "wikipedia": "http://en.wikipedia.org/wiki/Human_settlement"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Surname",
+                "desc": "part of a naming scheme for individuals, used in many cultures worldwide",
+                "label": "family name",
+                "wikidata": "http://www.wikidata.org/entity/Q101352",
+                "wikipedia": "http://en.wikipedia.org/wiki/Surname"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 37,
+        "columns": 7,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.7551020408163265,
+        "rows": 7,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4",
+          "col5",
+          "col6"
+        ],
+        [
+          "Newportt",
+          "31",
+          "8",
+          "95",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Thomas",
+          "30",
+          "5",
+          "98",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Haynes",
+          "25",
+          "8",
+          "68",
+          "2",
+          "-",
+          "-"
+        ],
+        [
+          "Lammpitt",
+          "29.4",
+          "10",
+          "73",
+          "3",
+          "-",
+          "-"
+        ],
+        [
+          "Solankii",
+          "19",
+          "4",
+          "76",
+          "1",
+          "-",
+          "-"
+        ],
+        [
+          "Weston",
+          "1",
+          "0",
+          "1",
+          "0",
+          "-",
+          "-"
+        ]
+      ]
+    },
+    {
+      "name": "B7ILPH0Y",
+      "run_time": 0.837332010269165,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Paracetamol",
+              "desc": "common drug for pain and fever",
+              "label": "acetaminophen",
+              "wikidata": "http://www.wikidata.org/entity/Q57055",
+              "wikipedia": "http://en.wikipedia.org/wiki/Paracetamol"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Tylenol",
+              "wikidata": "http://www.wikidata.org/entity/Q47521665"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Rectal_administration",
+              "desc": "way of administering drugs into the rectum to be absorbed by the rectum's blood vessels",
+              "label": "rectal",
+              "wikidata": "http://www.wikidata.org/entity/Q419892",
+              "wikipedia": "http://en.wikipedia.org/wiki/Rectal_administration"
+            },
+            "target": [
+              1,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aspirin",
+              "desc": "medication used to treat pain and decrease the risk of heart disease",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q18216",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aspirin"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "trade name for Bayer Aspirin and many others",
+              "label": "aspirin",
+              "wikidata": "http://www.wikidata.org/entity/Q10420388"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              2,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ibuprofen",
+              "desc": "chemical compound",
+              "label": "ibuprofen",
+              "wikidata": "http://www.wikidata.org/entity/Q186969",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Advil",
+              "desc": "nonsteroidal anti-inflammatory drug (Ibuprofen)",
+              "label": "Advil",
+              "wikidata": "http://www.wikidata.org/entity/Q16240691",
+              "wikipedia": "http://en.wikipedia.org/wiki/Advil"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Intravenous_therapy",
+              "desc": "Delivery of fluids directly into the circulatory system.",
+              "label": "intravenous infusion and defusion",
+              "wikidata": "http://www.wikidata.org/entity/Q640448",
+              "wikipedia": "http://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            "target": [
+              3,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Naproxen",
+              "desc": "chemical compound",
+              "label": "naproxen",
+              "wikidata": "http://www.wikidata.org/entity/Q1215575",
+              "wikipedia": "http://en.wikipedia.org/wiki/Naproxen"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Anaprox",
+              "wikidata": "http://www.wikidata.org/entity/Q47521049"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              4,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sertraline",
+              "desc": "chemical compound",
+              "label": "sertraline",
+              "wikidata": "http://www.wikidata.org/entity/Q407617",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sertraline"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "pharmaceutical product",
+              "label": "Zoloft",
+              "wikidata": "http://www.wikidata.org/entity/Q47522126"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oral_administration",
+              "desc": "route of administration where a substance is taken through the mouth",
+              "label": "oral administration",
+              "wikidata": "http://www.wikidata.org/entity/Q285166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oral_administration"
+            },
+            "target": [
+              5,
+              3
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "is part of and forms biologically active component. Inverse of \"has active ingredient\"",
+                "label": "active ingredient in",
+                "wikidata": "http://www.wikidata.org/prop/direct/P3780"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "therapeutic chemical identification code per ATC",
+                "label": "ATC code",
+                "wikidata": "http://www.wikidata.org/prop/direct/P267"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "path by which a drug, fluid, poison, or other substance is taken into the body",
+                "label": "route of administration",
+                "wikidata": "http://www.wikidata.org/prop/direct/P636"
+              }
+            ],
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Drug",
+                "desc": "chemical substance having an effect on the body",
+                "label": "drug",
+                "wikidata": "http://www.wikidata.org/entity/Q8386",
+                "wikipedia": "http://en.wikipedia.org/wiki/Drug"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Medication",
+                "desc": "substance used to diagnose, cure, treat, or prevent disease",
+                "label": "medication",
+                "wikidata": "http://www.wikidata.org/entity/Q12140",
+                "wikipedia": "http://en.wikipedia.org/wiki/Medication"
+              },
+              {
+                "dbpedia": "http://dbpedia.org/resource/Chemical_compound",
+                "desc": "pure chemical substance consisting of two or more different chemical elements",
+                "label": "chemical compound",
+                "wikidata": "http://www.wikidata.org/entity/Q11173",
+                "wikipedia": "http://en.wikipedia.org/wiki/Chemical_compound"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "desc": "qualitative and quantitative composition of a medicinal product in the dose form authorized for administration by a medicines regulatory agency and as represented with any corresponding regulated product information",
+                "label": "pharmaceutical product",
+                "wikidata": "http://www.wikidata.org/entity/Q28885102"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Route_of_administration",
+                "desc": "path by which a drug, fluid, poison, or other substance is taken into the body",
+                "label": "route of administration",
+                "wikidata": "http://www.wikidata.org/entity/Q621636",
+                "wikipedia": "http://en.wikipedia.org/wiki/Route_of_administration"
+              }
+            ],
+            "target": 3
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 24,
+        "columns": 4,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 6,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "acetaminophen",
+          "Tylenol",
+          "N02BE01",
+          "Rectal"
+        ],
+        [
+          "aspirin",
+          "Bayer Aspirin",
+          "A01AD05",
+          "By mouth"
+        ],
+        [
+          "ibuprofen",
+          "Advil",
+          "C01EB16",
+          "Intravenous"
+        ],
+        [
+          "naproxen",
+          "Anaprox",
+          "G02CC02",
+          "By mouth"
+        ],
+        [
+          "sertraline",
+          "Zoloft",
+          "N06AB06",
+          "By mouth"
+        ]
+      ]
+    },
+    {
+      "name": "BN8FOG7F",
+      "run_time": 1.4138057231903076,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Conservatism",
+              "desc": "political philosophy focused on retaining traditional social institutions",
+              "label": "conservatism",
+              "wikidata": "http://www.wikidata.org/entity/Q7169",
+              "wikipedia": "http://en.wikipedia.org/wiki/Conservatism"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Labour_Party_(UK)",
+              "desc": "political party in the United Kingdom",
+              "label": "Labour Party",
+              "wikidata": "http://www.wikidata.org/entity/Q9630",
+              "wikipedia": "http://en.wikipedia.org/wiki/Labour_Party_(UK)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Liberal_Democrats_(UK)",
+              "desc": "political party in the United Kingdom",
+              "label": "Liberal Democrats",
+              "wikidata": "http://www.wikidata.org/entity/Q9624",
+              "wikipedia": "http://en.wikipedia.org/wiki/Liberal_Democrats_(UK)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "street in Břeclav",
+              "label": "SNP",
+              "wikidata": "http://www.wikidata.org/entity/Q44728347"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/PC_(footballer)",
+              "desc": "Brazilian footballer",
+              "label": "PC",
+              "wikidata": "http://www.wikidata.org/entity/Q20641299",
+              "wikipedia": "http://en.wikipedia.org/wiki/PC_(footballer)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green_(disambiguation)",
+              "desc": "Wikimedia disambiguation page",
+              "label": "Green",
+              "wikidata": "http://www.wikidata.org/entity/Q223932",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green_(disambiguation)"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "protein-coding gene in the species Homo sapiens",
+              "label": "NPPB",
+              "wikidata": "http://www.wikidata.org/entity/Q14865348"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/SKIP",
+              "desc": "protein-coding gene in the species Homo sapiens",
+              "label": "INPP5K",
+              "wikidata": "http://www.wikidata.org/entity/Q18040568",
+              "wikipedia": "http://en.wikipedia.org/wiki/SKIP"
+            },
+            "target": [
+              8,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 5,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.9333333333333333,
+        "rows": 9,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4"
+        ],
+        [
+          "Conservative",
+          "8,895,066",
+          "37.3",
+          "254",
+          "34"
+        ],
+        [
+          "Labour",
+          "9,199,875",
+          "38.6",
+          "291",
+          "34"
+        ],
+        [
+          "Lib-Dem",
+          "2,519,729",
+          "10.6",
+          "37",
+          "8"
+        ],
+        [
+          "SNP",
+          "1,004,774",
+          "4.2",
+          "42",
+          ""
+        ],
+        [
+          "PC",
+          "313,433",
+          "1.3",
+          "7",
+          ""
+        ],
+        [
+          "Green",
+          "1,785,516",
+          "7.5",
+          "1",
+          "6"
+        ],
+        [
+          "BNP",
+          "112,864",
+          "0.5",
+          "0",
+          ""
+        ],
+        [
+          "UKIP",
+          "3,282,872",
+          "13.8",
+          "0",
+          "14"
+        ]
+      ]
+    },
+    {
+      "name": "DYOGP7OK",
+      "run_time": 1.0987770557403564,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "desc": "brown dwarf",
+              "label": "2MASS J00540655-0031018",
+              "wikidata": "http://www.wikidata.org/entity/Q222120"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "brown dwarf",
+              "label": "2MASS J00464841+0715177",
+              "wikidata": "http://www.wikidata.org/entity/Q222110"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "2MASS J08351104+2006371",
+              "wikidata": "http://www.wikidata.org/entity/Q78611172"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "2MASS J08330994+1806328",
+              "wikidata": "http://www.wikidata.org/entity/Q78610810"
+            },
+            "target": [
+              4,
+              0
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "component of the object's velocity that points in the direction of the radius connecting the object and the point",
+                "label": "radial velocity",
+                "wikidata": "http://www.wikidata.org/prop/direct/P2216"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "parallax of nearest stars",
+                "label": "parallax",
+                "wikidata": "http://www.wikidata.org/prop/direct/P2214"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "astronomical equivalent of longitude",
+                "label": "right ascension",
+                "wikidata": "http://www.wikidata.org/prop/direct/P6257"
+              }
+            ],
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "astronomical object consisting of a luminous spheroid of plasma held together by its own gravity",
+                "label": "star",
+                "wikidata": "http://www.wikidata.org/entity/Q523",
+                "wikipedia": "http://en.wikipedia.org/wiki/Star"
+              },
+              {
+                "desc": "λ < 10 µm",
+                "label": "near-IR source",
+                "wikidata": "http://www.wikidata.org/entity/Q67206785"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 20,
+        "columns": 4,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 5,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "2MASS J10540655-0031018",
+          "-5.7",
+          "19.3716366",
+          "13.635635128508735"
+        ],
+        [
+          "2MASS J0464841+0715177",
+          "-2.7747499999999996",
+          "26.671235999999997",
+          "11.818755055646479"
+        ],
+        [
+          "2MAS J08351104+2006371",
+          "72.216",
+          "3.7242887999999996",
+          "128.15196099865955"
+        ],
+        [
+          "2MASS J08330994+186328",
+          "-6.993",
+          "6.0962562",
+          "127.64996294136303"
+        ]
+      ]
+    },
+    {
+      "name": "HBKGJQEY",
+      "run_time": 2.530910015106201,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Walmart",
+              "desc": "U.S. discount retailer based in Arkansas",
+              "label": "Walmart",
+              "wikidata": "http://www.wikidata.org/entity/Q483551",
+              "wikipedia": "http://en.wikipedia.org/wiki/Walmart"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_National_Petroleum_Corporation",
+              "desc": "Chinese state-owned oil and gas corporation",
+              "label": "China National Petroleum Corporation",
+              "wikidata": "http://www.wikidata.org/entity/Q588786",
+              "wikipedia": "http://en.wikipedia.org/wiki/China_National_Petroleum_Corporation"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/FAW_Group",
+              "desc": "company",
+              "label": "FAW Group",
+              "wikidata": "http://www.wikidata.org/entity/Q1124351",
+              "wikipedia": "http://en.wikipedia.org/wiki/FAW_Group"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/State_Grid_Corporation_of_China",
+              "desc": "Chinese transmission system operator",
+              "label": "State Grid Corporation of China",
+              "wikidata": "http://www.wikidata.org/entity/Q209078",
+              "wikipedia": "http://en.wikipedia.org/wiki/State_Grid_Corporation_of_China"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Foxconn",
+              "desc": "Taiwanese multinational electronics contract manufacturing trading as Foxconn",
+              "label": "Foxconn",
+              "wikidata": "http://www.wikidata.org/entity/Q463094",
+              "wikipedia": "http://en.wikipedia.org/wiki/Foxconn"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Taiwan",
+              "desc": "A democratic republic in East Asia with limited recognition",
+              "label": "Taiwan",
+              "wikidata": "http://www.wikidata.org/entity/Q865",
+              "wikipedia": "http://en.wikipedia.org/wiki/Taiwan"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Volkswagen",
+              "desc": "automotive brand; manufacturing subsidiary of Volkswagen Group",
+              "label": "Volkswagen",
+              "wikidata": "http://www.wikidata.org/entity/Q246",
+              "wikipedia": "http://en.wikipedia.org/wiki/Volkswagen"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weimar_Republic",
+              "desc": "sovereign state in Central Europe",
+              "label": "Germany",
+              "wikidata": "http://www.wikidata.org/entity/Q183",
+              "wikipedia": "http://en.wikipedia.org/wiki/Germany"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Amazon_(company)",
+              "desc": "American electronic commerce and cloud computing company",
+              "label": "Amazon",
+              "wikidata": "http://www.wikidata.org/entity/Q3884",
+              "wikipedia": "http://en.wikipedia.org/wiki/Amazon_(company)"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sinopec",
+              "desc": "Chinese oil and gas company",
+              "label": "Sinopec",
+              "wikidata": "http://www.wikidata.org/entity/Q831445",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sinopec"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Compass_Group",
+              "desc": "company",
+              "label": "Compass Group",
+              "wikidata": "http://www.wikidata.org/entity/Q782697",
+              "wikipedia": "http://en.wikipedia.org/wiki/Compass_Group"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Great_Britain",
+              "desc": "country in Western Europe",
+              "label": "United Kingdom",
+              "wikidata": "http://www.wikidata.org/entity/Q145",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_Kingdom"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States_Postal_Service",
+              "desc": "independent agency of the U.S. federal government responsible for providing postal service",
+              "label": "United States Postal Service",
+              "wikidata": "http://www.wikidata.org/entity/Q668687",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States_Postal_Service"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              10,
+              2
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "sovereign state of this item (not to be used for human beings)",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/prop/direct/P17"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Organization",
+                "desc": "social entity (not necessarily commercial) uniting people into a structured group managing shared means to meet some needs, or to pursue collective goals",
+                "label": "organization",
+                "wikidata": "http://www.wikidata.org/entity/Q43229",
+                "wikipedia": "http://en.wikipedia.org/wiki/Organization"
+              },
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Country",
+                "desc": "distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/entity/Q6256",
+                "wikipedia": "http://en.wikipedia.org/wiki/Country"
+              }
+            ],
+            "target": 2
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 44,
+        "columns": 4,
+        "core_attribute": 1,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 11,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "1",
+          "Walmart",
+          "United States",
+          "2,200,000"
+        ],
+        [
+          "2",
+          "China National Petroleum",
+          "China",
+          "1,382,401"
+        ],
+        [
+          "3",
+          "China PPost Group",
+          "China",
+          "935,191"
+        ],
+        [
+          "4",
+          "State Grid",
+          "China",
+          "917,717"
+        ],
+        [
+          "5",
+          "Hon Hai Precision Industry (Foxconn))",
+          "Taiwan",
+          "667,680"
+        ],
+        [
+          "6",
+          "Volkswagen",
+          "Germany",
+          "664,496"
+        ],
+        [
+          "7",
+          "Amazon",
+          "United States",
+          "647,500"
+        ],
+        [
+          "8",
+          "Sinopec Groupp",
+          "China",
+          "619,151"
+        ],
+        [
+          "9",
+          "Compass Group",
+          "United Kingdom",
+          "595,841"
+        ],
+        [
+          "10",
+          "United States Postal  Service",
+          "United States",
+          "565,802"
+        ]
+      ]
+    },
+    {
+      "name": "K0PM5GMK",
+      "run_time": 19.189537048339844,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "desc": "flag",
+              "label": "flag of Úbeda",
+              "wikidata": "http://www.wikidata.org/entity/Q32094061"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "color",
+              "label": "garnet",
+              "wikidata": "http://www.wikidata.org/entity/Q244822"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "desc": "sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa",
+              "label": "Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "5:3",
+              "wikidata": "http://www.wikidata.org/entity/Q30302686"
+            },
+            "target": [
+              1,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "former national flag representing Czechoslovakia between 1920-1992",
+              "label": "flag of Czechoslovakia",
+              "wikidata": "http://www.wikidata.org/entity/Q27966457"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "desc": "color; additive and subtractive (RYB) primary color; visible between purple and green",
+              "label": "blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Czechoslovakia",
+              "desc": "sovereign state in Central Europe (1918-1992)",
+              "label": "Czechoslovakia",
+              "wikidata": "http://www.wikidata.org/entity/Q33946",
+              "wikipedia": "http://en.wikipedia.org/wiki/Czechoslovakia"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              2,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "Flag",
+              "label": "Flag of Chachapoyas",
+              "wikidata": "http://www.wikidata.org/entity/Q27089347"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "desc": "color",
+              "label": "yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Peru",
+              "desc": "sovereign state in South America",
+              "label": "Peru",
+              "wikidata": "http://www.wikidata.org/entity/Q419",
+              "wikipedia": "http://en.wikipedia.org/wiki/Peru"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              3,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Russian Navy Ensign",
+              "wikidata": "http://www.wikidata.org/entity/Q7382095"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "desc": "color; additive and subtractive (RYB) primary color; visible between purple and green",
+              "label": "blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Russia",
+              "desc": "sovereign state in Eastern Europe and Northern Asia",
+              "label": "Russia",
+              "wikidata": "http://www.wikidata.org/entity/Q159",
+              "wikipedia": "http://en.wikipedia.org/wiki/Russia"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              4,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "flag of Peñamellera Baja",
+              "wikidata": "http://www.wikidata.org/entity/Q5718706"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "desc": "color",
+              "label": "yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "desc": "sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa",
+              "label": "Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              5,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Flag of Gran Canaria",
+              "wikidata": "http://www.wikidata.org/entity/Q5718562"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "desc": "color",
+              "label": "yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "desc": "sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa",
+              "label": "Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              6,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "flag of Mieres (Asturies)",
+              "wikidata": "http://www.wikidata.org/entity/Q5558049"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "desc": "color",
+              "label": "yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "desc": "sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa",
+              "label": "Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              7,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Flag of Fuerteventura",
+              "wikidata": "http://www.wikidata.org/entity/Q24942296"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green",
+              "desc": "color; additive primary color; visible between blue and yellow",
+              "label": "green",
+              "wikidata": "http://www.wikidata.org/entity/Q3133",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "desc": "sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa",
+              "label": "Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              8,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Flag of Lanzarote",
+              "wikidata": "http://www.wikidata.org/entity/Q24942285"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "desc": "color; additive and subtractive (RYB) primary color; visible between purple and green",
+              "label": "blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Spain",
+              "desc": "sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa",
+              "label": "Spain",
+              "wikidata": "http://www.wikidata.org/entity/Q29",
+              "wikipedia": "http://en.wikipedia.org/wiki/Spain"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              9,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "flag",
+              "label": "flag of the Weimar Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q4485721"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "desc": "color",
+              "label": "red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/German_Reich",
+              "desc": "Germany in the years 1919–1933",
+              "label": "Weimar Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q41304",
+              "wikipedia": "http://en.wikipedia.org/wiki/Weimar_Republic"
+            },
+            "target": [
+              10,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              10,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "flag of Għaxaq",
+              "wikidata": "http://www.wikidata.org/entity/Q11698194"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green",
+              "desc": "color; additive primary color; visible between blue and yellow",
+              "label": "green",
+              "wikidata": "http://www.wikidata.org/entity/Q3133",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green"
+            },
+            "target": [
+              11,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Malta",
+              "desc": "sovereign state in Southern Europe situated on an archipelago in the Mediterranean Sea",
+              "label": "Malta",
+              "wikidata": "http://www.wikidata.org/entity/Q233",
+              "wikipedia": "http://en.wikipedia.org/wiki/Malta"
+            },
+            "target": [
+              11,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "5:3",
+              "wikidata": "http://www.wikidata.org/entity/Q30302686"
+            },
+            "target": [
+              11,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_the_People's_Liberation_Army",
+              "desc": "flag used by the People's Liberation Army, China",
+              "label": "flag of the People's Liberation Army",
+              "wikidata": "http://www.wikidata.org/entity/Q10872945",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_the_People's_Liberation_Army"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "desc": "color",
+              "label": "red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              12,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              12,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height aspect ratio",
+              "label": "5:4",
+              "wikidata": "http://www.wikidata.org/entity/Q20970435"
+            },
+            "target": [
+              12,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": null,
+              "label": "Presidential standards of the Czech Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q11913350"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "desc": "color",
+              "label": "yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              13,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Czech_Republic",
+              "desc": "sovereign state in Central Europe",
+              "label": "Czech Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q213",
+              "wikipedia": "http://en.wikipedia.org/wiki/Czech_Republic"
+            },
+            "target": [
+              13,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "1:1",
+              "wikidata": "http://www.wikidata.org/entity/Q20970430"
+            },
+            "target": [
+              13,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "former flag used by the Deutsche Bundespost in Germany between 1950 and 1994",
+              "label": "flag of Deutsche Bundespost",
+              "wikidata": "http://www.wikidata.org/entity/Q1006483"
+            },
+            "target": [
+              14,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "desc": "color",
+              "label": "red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              14,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weimar_Republic",
+              "desc": "sovereign state in Central Europe",
+              "label": "Germany",
+              "wikidata": "http://www.wikidata.org/entity/Q183",
+              "wikipedia": "http://en.wikipedia.org/wiki/Germany"
+            },
+            "target": [
+              14,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "5:3",
+              "wikidata": "http://www.wikidata.org/entity/Q30302686"
+            },
+            "target": [
+              14,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_the_Armenian_Soviet_Socialist_Republic",
+              "desc": "flag used in the Armenian SSR from 1952 till 1990",
+              "label": "flag of the Armenian Soviet Socialist Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q877603",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_the_Armenian_Soviet_Socialist_Republic"
+            },
+            "target": [
+              15,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "desc": "color; additive and subtractive (RYB) primary color; visible between purple and green",
+              "label": "blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              15,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Armenian_Soviet_Socialist_Republic",
+              "desc": "union republic of the Soviet Union",
+              "label": "Armenian Soviet Socialist Republic",
+              "wikidata": "http://www.wikidata.org/entity/Q132856",
+              "wikipedia": "http://en.wikipedia.org/wiki/Armenian_Soviet_Socialist_Republic"
+            },
+            "target": [
+              15,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height aspect ratio",
+              "label": "2:1",
+              "wikidata": "http://www.wikidata.org/entity/Q30302657"
+            },
+            "target": [
+              15,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Piedmont",
+              "desc": "flag",
+              "label": "flag of Piedmont",
+              "wikidata": "http://www.wikidata.org/entity/Q1094206",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Piedmont"
+            },
+            "target": [
+              16,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "desc": "color; additive and subtractive (RYB) primary color; visible between purple and green",
+              "label": "blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              16,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Italy",
+              "desc": "sovereign state in southern Europe",
+              "label": "Italy",
+              "wikidata": "http://www.wikidata.org/entity/Q38",
+              "wikipedia": "http://en.wikipedia.org/wiki/Italy"
+            },
+            "target": [
+              16,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              16,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Transnistria",
+              "desc": "de facto unrecognized state in Eastern Europe that has declared independence from Moldova",
+              "label": "Transnistria",
+              "wikidata": "http://www.wikidata.org/entity/Q907112",
+              "wikipedia": "http://en.wikipedia.org/wiki/Transnistria"
+            },
+            "target": [
+              17,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green",
+              "desc": "color; additive primary color; visible between blue and yellow",
+              "label": "green",
+              "wikidata": "http://www.wikidata.org/entity/Q3133",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green"
+            },
+            "target": [
+              17,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Moldova",
+              "desc": "sovereign state in southeastern Europe",
+              "label": "Moldova",
+              "wikidata": "http://www.wikidata.org/entity/Q217",
+              "wikipedia": "http://en.wikipedia.org/wiki/Moldova"
+            },
+            "target": [
+              17,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height aspect ratio",
+              "label": "2:1",
+              "wikidata": "http://www.wikidata.org/entity/Q30302657"
+            },
+            "target": [
+              17,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Crimea",
+              "desc": "official flag of the Autonomous Republic of Crimea, Ukraine",
+              "label": "flag of Crimea",
+              "wikidata": "http://www.wikidata.org/entity/Q225489",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Crimea"
+            },
+            "target": [
+              18,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Blue",
+              "desc": "color; additive and subtractive (RYB) primary color; visible between purple and green",
+              "label": "blue",
+              "wikidata": "http://www.wikidata.org/entity/Q1088",
+              "wikipedia": "http://en.wikipedia.org/wiki/Blue"
+            },
+            "target": [
+              18,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Russia",
+              "desc": "sovereign state in Eastern Europe and Northern Asia",
+              "label": "Russia",
+              "wikidata": "http://www.wikidata.org/entity/Q159",
+              "wikipedia": "http://en.wikipedia.org/wiki/Russia"
+            },
+            "target": [
+              18,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height aspect ratio",
+              "label": "2:1",
+              "wikidata": "http://www.wikidata.org/entity/Q30302657"
+            },
+            "target": [
+              18,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Guernsey",
+              "desc": "flag",
+              "label": "flag of Guernsey",
+              "wikidata": "http://www.wikidata.org/entity/Q158591",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Guernsey"
+            },
+            "target": [
+              19,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Red",
+              "desc": "color",
+              "label": "red",
+              "wikidata": "http://www.wikidata.org/entity/Q3142",
+              "wikipedia": "http://en.wikipedia.org/wiki/Red"
+            },
+            "target": [
+              19,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Guernsey",
+              "desc": "British Crown dependency comprised of several islands",
+              "label": "Guernsey",
+              "wikidata": "http://www.wikidata.org/entity/Q25230",
+              "wikipedia": "http://en.wikipedia.org/wiki/Bailiwick_of_Guernsey"
+            },
+            "target": [
+              19,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              19,
+              3
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Flag_of_Saba",
+              "desc": "flag",
+              "label": "flag of Saba",
+              "wikidata": "http://www.wikidata.org/entity/Q429900",
+              "wikipedia": "http://en.wikipedia.org/wiki/Flag_of_Saba"
+            },
+            "target": [
+              20,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Yellow",
+              "desc": "color",
+              "label": "yellow",
+              "wikidata": "http://www.wikidata.org/entity/Q943",
+              "wikipedia": "http://en.wikipedia.org/wiki/Yellow"
+            },
+            "target": [
+              20,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kingdom_of_the_Netherlands",
+              "desc": "country in western Europe, part of the Kingdom of the Netherlands",
+              "label": "Netherlands",
+              "wikidata": "http://www.wikidata.org/entity/Q55",
+              "wikipedia": "http://en.wikipedia.org/wiki/Netherlands"
+            },
+            "target": [
+              20,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "width to height ratio",
+              "label": "3:2",
+              "wikidata": "http://www.wikidata.org/entity/Q20970431"
+            },
+            "target": [
+              20,
+              3
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "color of subject",
+                "label": "color",
+                "wikidata": "http://www.wikidata.org/prop/direct/P462"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "sovereign state of this item (not to be used for human beings)",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/prop/direct/P17"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "image width to height ratio of films, photographs, and other images",
+                "label": "aspect ratio",
+                "wikidata": "http://www.wikidata.org/prop/direct/P2061"
+              }
+            ],
+            "target": [
+              0,
+              3
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Flag",
+                "desc": "piece of fabric with a distinctive design, used as a symbol",
+                "label": "flag",
+                "wikidata": "http://www.wikidata.org/entity/Q14660",
+                "wikipedia": "http://en.wikipedia.org/wiki/Flag"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Color",
+                "desc": "visual perception of light wavelengths",
+                "label": "color",
+                "wikidata": "http://www.wikidata.org/entity/Q1075",
+                "wikipedia": "http://en.wikipedia.org/wiki/Color"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "desc": "arithmetic relationship between the width and height of a geometric figure",
+                "label": "width to height ratio",
+                "wikidata": "http://www.wikidata.org/entity/Q20970434"
+              }
+            ],
+            "target": 3
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 84,
+        "columns": 4,
+        "core_attribute": 0,
+        "encoding": "utf-8",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 21,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "flag of Úbeda",
+          "garnet",
+          "Spain",
+          "5:3"
+        ],
+        [
+          "flag of Czechoslovakia",
+          "blue",
+          "Czechoslovakia",
+          "3:2"
+        ],
+        [
+          "Flag of Chachapoyas",
+          "yellow",
+          "Peru",
+          "3:2"
+        ],
+        [
+          "Russian Navy Ensign",
+          "blue",
+          "Russia",
+          "3:2"
+        ],
+        [
+          "flag of Peñamellera Baja",
+          "yellow",
+          "Spain",
+          "3:2"
+        ],
+        [
+          "Flag of Gran Canaria",
+          "yellow",
+          "Spain",
+          "3:2"
+        ],
+        [
+          "flag of Mieres (Asturies)",
+          "yellow",
+          "Spain",
+          "3:2"
+        ],
+        [
+          "Flag of Fuerteventura",
+          "green",
+          "Spain",
+          "3:2"
+        ],
+        [
+          "Flag of Lanzarote",
+          "blue",
+          "Spain",
+          "3:2"
+        ],
+        [
+          "flag of the Weimar Republic",
+          "red",
+          "Weimar Republic",
+          "3:2"
+        ],
+        [
+          "flag of Għaxaq",
+          "green",
+          "Malta",
+          "5:3"
+        ],
+        [
+          "flag of the People's Liberation Army",
+          "red",
+          "People's Republic of China",
+          "5:4"
+        ],
+        [
+          "Presidential standards of the Czech Republic",
+          "yellow",
+          "Czech Republic",
+          "1:1"
+        ],
+        [
+          "flag of Deutsche Bundespost",
+          "red",
+          "Germany",
+          "5:3"
+        ],
+        [
+          "flag of the Armenian Soviet Socialist Republic",
+          "blue",
+          "Armenian Soviet Socialist Republic",
+          "2:1"
+        ],
+        [
+          "flag of Piedmont",
+          "blue",
+          "Italy",
+          "3:2"
+        ],
+        [
+          "Flag of Pridnestrovie",
+          "green",
+          "Moldova",
+          "2:1"
+        ],
+        [
+          "flag of Crimea",
+          "blue",
+          "Russia",
+          "2:1"
+        ],
+        [
+          "flag of Guernsey",
+          "red",
+          "Guernsey",
+          "3:2"
+        ],
+        [
+          "flag of Saba",
+          "yellow",
+          "Netherlands",
+          "3:2"
+        ]
+      ]
+    },
+    {
+      "name": "ND6V1CBE",
+      "run_time": 4.478101015090942,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Elvis_Presley",
+              "desc": "American singer and actor (1935–1977)",
+              "label": "Elvis Presley",
+              "wikidata": "http://www.wikidata.org/entity/Q303",
+              "wikipedia": "http://en.wikipedia.org/wiki/Elvis_Presley"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Tupelo,_Mississippi",
+              "desc": "city in and county seat of Lee County, Mississippi, United States",
+              "label": "Tupelo",
+              "wikidata": "http://www.wikidata.org/entity/Q667727",
+              "wikipedia": "http://en.wikipedia.org/wiki/Tupelo,_Mississippi"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Chairman_of_the_Board_(film)",
+              "desc": "1998 comedy film directed by Alex Zamm",
+              "label": "Chairman of the Board",
+              "wikidata": "http://www.wikidata.org/entity/Q5068089",
+              "wikipedia": "http://en.wikipedia.org/wiki/Chairman_of_the_Board_(film)"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Les_Aspres",
+              "desc": "city in Hudson County, New Jersey",
+              "label": "Hoboken",
+              "wikidata": "http://www.wikidata.org/entity/Q138578",
+              "wikipedia": "http://en.wikipedia.org/wiki/Hoboken,_New_Jersey"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Piano_Man_(Billy_Joel_album)",
+              "desc": "album by Billy Joel",
+              "label": "Piano Man",
+              "wikidata": "http://www.wikidata.org/entity/Q1646081",
+              "wikipedia": "http://en.wikipedia.org/wiki/Piano_Man_(Billy_Joel_album)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/The_Bronx",
+              "desc": "borough of New York City, United States",
+              "label": "The Bronx",
+              "wikidata": "http://www.wikidata.org/entity/Q18426",
+              "wikipedia": "http://en.wikipedia.org/wiki/The_Bronx"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Cootie_Stark",
+              "desc": "American Piedmont blues guitarist, singer and songwriter",
+              "label": "Cootie Stark",
+              "wikidata": "http://www.wikidata.org/entity/Q5168121",
+              "wikipedia": "http://en.wikipedia.org/wiki/Cootie_Stark"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Berclair,_Mississippi",
+              "desc": "unincoporated community in Leflore County, Mississippi",
+              "label": "Berclair",
+              "wikidata": "http://www.wikidata.org/entity/Q4891112",
+              "wikipedia": "http://en.wikipedia.org/wiki/Berclair,_Mississippi"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/The_Boss_(Diana_Ross_song)",
+              "desc": "song by Diana Ross",
+              "label": "The Boss",
+              "wikidata": "http://www.wikidata.org/entity/Q3520065",
+              "wikipedia": "http://en.wikipedia.org/wiki/The_Boss_(Diana_Ross_song)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Long_Branch,_New_Jersey",
+              "desc": "city in New Jersey, United States",
+              "label": "Long Branch",
+              "wikidata": "http://www.wikidata.org/entity/Q995231",
+              "wikipedia": "http://en.wikipedia.org/wiki/Long_Branch,_New_Jersey"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/The_Beatles",
+              "desc": "English pop-rock band",
+              "label": "The Beatles",
+              "wikidata": "http://www.wikidata.org/entity/Q1299",
+              "wikipedia": "http://en.wikipedia.org/wiki/The_Beatles"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "South Korean boy band",
+              "label": "Trei",
+              "wikidata": "http://www.wikidata.org/entity/Q61608034",
+              "wikipedia": "http://en.wikipedia.org/wiki/Trei"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Johnny_Cash",
+              "desc": "American singer-songwriter and actor (1932-2003)",
+              "label": "Johnny Cash",
+              "wikidata": "http://www.wikidata.org/entity/Q42775",
+              "wikipedia": "http://en.wikipedia.org/wiki/Johnny_Cash"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kingsland,_Arkansas",
+              "desc": "city in Arkansas, USA",
+              "label": "Kingsland",
+              "wikidata": "http://www.wikidata.org/entity/Q79417",
+              "wikipedia": "http://en.wikipedia.org/wiki/Kingsland,_Arkansas"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Martian_Successor_Nadesico:_The_Motion_Picture_–_Prince_of_Darkness",
+              "desc": "1998 film by Tatsuo Satō",
+              "label": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+              "wikidata": "http://www.wikidata.org/entity/Q706746",
+              "wikipedia": "http://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_–_Prince_of_Darkness"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aston",
+              "desc": "area within the city of Birmingham",
+              "label": "Aston",
+              "wikidata": "http://www.wikidata.org/entity/Q649838",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aston"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/John_Entwistle",
+              "desc": "English musician, singer-songwriter and record producer, bassist for The Who",
+              "label": "John Entwistle",
+              "wikidata": "http://www.wikidata.org/entity/Q215835",
+              "wikipedia": "http://en.wikipedia.org/wiki/John_Entwistle"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aston",
+              "desc": "area within the city of Birmingham",
+              "label": "Aston",
+              "wikidata": "http://www.wikidata.org/entity/Q649838",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aston"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Aretha_Franklin",
+              "desc": "American singer, songwriter, and pianist",
+              "label": "Aretha Franklin",
+              "wikidata": "http://www.wikidata.org/entity/Q125121",
+              "wikipedia": "http://en.wikipedia.org/wiki/Aretha_Franklin"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Memphis,_Tennessee",
+              "desc": "county seat of Shelby County, Tennessee, United States",
+              "label": "Memphis",
+              "wikidata": "http://www.wikidata.org/entity/Q16563",
+              "wikipedia": "http://en.wikipedia.org/wiki/Memphis,_Tennessee"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Louis_Armstrong",
+              "desc": "American jazz trumpeter, composer and singer",
+              "label": "Louis Armstrong",
+              "wikidata": "http://www.wikidata.org/entity/Q1779",
+              "wikipedia": "http://en.wikipedia.org/wiki/Louis_Armstrong"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_Orleans",
+              "desc": "city; consolidated city-parish in Louisiana, United States. Use Q486231 for the city-parish",
+              "label": "New Orleans",
+              "wikidata": "http://www.wikidata.org/entity/Q34404",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Orleans"
+            },
+            "target": [
+              11,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Michael_Jackson",
+              "desc": "American recording artist; singer and songwriter (1958-2009)",
+              "label": "Michael Jackson",
+              "wikidata": "http://www.wikidata.org/entity/Q2831",
+              "wikipedia": "http://en.wikipedia.org/wiki/Michael_Jackson"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Gary,_Indiana",
+              "desc": "city in Lake County, Indiana, United States",
+              "label": "Gary",
+              "wikidata": "http://www.wikidata.org/entity/Q184116",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gary,_Indiana"
+            },
+            "target": [
+              12,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Eric_Clapton",
+              "desc": "English musician, singer, songwriter, and guitarist",
+              "label": "Eric Clapton",
+              "wikidata": "http://www.wikidata.org/entity/Q48187",
+              "wikipedia": "http://en.wikipedia.org/wiki/Eric_Clapton"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ripley,_Surrey",
+              "desc": "village and civil parish in Surrey, England, UK",
+              "label": "Ripley",
+              "wikidata": "http://www.wikidata.org/entity/Q2337139",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ripley,_Surrey"
+            },
+            "target": [
+              13,
+              1
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",
+                "label": "place of birth",
+                "wikidata": "http://www.wikidata.org/prop/direct/P19"
+              }
+            ],
+            "target": [
+              0,
+              1
+            ]
+          },
+          {
+            "annotation": [
+              {
+                "desc": "date on which the subject was born",
+                "label": "date of birth",
+                "wikidata": "http://www.wikidata.org/prop/direct/P569"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 0
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Human_settlement",
+                "desc": "community of any size, in which people live",
+                "label": "human settlement",
+                "wikidata": "http://www.wikidata.org/entity/Q486972",
+                "wikipedia": "http://en.wikipedia.org/wiki/Human_settlement"
+              }
+            ],
+            "target": 1
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 3,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 14,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2"
+        ],
+        [
+          "The King of Rock 'n' Roll",
+          "Tupelo",
+          "1958-8-29"
+        ],
+        [
+          "Chairman of the Board",
+          "Hoboken",
+          "1935-1-8"
+        ],
+        [
+          "Piano Man",
+          "The Bronx",
+          "1949-05-09"
+        ],
+        [
+          "The King of the Blues",
+          "Berclair",
+          "1925-9-16"
+        ],
+        [
+          "The Boss",
+          "Long Branch",
+          "1949-9-23"
+        ],
+        [
+          "The Fab Four",
+          "Trei yiuh",
+          "---"
+        ],
+        [
+          "The Man in Black",
+          "Kingsland",
+          "1932-2-26"
+        ],
+        [
+          "The Prince of Darkness",
+          "Aston",
+          "1948-12-03"
+        ],
+        [
+          "The Oz",
+          "Aston",
+          "1948-12-3"
+        ],
+        [
+          "The Queen of Soul",
+          "Memphis",
+          "1942-03-25"
+        ],
+        [
+          "Satchmo",
+          "New Orleans",
+          "1901-8-4"
+        ],
+        [
+          "The King of Pop",
+          "Gary",
+          "1958-8-29"
+        ],
+        [
+          "Slowhand",
+          "Ripley",
+          "1945-03-30"
+        ]
+      ]
+    },
+    {
+      "name": "OUL0NHS5",
+      "run_time": 2.5580248832702637,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Walmart",
+              "desc": "U.S. discount retailer based in Arkansas",
+              "label": "Walmart",
+              "wikidata": "http://www.wikidata.org/entity/Q483551",
+              "wikipedia": "http://en.wikipedia.org/wiki/Walmart"
+            },
+            "target": [
+              1,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              1,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_National_Petroleum_Corporation",
+              "desc": "Chinese state-owned oil and gas corporation",
+              "label": "China National Petroleum Corporation",
+              "wikidata": "http://www.wikidata.org/entity/Q588786",
+              "wikipedia": "http://en.wikipedia.org/wiki/China_National_Petroleum_Corporation"
+            },
+            "target": [
+              2,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              2,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_Post",
+              "desc": "Chinese state-owned postal services company",
+              "label": "China Post",
+              "wikidata": "http://www.wikidata.org/entity/Q1066476",
+              "wikipedia": "http://en.wikipedia.org/wiki/China_Post"
+            },
+            "target": [
+              3,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China_(region)",
+              "desc": "cultural region, ancient civilization, and nation in East Asia, divided politically into the People's Republic of China (mainland) and the Republic of China (Taiwan)",
+              "label": "China",
+              "wikidata": "http://www.wikidata.org/entity/Q29520"
+            },
+            "target": [
+              3,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/State_Grid_Corporation_of_China",
+              "desc": "Chinese transmission system operator",
+              "label": "State Grid Corporation of China",
+              "wikidata": "http://www.wikidata.org/entity/Q209078",
+              "wikipedia": "http://en.wikipedia.org/wiki/State_Grid_Corporation_of_China"
+            },
+            "target": [
+              4,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              4,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Foxconn",
+              "desc": "Taiwanese multinational electronics contract manufacturing trading as Foxconn",
+              "label": "Foxconn",
+              "wikidata": "http://www.wikidata.org/entity/Q463094",
+              "wikipedia": "http://en.wikipedia.org/wiki/Foxconn"
+            },
+            "target": [
+              5,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Taiwan",
+              "desc": "A democratic republic in East Asia with limited recognition",
+              "label": "Taiwan",
+              "wikidata": "http://www.wikidata.org/entity/Q865",
+              "wikipedia": "http://en.wikipedia.org/wiki/Taiwan"
+            },
+            "target": [
+              5,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Volkswagen",
+              "desc": "automotive brand; manufacturing subsidiary of Volkswagen Group",
+              "label": "Volkswagen",
+              "wikidata": "http://www.wikidata.org/entity/Q246",
+              "wikipedia": "http://en.wikipedia.org/wiki/Volkswagen"
+            },
+            "target": [
+              6,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Weimar_Republic",
+              "desc": "sovereign state in Central Europe",
+              "label": "Germany",
+              "wikidata": "http://www.wikidata.org/entity/Q183",
+              "wikipedia": "http://en.wikipedia.org/wiki/Germany"
+            },
+            "target": [
+              6,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Amazon_(company)",
+              "desc": "American electronic commerce and cloud computing company",
+              "label": "Amazon",
+              "wikidata": "http://www.wikidata.org/entity/Q3884",
+              "wikipedia": "http://en.wikipedia.org/wiki/Amazon_(company)"
+            },
+            "target": [
+              7,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              7,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Sinopec",
+              "desc": "Chinese oil and gas company",
+              "label": "Sinopec",
+              "wikidata": "http://www.wikidata.org/entity/Q831445",
+              "wikipedia": "http://en.wikipedia.org/wiki/Sinopec"
+            },
+            "target": [
+              8,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/China",
+              "desc": "sovereign state in East Asia",
+              "label": "People's Republic of China",
+              "wikidata": "http://www.wikidata.org/entity/Q148",
+              "wikipedia": "http://en.wikipedia.org/wiki/China"
+            },
+            "target": [
+              8,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Compass_Group",
+              "desc": "company",
+              "label": "Compass Group",
+              "wikidata": "http://www.wikidata.org/entity/Q782697",
+              "wikipedia": "http://en.wikipedia.org/wiki/Compass_Group"
+            },
+            "target": [
+              9,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Great_Britain",
+              "desc": "country in Western Europe",
+              "label": "United Kingdom",
+              "wikidata": "http://www.wikidata.org/entity/Q145",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_Kingdom"
+            },
+            "target": [
+              9,
+              2
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States_Postal_Service",
+              "desc": "independent agency of the U.S. federal government responsible for providing postal service",
+              "label": "United States Postal Service",
+              "wikidata": "http://www.wikidata.org/entity/Q668687",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States_Postal_Service"
+            },
+            "target": [
+              10,
+              1
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/United_States",
+              "desc": "sovereign state in North America",
+              "label": "United States of America",
+              "wikidata": "http://www.wikidata.org/entity/Q30",
+              "wikipedia": "http://en.wikipedia.org/wiki/United_States"
+            },
+            "target": [
+              10,
+              2
+            ]
+          }
+        ],
+        "cpa": [
+          {
+            "annotation": [
+              {
+                "desc": "sovereign state of this item (not to be used for human beings)",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/prop/direct/P17"
+              }
+            ],
+            "target": [
+              0,
+              2
+            ]
+          }
+        ],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Organization",
+                "desc": "social entity (not necessarily commercial) uniting people into a structured group managing shared means to meet some needs, or to pursue collective goals",
+                "label": "organization",
+                "wikidata": "http://www.wikidata.org/entity/Q43229",
+                "wikipedia": "http://en.wikipedia.org/wiki/Organization"
+              },
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              }
+            ],
+            "target": 1
+          },
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/Country",
+                "desc": "distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics",
+                "label": "country",
+                "wikidata": "http://www.wikidata.org/entity/Q6256",
+                "wikipedia": "http://en.wikipedia.org/wiki/Country"
+              }
+            ],
+            "target": 2
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 44,
+        "columns": 4,
+        "core_attribute": 1,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 1,
+        "rows": 11,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3"
+        ],
+        [
+          "1",
+          "Walmart",
+          "United States",
+          "2,200,000"
+        ],
+        [
+          "2",
+          "China National Petroleum",
+          "China",
+          "1,382,401"
+        ],
+        [
+          "3",
+          "China Post Group",
+          "China",
+          "935,191"
+        ],
+        [
+          "4",
+          "State Grid",
+          "China",
+          "917,717"
+        ],
+        [
+          "5",
+          "Hon Hai Precision Industry (Foxconn)",
+          "Taiwan",
+          "667,680"
+        ],
+        [
+          "6",
+          "Volkswagen",
+          "Germany",
+          "664,496"
+        ],
+        [
+          "7",
+          "Amazon",
+          "United States",
+          "647,500"
+        ],
+        [
+          "8",
+          "Sinopec Group",
+          "China",
+          "619,151"
+        ],
+        [
+          "9",
+          "Compass Group",
+          "United Kingdom",
+          "595,841"
+        ],
+        [
+          "10",
+          "United States Postal Service",
+          "United States",
+          "565,802"
+        ]
+      ]
+    },
+    {
+      "name": "XZRRL5AE",
+      "run_time": 0.8076927661895752,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Conservatism",
+              "desc": "political philosophy focused on retaining traditional social institutions",
+              "label": "conservatism",
+              "wikidata": "http://www.wikidata.org/entity/Q7169",
+              "wikipedia": "http://en.wikipedia.org/wiki/Conservatism"
+            },
+            "target": [
+              1,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "labour economics and industrial relations journal",
+              "label": "Labour",
+              "wikidata": "http://www.wikidata.org/entity/Q15765982"
+            },
+            "target": [
+              2,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Liberal_Democrats_(UK)",
+              "desc": "political party in the United Kingdom",
+              "label": "Liberal Democrats",
+              "wikidata": "http://www.wikidata.org/entity/Q9624",
+              "wikipedia": "http://en.wikipedia.org/wiki/Liberal_Democrats_(UK)"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "desc": "airport in Brazil",
+              "label": "Nilo Pecanha Airport",
+              "wikidata": "http://www.wikidata.org/entity/Q20457815"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/PC_(footballer)",
+              "desc": "Brazilian footballer",
+              "label": "PC",
+              "wikidata": "http://www.wikidata.org/entity/Q20641299",
+              "wikipedia": "http://en.wikipedia.org/wiki/PC_(footballer)"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Green_(disambiguation)",
+              "desc": "Wikimedia disambiguation page",
+              "label": "Green",
+              "wikidata": "http://www.wikidata.org/entity/Q223932",
+              "wikipedia": "http://en.wikipedia.org/wiki/Green_(disambiguation)"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/BNPP",
+              "desc": "Wikimedia disambiguation page",
+              "label": "BNPP",
+              "wikidata": "http://www.wikidata.org/entity/Q796825",
+              "wikipedia": "http://en.wikipedia.org/wiki/BNPP"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/SKIP",
+              "desc": "protein-coding gene in the species Homo sapiens",
+              "label": "INPP5K",
+              "wikidata": "http://www.wikidata.org/entity/Q18040568",
+              "wikipedia": "http://en.wikipedia.org/wiki/SKIP"
+            },
+            "target": [
+              8,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "desc": "individual and identifiable entity capable of performing actions",
+                "label": "agent",
+                "wikidata": "http://www.wikidata.org/entity/Q24229398"
+              },
+              {
+                "desc": "Wikimedia page that lists different meanings for the same string",
+                "label": "Wikimedia disambiguation page",
+                "wikidata": "http://www.wikidata.org/entity/Q4167410",
+                "wikipedia": "http://en.wikipedia.org/wiki/Wikipedia:Disambiguation"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 5,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0
+        ],
+        "r_cells": 0.9333333333333333,
+        "rows": 9,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0",
+          "col1",
+          "col2",
+          "col3",
+          "col4"
+        ],
+        [
+          "Conservativee",
+          "8,895,066",
+          "37.3",
+          "254",
+          "34"
+        ],
+        [
+          "LLabour",
+          "9,199,875",
+          "38.6",
+          "291",
+          "34"
+        ],
+        [
+          "Lib-Demm",
+          "2,519,729",
+          "10.6",
+          "37",
+          "8"
+        ],
+        [
+          "SNNP",
+          "1,004,774",
+          "4.2",
+          "42",
+          ""
+        ],
+        [
+          "PC",
+          "313,433",
+          "1.3",
+          "7",
+          ""
+        ],
+        [
+          "Green",
+          "1,785,516",
+          "7.5",
+          "1",
+          "6"
+        ],
+        [
+          "BNPP",
+          "112,864",
+          "0.5",
+          "0",
+          ""
+        ],
+        [
+          "UKIP",
+          "3,282,872",
+          "13.8",
+          "0",
+          "14"
+        ]
+      ]
+    },
+    {
+      "name": "Z4M8AT89",
+      "run_time": 2.8607120513916016,
+      "semantic": {
+        "cea": [
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Arizona",
+              "desc": "state of the United States of America",
+              "label": "Arizona",
+              "wikidata": "http://www.wikidata.org/entity/Q816",
+              "wikipedia": "http://en.wikipedia.org/wiki/Arizona"
+            },
+            "target": [
+              3,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/California",
+              "desc": "state of the United States of America",
+              "label": "California",
+              "wikidata": "http://www.wikidata.org/entity/Q99",
+              "wikipedia": "http://en.wikipedia.org/wiki/California"
+            },
+            "target": [
+              4,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Colorado",
+              "desc": "state of the United States of America",
+              "label": "Colorado",
+              "wikidata": "http://www.wikidata.org/entity/Q1261",
+              "wikipedia": "http://en.wikipedia.org/wiki/Colorado"
+            },
+            "target": [
+              5,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Connecticut",
+              "desc": "state in the northeastern United States",
+              "label": "Connecticut",
+              "wikidata": "http://www.wikidata.org/entity/Q779",
+              "wikipedia": "http://en.wikipedia.org/wiki/Connecticut"
+            },
+            "target": [
+              6,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Delaware",
+              "desc": "state of the United States of America",
+              "label": "Delaware",
+              "wikidata": "http://www.wikidata.org/entity/Q1393",
+              "wikipedia": "http://en.wikipedia.org/wiki/Delaware"
+            },
+            "target": [
+              7,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Florida,_Cuba",
+              "desc": "state in the southeastern United States",
+              "label": "Florida",
+              "wikidata": "http://www.wikidata.org/entity/Q812",
+              "wikipedia": "http://en.wikipedia.org/wiki/Florida"
+            },
+            "target": [
+              8,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Georgia_(U.S._state)",
+              "desc": "state in the southeastern United States",
+              "label": "Georgia",
+              "wikidata": "http://www.wikidata.org/entity/Q1428",
+              "wikipedia": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+            },
+            "target": [
+              9,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Hawaii",
+              "desc": "state of the United States of America, located on an archipelago in the Pacific Ocean",
+              "label": "Hawaii",
+              "wikidata": "http://www.wikidata.org/entity/Q782",
+              "wikipedia": "http://en.wikipedia.org/wiki/Hawaii"
+            },
+            "target": [
+              10,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Idaho",
+              "desc": "state of the United States of America",
+              "label": "Idaho",
+              "wikidata": "http://www.wikidata.org/entity/Q1221",
+              "wikipedia": "http://en.wikipedia.org/wiki/Idaho"
+            },
+            "target": [
+              11,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Illinois_(band)",
+              "desc": "state of the United States of America",
+              "label": "Illinois",
+              "wikidata": "http://www.wikidata.org/entity/Q1204",
+              "wikipedia": "http://en.wikipedia.org/wiki/Illinois"
+            },
+            "target": [
+              12,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Iowa",
+              "desc": "midwestern state in the United States",
+              "label": "Iowa",
+              "wikidata": "http://www.wikidata.org/entity/Q1546",
+              "wikipedia": "http://en.wikipedia.org/wiki/Iowa"
+            },
+            "target": [
+              13,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Kentucky",
+              "desc": "state of the United States of America",
+              "label": "Kentucky",
+              "wikidata": "http://www.wikidata.org/entity/Q1603",
+              "wikipedia": "http://en.wikipedia.org/wiki/Kentucky"
+            },
+            "target": [
+              14,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Louisiana_(New_France)",
+              "desc": "state in the southern United States",
+              "label": "Louisiana",
+              "wikidata": "http://www.wikidata.org/entity/Q1588",
+              "wikipedia": "http://en.wikipedia.org/wiki/Louisiana"
+            },
+            "target": [
+              15,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Maine",
+              "desc": "state of the United States of America",
+              "label": "Maine",
+              "wikidata": "http://www.wikidata.org/entity/Q724",
+              "wikipedia": "http://en.wikipedia.org/wiki/Maine"
+            },
+            "target": [
+              16,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Maryland",
+              "desc": "state of the United States of America",
+              "label": "Maryland",
+              "wikidata": "http://www.wikidata.org/entity/Q1391",
+              "wikipedia": "http://en.wikipedia.org/wiki/Maryland"
+            },
+            "target": [
+              17,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Massachusetts",
+              "desc": "state of the United States of America",
+              "label": "Massachusetts",
+              "wikidata": "http://www.wikidata.org/entity/Q771",
+              "wikipedia": "http://en.wikipedia.org/wiki/Massachusetts"
+            },
+            "target": [
+              18,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Michigan",
+              "desc": "state of the United States of America",
+              "label": "Michigan",
+              "wikidata": "http://www.wikidata.org/entity/Q1166",
+              "wikipedia": "http://en.wikipedia.org/wiki/Michigan"
+            },
+            "target": [
+              19,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Minnesota",
+              "desc": "state of the United States of America",
+              "label": "Minnesota",
+              "wikidata": "http://www.wikidata.org/entity/Q1527",
+              "wikipedia": "http://en.wikipedia.org/wiki/Minnesota"
+            },
+            "target": [
+              20,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Mississippi",
+              "desc": "state of the United States of America",
+              "label": "Mississippi",
+              "wikidata": "http://www.wikidata.org/entity/Q1494",
+              "wikipedia": "http://en.wikipedia.org/wiki/Mississippi"
+            },
+            "target": [
+              21,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Nebraska",
+              "desc": "state of the United States of America",
+              "label": "Nebraska",
+              "wikidata": "http://www.wikidata.org/entity/Q1553",
+              "wikipedia": "http://en.wikipedia.org/wiki/Nebraska"
+            },
+            "target": [
+              22,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Nevada",
+              "desc": "state of the United States of America",
+              "label": "Nevada",
+              "wikidata": "http://www.wikidata.org/entity/Q1227",
+              "wikipedia": "http://en.wikipedia.org/wiki/Nevada"
+            },
+            "target": [
+              23,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_Hampshire,_Ohio",
+              "desc": "state of the United States of America",
+              "label": "New Hampshire",
+              "wikidata": "http://www.wikidata.org/entity/Q759",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Hampshire"
+            },
+            "target": [
+              24,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Province_of_New_Jersey",
+              "desc": "state of the United States of America",
+              "label": "New Jersey",
+              "wikidata": "http://www.wikidata.org/entity/Q1408",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Jersey"
+            },
+            "target": [
+              25,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_Mexico",
+              "desc": "state of the United States of America",
+              "label": "New Mexico",
+              "wikidata": "http://www.wikidata.org/entity/Q1522",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_Mexico"
+            },
+            "target": [
+              26,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/New_York_(state)",
+              "desc": "state of the United States of America",
+              "label": "New York",
+              "wikidata": "http://www.wikidata.org/entity/Q1384",
+              "wikipedia": "http://en.wikipedia.org/wiki/New_York_(state)"
+            },
+            "target": [
+              27,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/North_Carolina",
+              "desc": "state of the United States of America",
+              "label": "North Carolina",
+              "wikidata": "http://www.wikidata.org/entity/Q1454",
+              "wikipedia": "http://en.wikipedia.org/wiki/North_Carolina"
+            },
+            "target": [
+              28,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/North_Dakota",
+              "desc": "state of the United States of America",
+              "label": "North Dakota",
+              "wikidata": "http://www.wikidata.org/entity/Q1207",
+              "wikipedia": "http://en.wikipedia.org/wiki/North_Dakota"
+            },
+            "target": [
+              29,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Ohio",
+              "desc": "state of the United States of America",
+              "label": "Ohio",
+              "wikidata": "http://www.wikidata.org/entity/Q1397",
+              "wikipedia": "http://en.wikipedia.org/wiki/Ohio"
+            },
+            "target": [
+              30,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oklahoma,_Pennsylvania",
+              "desc": "state of the United States of America",
+              "label": "Oklahoma",
+              "wikidata": "http://www.wikidata.org/entity/Q1649",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oklahoma"
+            },
+            "target": [
+              31,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Oregon,_Missouri",
+              "desc": "state of the United States of America",
+              "label": "Oregon",
+              "wikidata": "http://www.wikidata.org/entity/Q824",
+              "wikipedia": "http://en.wikipedia.org/wiki/Oregon"
+            },
+            "target": [
+              32,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Pennsylvania",
+              "desc": "state in the northeastern United States",
+              "label": "Pennsylvania",
+              "wikidata": "http://www.wikidata.org/entity/Q1400",
+              "wikipedia": "http://en.wikipedia.org/wiki/Pennsylvania"
+            },
+            "target": [
+              33,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Rhode_Island",
+              "desc": "state on east coast of United States of America",
+              "label": "Rhode Island",
+              "wikidata": "http://www.wikidata.org/entity/Q1387",
+              "wikipedia": "http://en.wikipedia.org/wiki/Rhode_Island"
+            },
+            "target": [
+              34,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/South_Carolina",
+              "desc": "state of the United States of America",
+              "label": "South Carolina",
+              "wikidata": "http://www.wikidata.org/entity/Q1456",
+              "wikipedia": "http://en.wikipedia.org/wiki/South_Carolina"
+            },
+            "target": [
+              35,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/South_Dakota",
+              "desc": "state of the United States of America",
+              "label": "South Dakota",
+              "wikidata": "http://www.wikidata.org/entity/Q1211",
+              "wikipedia": "http://en.wikipedia.org/wiki/South_Dakota"
+            },
+            "target": [
+              36,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Tennessee,_Arkansas",
+              "desc": "state of the United States of America",
+              "label": "Tennessee",
+              "wikidata": "http://www.wikidata.org/entity/Q1509",
+              "wikipedia": "http://en.wikipedia.org/wiki/Tennessee"
+            },
+            "target": [
+              37,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Texas",
+              "desc": "state in the southern United States",
+              "label": "Texas",
+              "wikidata": "http://www.wikidata.org/entity/Q1439",
+              "wikipedia": "http://en.wikipedia.org/wiki/Texas"
+            },
+            "target": [
+              38,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Utah",
+              "desc": "state of the United States of America",
+              "label": "Utah",
+              "wikidata": "http://www.wikidata.org/entity/Q829",
+              "wikipedia": "http://en.wikipedia.org/wiki/Utah"
+            },
+            "target": [
+              39,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Parkersburg,_West_Virginia",
+              "desc": "state of the United States of America",
+              "label": "West Virginia",
+              "wikidata": "http://www.wikidata.org/entity/Q1371",
+              "wikipedia": "http://en.wikipedia.org/wiki/West_Virginia"
+            },
+            "target": [
+              40,
+              0
+            ]
+          },
+          {
+            "annotation": {
+              "dbpedia": "http://dbpedia.org/resource/Wyoming",
+              "desc": "least populous state of the United States of America",
+              "label": "Wyoming",
+              "wikidata": "http://www.wikidata.org/entity/Q1214",
+              "wikipedia": "http://en.wikipedia.org/wiki/Wyoming"
+            },
+            "target": [
+              41,
+              0
+            ]
+          }
+        ],
+        "cpa": [],
+        "cta": [
+          {
+            "annotation": [
+              {
+                "dbpedia": "http://dbpedia.org/resource/U.S._state",
+                "desc": "constituent political entity sharing sovereignty as the United States of America",
+                "label": "state of the United States",
+                "wikidata": "http://www.wikidata.org/entity/Q35657",
+                "wikipedia": "http://en.wikipedia.org/wiki/U.S._state"
+              }
+            ],
+            "target": 0
+          }
+        ]
+      },
+      "status": "Success",
+      "structure": {
+        "cells": 42,
+        "columns": 1,
+        "core_attribute": 0,
+        "encoding": "ascii",
+        "headers": [
+          0,
+          1,
+          2
+        ],
+        "r_cells": 1,
+        "rows": 42,
+        "table type": "vertical relation"
+      },
+      "table_cells": [
+        [
+          "col0"
+        ],
+        [
+          "Alabama"
+        ],
+        [
+          "Alaska"
+        ],
+        [
+          "Arizona"
+        ],
+        [
+          "California"
+        ],
+        [
+          "Colorado"
+        ],
+        [
+          "Connecticut"
+        ],
+        [
+          "Delaware"
+        ],
+        [
+          "Florida"
+        ],
+        [
+          "Georgia"
+        ],
+        [
+          "Hawaii"
+        ],
+        [
+          "Idaho"
+        ],
+        [
+          "Illinois"
+        ],
+        [
+          "Iowa"
+        ],
+        [
+          "Kentucky"
+        ],
+        [
+          "Louisiana"
+        ],
+        [
+          "Maine"
+        ],
+        [
+          "Maryland"
+        ],
+        [
+          "Massachusetts"
+        ],
+        [
+          "Michigan"
+        ],
+        [
+          "Minnesota"
+        ],
+        [
+          "Mississippi"
+        ],
+        [
+          "Nebraska"
+        ],
+        [
+          "Nevada"
+        ],
+        [
+          "New Hampshire"
+        ],
+        [
+          "New Jersey"
+        ],
+        [
+          "New Mexico"
+        ],
+        [
+          "New York"
+        ],
+        [
+          "North Carolina"
+        ],
+        [
+          "North Dakota"
+        ],
+        [
+          "Ohio"
+        ],
+        [
+          "Oklahoma"
+        ],
+        [
+          "Oregon"
+        ],
+        [
+          "Pennsylvania"
+        ],
+        [
+          "Rhode Island"
+        ],
+        [
+          "South Carolina"
+        ],
+        [
+          "South Dakota"
+        ],
+        [
+          "Tennessee"
+        ],
+        [
+          "Texas"
+        ],
+        [
+          "Utah"
+        ],
+        [
+          "West Virginia"
+        ],
+        [
+          "Wyoming"
+        ]
+      ]
+    }
+  ]
+}

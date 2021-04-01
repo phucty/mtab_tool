@@ -73,26 +73,26 @@ Expected Answer:
 
 - SemTab 2020 Round 1 
   
-<img src="../static/images/MTabESSemTabR1.png" height="300" alt="">
+<img src="../static/images/SemTabR1.png" height="350" alt="">
 
 [comment]: <> (![]&#40;../interface/static/images/MTabESSemTabR1.png&#41;)
 - SemTab 2020 Round 2 
 
-<img src="../static/images/MTabESSemTabR2.png" height="300" alt="">
+<img src="../static/images/SemTabR2.png" height="350" alt="">
 
 [comment]: <> (![]&#40;../interface/static/images/MTabESSemTabR2.png&#41;)
 - SemTab 2020 Round 3 
 
-<img src="../static/images/MTabESSemTabR3.png" height="300" alt="">
+<img src="../static/images/SemTabR3.png" height="350" alt="">
 
 [comment]: <> (![]&#40;../interface/static/images/MTabESSemTabR3.png&#41;)
 - SemTab 2020 Round 4 
 
-<img src="../static/images/MTabESSemTabR4.png" height="300" alt="">
+<img src="../static/images/SemTabR4.png" height="350" alt="">
 
 [comment]: <> (![]&#40;../interface/static/images/MTabESSemTabR4.png&#41;)
 - Tough Tables 
 
-<img src="../static/images/MTabESSemTab2T.png" height="300" alt="">
+<img src="../static/images/SemTab2T.png" height="350" alt="">
 
 [comment]: <> (![]&#40;../interface/static/images/MTabESSemTab2T.png&#41;)

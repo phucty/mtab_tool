@@ -2,6 +2,11 @@ MTab: Tabular Data Annotation
 ===========
 ---
 
+### News:
+- To be expected: Data analysis, and QA for table data.
+- 2021/06/04 - Address problem of big table annotation. Update annotation limitation: only process 1000 cells of tables as the default setting. But user can adjust the parameter "limit" by adding "?limit=1000" of the API 
+- 2021/02/23 - API is online at https://mtab.app. This API is optimized and running on Mac mini M1. 
+
 ### Features:
 - Semantic Annotation with knowledge graphs: Wikidata, Wikipedia, DBpedia
     - Annotate table cells with entities
@@ -26,6 +31,11 @@ https://mtab.app/api/v1/mtab
 Users can send table files (in CSV, Excel, TSV format) to the tool and get the annotations.
 
 **Note: We do not keep your data. After processing your tables, we will delete your data immediately.**
+
+- Annotation cell limitation: The limitation of table cell annotation is 1000. However, now you can adjust this number by adding your “limit=1000”. Maybe you can change it to 1 million as your need, but it might be take more time to do annotation. For example:
+```bash
+% curl -X POST -F file=@"YOUR_FILE_LOCATION/YOUR_TABLE.xltx" https://mtab.app/api/v1/mtab?limit=1000000
+```
 
 
 ### Annotate a table:

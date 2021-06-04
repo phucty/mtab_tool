@@ -16,7 +16,7 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
 - SemTab 2020 (Round [1](data/semtab/2020/R1.zip), [2](data/semtab/2020/R2.zip), [3](data/semtab/2020/R3.zip), [4](data/semtab/2020/R4.zip)), and [Tough Tables](data/semtab/2020/2T.zip) datasets. We added redirect entities into ground truth for fair evaluation. 
 
 ### References
-- Phuc Nguyen, Ikuya Yamada, Hideaki Takeda, [MTabES: Entity Search with Keyword Search, Fuzzy Search, and Entity Popularities](https://drive.google.com/file/d/10Tl0Qd5gxFSiCsnSjJbvRSUiDXW-Kifn/view?usp=sharing), In JSAI 2021. 
+- Phuc Nguyen, Ikuya Yamada, Hideaki Takeda, [MTabES: Entity Search with Keyword Search, Fuzzy Search, and Entity Popularities](https://drive.google.com/file/d/10Tl0Qd5gxFSiCsnSjJbvRSUiDXW-Kifn/view?usp=sharing), In The 35th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2021. 
   
   [[video](https://drive.google.com/file/d/1gYSP619HcMT-sE6iD3LiQeRtZw9UZTWQ/view?usp=sharing)]
 

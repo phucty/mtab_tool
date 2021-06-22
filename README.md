@@ -4,8 +4,9 @@
 
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 
-### Note:
-All services on the server will be unavailable during the maintenance. We will back at 9:00:pm 22 June 2021 (Tokyo time). Thank you for your waiting
+### Update:
+- 2020/06/22:17:00 - maintenance is done. Enjoy. 
+- 2020/06/22 - All services on the server will be unavailable during the maintenance. We will back at 9:00:pm 22 June 2021 (Tokyo time). Thank you for your waiting
 
 
 ### Demo

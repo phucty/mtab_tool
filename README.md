@@ -37,5 +37,24 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
 - 1st prize at SemTab 2020 (tabular data to Wikidata matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/results.html)
 - 1st prize at SemTab 2019 (tabular data to DBpedia matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/results.html)
 
+### Citing
+
+If you find MTab tool useful in your work, and you want to cite our work, please use the following referencee:
+```
+@inproceedings{2020_mtab4wikidata,
+  author    = {Phuc Nguyen and
+               Ikuya Yamada and
+               Natthawut Kertkeidkachorn and
+               Ryutaro Ichise and
+               Hideaki Takeda},
+  title     = {MTab4Wikidata at SemTab 2020: Tabular Data Annotation with Wikidata},
+  booktitle = {SemTab@ISWC 2020},
+  volume    = {2775},
+  pages     = {86--95},
+  publisher = {CEUR-WS.org},
+  year      = {2020}
+}
+```
+
 ### Contact
 Phuc Nguyen (`phucnt@nii.ac.jp`)

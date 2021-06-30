@@ -5,13 +5,13 @@
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 
 ### Update:
-- 2020/06/22:17:00 - maintenance is done. Enjoy. 
-- 2020/06/22 - All services on the server will be unavailable during the maintenance. We will back at 9:00:pm 22 June 2021 (Tokyo time). Thank you for your waiting
+- 2021/07/01: Update demonstration Video
 
 
 ### Demo
 - Entity Search: https://mtab.app/mtabes
 - Table Annotation: https://mtab.app/mtab
+- Demonstration Video: https://youtu.be/0ibTWeObWaA
 
 ### API usage
 - Entity Search: [MTabES](docs/mtabes.md)
@@ -19,9 +19,12 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
 - Table Annotation: [MTab](docs/mtab.md)
 
 ### Dataset
+
 - SemTab 2020 (Round [1](data/semtab/2020/R1.zip), [2](data/semtab/2020/R2.zip), [3](data/semtab/2020/R3.zip), [4](data/semtab/2020/R4.zip)), and [Tough Tables](data/semtab/2020/2T.zip) datasets. We added redirect entities into ground truth for fair evaluation. 
 
 ### References
+- Phuc Nguyen, Ikuya Yamada, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda, Demonstration of MTab: Tabular Data Annotation with Knowledge Graphs. [[video](https://youtu.be/0ibTWeObWaA)]
+
 - Phuc Nguyen, Hideaki Takeda, MTab: Tabular Data Annotation, NII Open House June 2021. [[video](https://youtu.be/1ByffPp2alg?t=3269)]
 
 - Phuc Nguyen, Ikuya Yamada, Hideaki Takeda, [MTabES: Entity Search with Keyword Search, Fuzzy Search, and Entity Popularities](https://drive.google.com/file/d/10Tl0Qd5gxFSiCsnSjJbvRSUiDXW-Kifn/view?usp=sharing), In The 35th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2021. [[video](https://drive.google.com/file/d/1gYSP619HcMT-sE6iD3LiQeRtZw9UZTWQ/view?usp=sharing)]

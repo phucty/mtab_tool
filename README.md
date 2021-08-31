@@ -4,8 +4,8 @@
 
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 
-### Update:
-- 2021/07/01: Update demonstration video https://youtu.be/0ibTWeObWaA
+### Note:
+We are going to update the system to the dump data of 20210701 (could work for SemTab 2021). All services on the server will be unavailable during the maintenance. MTab will online at 9:00:pm 1 September 2021 (Tokyo time). Thank you for your waiting
 
 
 ### Demo

@@ -13,7 +13,7 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
     - CPA: 1st
   - Bio Table:
     - CEA: 1st
-    - CTA: 2st
+    - CTA: 2nd
     - CPA: 1st
  
 

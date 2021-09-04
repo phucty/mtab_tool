@@ -4,9 +4,18 @@
 
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 
-### Note:
-We are going to update the system to the dump data of 20210701 (could work for SemTab 2021). All services on the server will be unavailable during the maintenance. MTab will online at 9:00:pm 1 September 2021 (Tokyo time). Thank you for your waiting
-
+### Update:
+- MTab at SemTab 2021: 
+  Results on the HardTable and BioTable dataset on September 4, 2021. [More Detail](https://www.aicrowd.com/challenges/semtab-2021/leaderboards)
+  - Hard Table: 
+    - CEA: 1st 
+    - CTA: 1st
+    - CPA: 1st
+  - Bio Table:
+    - CEA: 1st
+    - CTA: 2st
+    - CPA: 1st
+ 
 
 ### Demo
 - Entity Search: https://mtab.app/mtabes
@@ -38,7 +47,10 @@ We are going to update the system to the dump data of 20210701 (could work for S
   
 ### Awards:
 - 1st prize at SemTab 2020 (tabular data to Wikidata matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/results.html)
+  <img src="static/images/semtab2020.png" height="350" alt="MTab">
+
 - 1st prize at SemTab 2019 (tabular data to DBpedia matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/results.html)
+  <img src="static/images/semtab2019.png" height="350" alt="MTab">
 
 ### Citing
 

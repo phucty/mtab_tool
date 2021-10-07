@@ -5,22 +5,23 @@
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 
 ### Update:
-- MTab at SemTab 2021: 
-  Results on the HardTable and BioTable dataset on September 4, 2021. [More Detail](https://www.aicrowd.com/challenges/semtab-2021/leaderboards)
+- MTab at SemTab 2021: Round 2 dataset. [More Detail](https://www.aicrowd.com/challenges/semtab-2021/leaderboards)
   - Hard Table: 
-    - CEA: 1st 
-    - CTA: 1st
-    - CPA: 1st
+    - CEA: 1st | F1: 0.985 | Precision:	0.985	
+    - CTA: 1st | F1: 0.977 | Precision:	0.977	
+    - CPA: 1st | F1: 0.997 | Precision:	0.998	
   - Bio Table:
-    - CEA: 1st
-    - CTA: 2nd
-    - CPA: 1st
+    - CEA: 2nd | F1: 0.964 | Precision:	0.964	
+    - CTA: 1st | F1: 0.956 | Precision:	1.000	
+    - CPA: 1st | F1: 0.947 | Precision:	1.000	
  
 
 ### Demo
+- Demo (Teaser): https://youtu.be/sr-zxH5JUjw
+- Demonstration Video: https://youtu.be/0ibTWeObWaA
 - Entity Search: https://mtab.app/mtabes
 - Table Annotation: https://mtab.app/mtab
-- Demonstration Video: https://youtu.be/0ibTWeObWaA
+
 
 ### API usage
 - Entity Search: [MTabES](docs/mtabes.md)

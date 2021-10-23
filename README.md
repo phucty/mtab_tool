@@ -27,7 +27,7 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
 - Entity Search: [MTabES](docs/mtabes.md)
   - Request Example: [entity search](api/lookup/m_mtabes.py)
 - Table Annotation: [MTab](docs/mtab.md)
-  - Request Example: [table annotation](api/annotator/m_tabano.py)
+  - Request Example: [table annotation](api/annotator/m_table_annotation.py)
 
 ### Dataset
 

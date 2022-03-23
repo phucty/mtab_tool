@@ -1,14 +1,10 @@
 import os
 from collections import defaultdict
-from contextlib import closing
-from datetime import timedelta
-from time import time, sleep
-from multiprocessing import Pool
+from time import sleep
 
 import requests
-from requests.packages.urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
-from tqdm import tqdm
+from requests.packages.urllib3.util.retry import Retry
 
 from api.utilities import m_iw
 
@@ -90,9 +86,9 @@ def example_table_annotation():
     mtab_api = MTab()
 
     # Table file
-    dir_table = "/Users/phucnguyen/git/mtab_tool/data/semtab/0A2WQW7B.csv"
+    dir_table = "/Users/phucnguyen/github/mtab_tool/data/semtab/0A2WQW7B.csv"
     table_name = os.path.splitext(os.path.basename(dir_table))[0]
-    table_content = m_iw.load_object_csv(dir_table)
+    table_content = m_iw.load_table(dir_table)
 
     # Run 1: Let MTab predict annotation targets
     responds_auto = mtab_api.get_table_annotation(
@@ -130,6 +126,21 @@ def example_table_annotation():
         search_mode="a",
     )
     print(responds)
+
+    # Try excel table
+    # 0AJSJYAL.xltx
+    dir_table = "/Users/phucnguyen/github/mtab_tool/data/semtab/0AJSJYAL.xltx"
+    table_name = os.path.splitext(os.path.basename(dir_table))[0]
+    table_content = m_iw.load_table(dir_table)
+
+    # Run 1: Let MTab predict annotation targets
+    responds_auto = mtab_api.get_table_annotation(
+        table_content,
+        table_name=table_name,
+        predict_target=True,  # Set this is True
+        search_mode="a",
+    )
+    print(responds_auto)
 
 
 if __name__ == "__main__":

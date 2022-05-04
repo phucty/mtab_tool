@@ -1,10 +1,14 @@
 import os
 from collections import defaultdict
-from time import sleep
+from contextlib import closing
+from datetime import timedelta
+from time import time, sleep
+from multiprocessing import Pool
 
 import requests
-from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
+from tqdm import tqdm
 
 from api.utilities import m_iw
 
@@ -68,6 +72,7 @@ class MTab(object):
         tar_cta=None,
         tar_cpa=None,
         search_mode="a",
+        search_limit=50,
     ):
         query_args = {
             "table_name": table_name,
@@ -77,6 +82,7 @@ class MTab(object):
             "tar_cta": tar_cta,
             "tar_cpa": tar_cpa,
             "search_mode": search_mode,
+            "search_limit": search_limit,
         }
         responds = self._request(self.F_MTAB, query_args)
         return responds
@@ -86,7 +92,7 @@ def example_table_annotation():
     mtab_api = MTab()
 
     # Table file
-    dir_table = "/Users/phucnguyen/github/mtab_tool/data/semtab/0A2WQW7B.csv"
+    dir_table = "/Users/phucnguyen/Downloads/0AJSJYAL.xltx"
     table_name = os.path.splitext(os.path.basename(dir_table))[0]
     table_content = m_iw.load_table(dir_table)
 
@@ -96,51 +102,37 @@ def example_table_annotation():
         table_name=table_name,
         predict_target=True,  # Set this is True
         search_mode="a",
+        search_limit=1000,
     )
     print(responds_auto)
 
     # Run 2: provide annotation targets
 
     # Annotation targets
-    tar_cea = [
-        [1, 0],
-        [2, 0],
-        [3, 0],
-        [4, 0],
-        [5, 0],
-        [6, 0],
-        [7, 0],
-        [8, 0],
-        [9, 0],
-        [10, 0],
-    ]
-    tar_cta = [0]
-    tar_cpa = [[0, 1], [0, 2]]
-
-    responds = mtab_api.get_table_annotation(
-        table_content,
-        table_name=table_name,
-        tar_cea=tar_cea,
-        tar_cta=tar_cta,
-        tar_cpa=tar_cpa,
-        search_mode="a",
-    )
-    print(responds)
-
-    # Try excel table
-    # 0AJSJYAL.xltx
-    dir_table = "/Users/phucnguyen/github/mtab_tool/data/semtab/0AJSJYAL.xltx"
-    table_name = os.path.splitext(os.path.basename(dir_table))[0]
-    table_content = m_iw.load_table(dir_table)
-
-    # Run 1: Let MTab predict annotation targets
-    responds_auto = mtab_api.get_table_annotation(
-        table_content,
-        table_name=table_name,
-        predict_target=True,  # Set this is True
-        search_mode="a",
-    )
-    print(responds_auto)
+    # tar_cea = [
+    #     [1, 0],
+    #     [2, 0],
+    #     [3, 0],
+    #     [4, 0],
+    #     [5, 0],
+    #     [6, 0],
+    #     [7, 0],
+    #     [8, 0],
+    #     [9, 0],
+    #     [10, 0],
+    # ]
+    # tar_cta = [0]
+    # tar_cpa = [[0, 1], [0, 2]]
+    #
+    # responds = mtab_api.get_table_annotation(
+    #     table_content,
+    #     table_name=table_name,
+    #     tar_cea=tar_cea,
+    #     tar_cta=tar_cta,
+    #     tar_cpa=tar_cpa,
+    #     search_mode="a",
+    # )
+    # print(responds)
 
 
 if __name__ == "__main__":

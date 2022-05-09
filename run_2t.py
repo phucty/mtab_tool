@@ -490,7 +490,7 @@ def load_resources(
     dir_folder_tables = DIR_TABLES.format(challenge=challenge, data_name=data_name)
 
     # Load tables
-    dir_tables = get_files_from_dir(dir_folder_tables, is_sort=True, reverse=False)
+    dir_tables = get_files_from_dir(dir_folder_tables, is_sort=True, reverse=True)
 
     if table_limit:
         dir_tables = dir_tables[:table_limit]
@@ -683,7 +683,7 @@ if __name__ == "__main__":
         search_limit=100,
         search_expensive=True,
         chunk_size=200,
-        chunk_limit=4,
+        chunk_limit=0,
     )
     scores = score_cea(
         DIR_CEA_GT.format(challenge=challenge, data_name=data_name),

@@ -1,3 +1,4 @@
+import json
 import os
 from collections import defaultdict
 from contextlib import closing
@@ -13,13 +14,14 @@ from tqdm import tqdm
 from api.utilities import m_iw
 
 # Request config
-LIMIT_TIME_OUT = 7200  # 7200 86400
-LIMIT_RETRIES = 5
+LIMIT_TIME_OUT = 7200  # 2h: 7200 - 24h: 86400 -3days:259200
+LIMIT_RETRIES = 3
 
 
 class MTab(object):
     def __init__(self):
         self.F_MTAB = "https://mtab.app/api/v1.1/mtab"
+        # self.F_MTAB = "http://localhost:5000/api/v1.1/mtab"
 
         self.session = requests.Session()
         retries = Retry(
@@ -73,6 +75,7 @@ class MTab(object):
         tar_cpa=None,
         search_mode="a",
         search_limit=50,
+        debug=False,
     ):
         query_args = {
             "table_name": table_name,
@@ -83,6 +86,7 @@ class MTab(object):
             "tar_cpa": tar_cpa,
             "search_mode": search_mode,
             "search_limit": search_limit,
+            "debug": debug,
         }
         responds = self._request(self.F_MTAB, query_args)
         return responds
@@ -93,6 +97,7 @@ def example_table_annotation():
 
     # Table file
     dir_table = "/Users/phucnguyen/Downloads/0AJSJYAL.xltx"
+    # dir_table = f"/Users/phucnguyen/git/dprofile/data/tables/wikitable_1.xlsx"
     table_name = os.path.splitext(os.path.basename(dir_table))[0]
     table_content = m_iw.load_table(dir_table)
 
@@ -101,10 +106,12 @@ def example_table_annotation():
         table_content,
         table_name=table_name,
         predict_target=True,  # Set this is True
-        search_mode="a",
-        search_limit=1000,
+        search_mode="a",  # Using aggregation search
+        search_limit=100,  # candidate entity generation limit
+        debug=True,  # return all candidates, and their confidence scores in CEA tasks
     )
-    print(responds_auto)
+
+    print(json.dumps(responds_auto, indent=2))
 
     # Run 2: provide annotation targets
 

@@ -4,23 +4,11 @@
 
 MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipedia and DBpedia)
 
-### Update:
-- MTab at SemTab 2021: Round 2 dataset. [More Detail](https://www.aicrowd.com/challenges/semtab-2021/leaderboards)
-  - Hard Table: 
-    - CEA: 1st | F1: 0.985 | Precision:	0.985	
-    - CTA: 1st | F1: 0.977 | Precision:	0.977	
-    - CPA: 1st | F1: 0.997 | Precision:	0.998	
-  - Bio Table:
-    - CEA: 2nd | F1: 0.964 | Precision:	0.964	
-    - CTA: 1st | F1: 0.956 | Precision:	1.000	
-    - CPA: 1st | F1: 0.947 | Precision:	1.000	
- 
-
 ### Demo
 - Demo (Teaser): https://youtu.be/sr-zxH5JUjw
 - Demonstration Video: https://youtu.be/0ibTWeObWaA
-- Entity Search: https://mtab.app/mtabes
-- Table Annotation: https://mtab.app/mtab
+- Entity Search: https://mtab.kgraph.jp/mtabes
+- Table Annotation: https://mtab.kgraph.jp/mtab
 
 
 ### API usage
@@ -28,12 +16,19 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
   - Request Example: [entity search](api/lookup/m_mtabes.py)
 - Table Annotation: [MTab](docs/mtab.md)
   - Request Example: [table annotation](api/annotator/m_table_annotation.py)
+- Running Table Annotation on Tough Tables (2T) dataset:
+  - Running Scripts: [run 2t](https://github.com/phucty/mtab_tool/blob/master/run_2t.py)
 
-### Dataset
+### Source code:
+- Development code: https://github.com/phucty/mtab_dev
 
-- SemTab 2020 (Round [1](data/semtab/2020/R1.zip), [2](data/semtab/2020/R2.zip), [3](data/semtab/2020/R3.zip), [4](data/semtab/2020/R4.zip)), and [Tough Tables](data/semtab/2020/2T.zip) datasets. We added redirect entities into ground truth for fair evaluation. 
+### Other works:
+- [MTab4D](https://github.com/phucty/mtab4dbpedia): Table Annotation with DBpedia 
+- [WikiDB](https://github.com/phucty/wikidb): Build a DB (key-value store - LMDB style) from Wikidata dump, offline access Wikidata, fast boolean search
 
 ### References
+- Phuc Nguyen, Ikuya Yamada, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda, SemTab 2021: Tabular Data Annotation with MTab Tool. [[video](https://www.youtube.com/watch?v=j-l3poE0Ktc)]
+
 - Phuc Nguyen, Ikuya Yamada, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda, Demonstration of MTab: Tabular Data Annotation with Knowledge Graphs. [[video](https://youtu.be/0ibTWeObWaA)]
 
 - Phuc Nguyen, Hideaki Takeda, MTab: Tabular Data Annotation, NII Open House June 2021. [[video](https://youtu.be/1ByffPp2alg?t=3269)]
@@ -48,6 +43,11 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
 
   
 ### Awards:
+
+- 1st prize at SemTab 2021 (usability track). [Results](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html#results)
+
+  <img src="static/images/semtab2021.png" height="350" alt="MTab">
+  
 - 1st prize at SemTab 2020 (tabular data to Wikidata matching). [Results](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/results.html)
   <img src="static/images/semtab2020.png" height="350" alt="MTab">
 
@@ -58,20 +58,23 @@ MTab: Entity Search and Table Annotation with Knowledge Graphs (Wikidata, Wikipe
 
 If you find MTab tool useful in your work, and you want to cite our work, please use the following referencee:
 ```
-@inproceedings{2020_mtab4wikidata,
+@inproceedings{2021_mtab4wikidata,
   author    = {Phuc Nguyen and
                Ikuya Yamada and
                Natthawut Kertkeidkachorn and
                Ryutaro Ichise and
                Hideaki Takeda},
-  title     = {MTab4Wikidata at SemTab 2020: Tabular Data Annotation with Wikidata},
-  booktitle = {SemTab@ISWC 2020},
-  volume    = {2775},
-  pages     = {86--95},
+  title     = {SemTab 2021: Tabular Data Annotation with MTab Tool},
+  booktitle = {SemTab@ISWC 2021},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {3103},
+  pages     = {92--101},
   publisher = {CEUR-WS.org},
-  year      = {2020}
+  year      = {2021},
+  url       = {http://ceur-ws.org/Vol-3103/paper8.pdf},
 }
 ```
+
 
 ### Contact
 Phuc Nguyen (`phucnt@nii.ac.jp`)
